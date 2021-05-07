@@ -1,0 +1,6 @@
+{"index": {"_index": "chary"}}
+{"id":978941,"type":"sell","buyer":"wallet-kabil","seller":"phoenixwren","symbol":"CHARY","quantity":"2.000","price":"0.00730000","timestamp":1618780806,"volume":"0.01460000","buyTxId":"634a78365f7bcead2df82c2dd4c4eebfc7c3b07d","sellTxId":"bb26ca16000d941ad1eff11f50a9702e19d6d9ef"}
+{"index": {"_index": "chary"}}
+{"id":981741,"type":"sell","buyer":"wallet-kabil","seller":"luiasa02","symbol":"CHARY","quantity":"17.524","price":"0.00730000","timestamp":1618865259,"volume":"0.12792520","buyTxId":"634a78365f7bcead2df82c2dd4c4eebfc7c3b07d","sellTxId":"6182554a15a33f2b75f98c5eaaeff247776837fd"}
+{"index": {"_index": "chary"}}
+{"id":981756,"type":"sell","buyer":"wallet-kabil","seller":"oswaldojose","symbol":"CHARY","quantity":"17.579","price":"0.00730000","timestamp":1618865832,"volume":"0.12832670","buyTxId":"634a78365f7bcead2df82c2dd4c4eebfc7c3b07d","sellTxId":"44b69ce67b904779fd20b7b2c8d9576cf97b5b6f"} 

@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"1003396"}}
+	{"id":1003396,"type":"sell","buyer":"cryptoaeneas","seller":"razackpulo.sport","symbol":"CHARY","quantity":"16.037","price":"0.00510000","timestamp":1619584809,"volume":"0.08178870","buyTxId":"76d3e6191787d55eff3cb62cf0d332c773d95a44","sellTxId":"63dee75ba3e3f4f523d2507ac846efb398fc5be9"}
+{"index": {"_index":"chary","_id":"1005473"}}
+	{"id":1005473,"type":"sell","buyer":"kasna","seller":"davidmuhammad","symbol":"CHARY","quantity":"6.170","price":"0.00600000","timestamp":1619648712,"volume":"0.03702000","buyTxId":"33a79487b5a2a5aa6a8f868fecb9d80992289fa6","sellTxId":"eafd08c9278102f8a12bf5df49d1aa01da27a915"}

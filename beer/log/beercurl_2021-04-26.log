@@ -1,0 +1,36 @@
+{"index": {"_index": "beer"}}
+{"id":995115,"type":"buy","buyer":"hhayweaver","seller":"ecuaminte","symbol":"BEER","quantity":"0.24300000","price":"0.36900000","timestamp":1619346789,"volume":"0.08966700","buyTxId":"8fe845bb62d9b6f5304c541b99b5881f5d9e198b","sellTxId":"bfe1d037c70e9f6dce7873fdad5dc6513f6fea73"}
+{"index": {"_index": "beer"}}
+{"id":995116,"type":"buy","buyer":"hhayweaver","seller":"sergey44","symbol":"BEER","quantity":"0.02500000","price":"0.36900000","timestamp":1619346789,"volume":"0.00922500","buyTxId":"8fe845bb62d9b6f5304c541b99b5881f5d9e198b","sellTxId":"571167d73bd3203feb905802c726638fa7ce7f40"}
+{"index": {"_index": "beer"}}
+{"id":995196,"type":"sell","buyer":"hhayweaver","seller":"tute","symbol":"BEER","quantity":"4.70000000","price":"0.36900000","timestamp":1619349786,"volume":"1.73430000","buyTxId":"8fe845bb62d9b6f5304c541b99b5881f5d9e198b","sellTxId":"bcf56bfb82bcc36ac25c5c9ba2485ec79582534e"}
+{"index": {"_index": "beer"}}
+{"id":995257,"type":"sell","buyer":"hhayweaver","seller":"lrekt01","symbol":"BEER","quantity":"0.00600000","price":"0.36900000","timestamp":1619353014,"volume":"0.00221400","buyTxId":"8fe845bb62d9b6f5304c541b99b5881f5d9e198b","sellTxId":"6102a5038f00d297b8cbb547e0708de101f42805"}
+{"index": {"_index": "beer"}}
+{"id":995592,"type":"sell","buyer":"hhayweaver","seller":"silvertop","symbol":"BEER","quantity":"0.02600000","price":"0.36900000","timestamp":1619364201,"volume":"0.00959400","buyTxId":"8fe845bb62d9b6f5304c541b99b5881f5d9e198b","sellTxId":"33b6eb8e7d8430b5d472a7e2d66f5830721aad6d"}
+{"index": {"_index": "beer"}}
+{"id":995595,"type":"sell","buyer":"lookplz","seller":"silvertop","symbol":"BEER","quantity":"0.07400000","price":"0.25100000","timestamp":1619364258,"volume":"0.01857400","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"ac11255da76158b7749537b255bd573c73d0930e"}
+{"index": {"_index": "beer"}}
+{"id":995839,"type":"sell","buyer":"lookplz","seller":"ralph-rennoldson","symbol":"BEER","quantity":"0.31250000","price":"0.25100000","timestamp":1619371308,"volume":"0.07843750","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"1114492ac9b0d0dd2fd5a048052f2382f1d37f33"}
+{"index": {"_index": "beer"}}
+{"id":995971,"type":"sell","buyer":"lookplz","seller":"onealfa","symbol":"BEER","quantity":"0.395","price":"0.25100000","timestamp":1619374491,"volume":"0.09914500","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"ee05092f64f28e25def81d89619b77275239d107"}
+{"index": {"_index": "beer"}}
+{"id":996005,"type":"sell","buyer":"lookplz","seller":"steem.services","symbol":"BEER","quantity":"0.57600000","price":"0.25100000","timestamp":1619375307,"volume":"0.14457600","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"108f67965b4ff99e7c193a6c89eaf435420436dc"}
+{"index": {"_index": "beer"}}
+{"id":996103,"type":"sell","buyer":"lookplz","seller":"oliverschmid","symbol":"BEER","quantity":"0.21300000","price":"0.25100000","timestamp":1619377263,"volume":"0.05346300","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"5490593e39bf0b7086ebeb4cd2aebee18a4db7af"}
+{"index": {"_index": "beer"}}
+{"id":996109,"type":"sell","buyer":"lookplz","seller":"jjprac","symbol":"BEER","quantity":"0.31438898","price":"0.25100000","timestamp":1619377356,"volume":"0.07891163","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"b9148ba95eabebc36cc772c5c4a03e5983539634"}
+{"index": {"_index": "beer"}}
+{"id":996214,"type":"buy","buyer":"steempower-001","seller":"vikisecrets","symbol":"BEER","quantity":"0.00900000","price":"0.35000000","timestamp":1619380110,"volume":"0.00315000","buyTxId":"1b58bd4042de9c9edc4d577afc2e6862aa58e91d","sellTxId":"8c45a37ad0cef16afba5bcf8453bead2f6aa603f"}
+{"index": {"_index": "beer"}}
+{"id":996375,"type":"sell","buyer":"lookplz","seller":"deathwing","symbol":"BEER","quantity":"0.009","price":"0.25100000","timestamp":1619384106,"volume":"0.00225900","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"8f99950cd7613fa1bb3c21b32d0e395ef35de458-5"}
+{"index": {"_index": "beer"}}
+{"id":996380,"type":"sell","buyer":"lookplz","seller":"holybread","symbol":"BEER","quantity":"0.13750000","price":"0.25100000","timestamp":1619384559,"volume":"0.03451250","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"0395fe955ff41b6cffc4a866bab308c1ea579cff"}
+{"index": {"_index": "beer"}}
+{"id":996404,"type":"buy","buyer":"steempower-001","seller":"vikisecrets","symbol":"BEER","quantity":"0.00939434","price":"0.35000000","timestamp":1619385465,"volume":"0.00328802","buyTxId":"035764a9a4834f1ac29ad4bb255b7e6c98108be7","sellTxId":"8c45a37ad0cef16afba5bcf8453bead2f6aa603f"}
+{"index": {"_index": "beer"}}
+{"id":996405,"type":"sell","buyer":"lookplz","seller":"eythorphoto","symbol":"BEER","quantity":"0.19100000","price":"0.25100000","timestamp":1619385465,"volume":"0.04794100","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"94129218b16b981b3c5052dade9b7e195c605e0c"}
+{"index": {"_index": "beer"}}
+{"id":996489,"type":"sell","buyer":"lookplz","seller":"itharagaian","symbol":"BEER","quantity":"0.12830000","price":"0.25100000","timestamp":1619386845,"volume":"0.03220330","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"230d0dd40b341931d96065ccc6c6ca91008f708a"}
+{"index": {"_index": "beer"}}
+{"id":996623,"type":"sell","buyer":"lookplz","seller":"artmedina","symbol":"BEER","quantity":"0.10000000","price":"0.25100000","timestamp":1619390811,"volume":"0.02510000","buyTxId":"46c0083d81a683cd468852d13f52293603e58b44","sellTxId":"1d55015682b15123f67c1850501eb9363f2e9ce8"} 
