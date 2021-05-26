@@ -1,7 +1,7 @@
 # HiveTokenELK
 In this repository I collect my scripts to monitor $HIVE tokens. See also here: https://peakd.com/hive-122315/@achimmertens/how-i-have-set-up-elasticsearch-and-kibana-on-my-raspberry-pi-to-monitor-token-activities and here: https://peakd.com/hive-167922/@achimmertens/do-you-want-to-see-statistics-of-your-favorite-hive-token
 
-Last updated by Achim Mertens, 2021/05/07
+Last updated by Achim Mertens, 2021/05/26
 
 Hello together,
 
