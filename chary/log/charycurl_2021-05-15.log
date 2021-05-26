@@ -1,0 +1,6 @@
+{"index": {"_index":"chary","_id":"1048487"}}
+	{"id":1048487,"type":"sell","buyer":"holovision.cash","seller":"oswvin01","symbol":"CHARY","quantity":"100.000","price":"0.00800000","timestamp":1620848544,"volume":"0.80000000","buyTxId":"1b5440193caea27bc2702c25ab38d3f41ee85541","sellTxId":"2e0abeee969d2ce7464ef869f897f24fea560321"}
+{"index": {"_index":"chary","_id":"1048974"}}
+	{"id":1048974,"type":"sell","buyer":"holovision.cash","seller":"ralph75","symbol":"CHARY","quantity":"0.414","price":"0.00600000","timestamp":1620861591,"volume":"0.00248400","buyTxId":"00638830140b61451aaa1d2da257b37d711a2308","sellTxId":"b8dd8d40e90738dfb522719f29b1184a539e2bcb"}
+{"index": {"_index":"chary","_id":"1049755"}}
+	{"id":1049755,"type":"buy","buyer":"charityball","seller":"crypto133","symbol":"CHARY","quantity":"90.000","price":"0.01000000","timestamp":1620886581,"volume":"0.90000000","buyTxId":"ebe51d41bcfbe6c89b0094a8d0135473c597cec9","sellTxId":"dc852c28f981fa5cd65c35b4e0127bacd6091e5b"}

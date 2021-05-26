@@ -1,0 +1,14 @@
+{"index": {"_index":"chary","_id":"1031128"}}
+	{"id":1031128,"type":"sell","buyer":"achimmertens","seller":"myfreebtc","symbol":"CHARY","quantity":"9.401","price":"0.02000000","timestamp":1620351333,"volume":"0.18802000","buyTxId":"afa1288767a88ceff32031fa7008f740bc93de2f","sellTxId":"4630a4b2e0aa7f5832bd2e77b77bf8e67d8e760e"}
+{"index": {"_index":"chary","_id":"1031759"}}
+	{"id":1031759,"type":"buy","buyer":"charityball","seller":"adityajainxds","symbol":"CHARY","quantity":"75.229","price":"0.07000000","timestamp":1620370458,"volume":"5.26603000","buyTxId":"4a80a2ed06cbd12d150a5a8484e91bef7eaf5eb4","sellTxId":"6cf1271d5e553b55d4be04e208c77afd2212d7c8"}
+{"index": {"_index":"chary","_id":"1031760"}}
+	{"id":1031760,"type":"buy","buyer":"charityball","seller":"lebey1","symbol":"CHARY","quantity":"51.171","price":"0.08300000","timestamp":1620370458,"volume":"4.24719300","buyTxId":"4a80a2ed06cbd12d150a5a8484e91bef7eaf5eb4","sellTxId":"0ba7b32d17b3fcf6ea11051cf800df4d12a1175d"}
+{"index": {"_index":"chary","_id":"1031908"}}
+	{"id":1031908,"type":"sell","buyer":"achimmertens","seller":"razackpulo.sport","symbol":"CHARY","quantity":"7.274","price":"0.02000000","timestamp":1620376965,"volume":"0.14548000","buyTxId":"afa1288767a88ceff32031fa7008f740bc93de2f","sellTxId":"813f94fc91f284299946ffd197f01c2ef39005e4"}
+{"index": {"_index":"chary","_id":"1033018"}}
+	{"id":1033018,"type":"sell","buyer":"achimmertens","seller":"crypto133","symbol":"CHARY","quantity":"247.052","price":"0.02000000","timestamp":1620412527,"volume":"4.94104000","buyTxId":"afa1288767a88ceff32031fa7008f740bc93de2f","sellTxId":"42f511414bdba0dabc5bdb4547679a61c2763419"}
+{"index": {"_index":"chary","_id":"1033053"}}
+	{"id":1033053,"type":"sell","buyer":"achimmertens","seller":"hive09","symbol":"CHARY","quantity":"220.132","price":"0.02000000","timestamp":1620413046,"volume":"4.40264000","buyTxId":"afa1288767a88ceff32031fa7008f740bc93de2f","sellTxId":"99c0f2dfa1c39a36a3cab97cabd8dffa6c8e326b"}
+{"index": {"_index":"chary","_id":"1034014"}}
+	{"id":1034014,"type":"sell","buyer":"achimmertens","seller":"mima2606","symbol":"CHARY","quantity":"256.613","price":"0.02000000","timestamp":1620433467,"volume":"5.13226000","buyTxId":"afa1288767a88ceff32031fa7008f740bc93de2f","sellTxId":"c40bc01320d4783f5e06f34901ce849929b72ecc"}

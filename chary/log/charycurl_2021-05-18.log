@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"1059796"}}
+	{"id":1059796,"type":"sell","buyer":"null.bank","seller":"dubishin","symbol":"CHARY","quantity":"23.424","price":"0.00060000","timestamp":1621176759,"volume":"0.01405440","buyTxId":"16b5d05e5181b047fd0e5429164724bd897e0d0e","sellTxId":"43bf0cf0bfe4c159289103e47ff5e124d87e425f"}
+{"index": {"_index":"chary","_id":"1061535"}}
+	{"id":1061535,"type":"buy","buyer":"null.bank","seller":"ervin-lemark","symbol":"CHARY","quantity":"61.500","price":"0.00600000","timestamp":1621230234,"volume":"0.36900000","buyTxId":"f2d6e49f56687af89b317748ee141a0b78f95b21","sellTxId":"fd7aca8d730e62c028e923827093a084f6f54e4a"}
