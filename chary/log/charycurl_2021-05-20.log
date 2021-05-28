@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"1070383"}}
+	{"id":1070383,"type":"buy","buyer":"charityball","seller":"camiloferrua","symbol":"CHARY","quantity":"1.001","price":"0.01500000","timestamp":1621462839,"volume":"0.01501500","buyTxId":"790af5b1ad1ef8704281d58209a4e7707d14bf08","sellTxId":"078192984248d5786b4cc1cbe3cd7b8f37b2a939"}
+{"index": {"_index":"chary","_id":"1070384"}}
+	{"id":1070384,"type":"buy","buyer":"charityball","seller":"hive09","symbol":"CHARY","quantity":"118.999","price":"0.01500000","timestamp":1621462839,"volume":"1.78498500","buyTxId":"790af5b1ad1ef8704281d58209a4e7707d14bf08","sellTxId":"f352f9c560c87cf6edd3b292378ec48378310d9b"}
