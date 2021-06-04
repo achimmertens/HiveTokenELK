@@ -61,5 +61,18 @@ paste $INDEXLOG2 $LOG3 > $INDEXLOG3
 sed s/=/=/g $INDEXLOG3 | tr "=" "\n" > $LOGDATE # Ersetze "=" durch Cariege Return 
 cat $LOGDATE >> $LOGCONS    # Sammle die Daten in einem Topf
 
+# ---- calculating Hiveprice ----
+echo "HIVEPRICE = "$HIVEPRICE
+echo "Content = " && cat $HIVEPRICE
+# set HIVEPR = $(cat $HIVEPRICE)
+read HIVEPR < $HIVEPRICE
+echo "HIVEPR = "$HIVEPR
+NEWPRICE=`echo $HIVEPR \* 2|bc`
+echo "NEWPRICE = "$NEWPRICE
+
+
+
+
+# -------- Uploading to Elasticsearch -----
 # Upload the complete json data into kibana:
 curl --location --request POST 'http://localhost:9200/pob/_bulk?' --header 'Content-Type: application/json' --data-binary @$LOGDATE

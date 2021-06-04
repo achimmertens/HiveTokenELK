@@ -1,25 +1,3 @@
-{"index": {"_index":"pob","_id":"1110321"}}
-	{"id":1110321,"type":"sell","buyer":"solovey6o2","seller":"risingstargame","symbol":"POB","quantity":"2.00000000","price":"1.61030044","timestamp":1622698377,"volume":"3.22060088","buyTxId":"5472ebb417ace57fa76e57a2edc40a01a1ac4a4c","sellTxId":"d0a298ae127d5ef13d842f2dcba1ae4901baaad8"}
-{"index": {"_index":"pob","_id":"1110335"}}
-	{"id":1110335,"type":"sell","buyer":"solovey6o2","seller":"ftfund","symbol":"POB","quantity":"0.52077404","price":"1.61070048","timestamp":1622699427,"volume":"0.83881100","buyTxId":"b933692aa6415b291744d0cefc22913a992e3fab","sellTxId":"7ffc8083488016edc04d6bc82321c6b06cc61644"}
-{"index": {"_index":"pob","_id":"1110340"}}
-	{"id":1110340,"type":"sell","buyer":"solovey6o2","seller":"chireerocks","symbol":"POB","quantity":"0.94467523","price":"1.61080049","timestamp":1622699727,"volume":"1.52168332","buyTxId":"34ef8d2f66a2ef5bda18871c710ef27b266e5232","sellTxId":"4b8c0ef66189200fb1a5cef9c76d33c6c1aa721a"}
-{"index": {"_index":"pob","_id":"1110359"}}
-	{"id":1110359,"type":"sell","buyer":"solovey6o2","seller":"victoriabsb","symbol":"POB","quantity":"0.73415105","price":"1.61090050","timestamp":1622700147,"volume":"1.18264429","buyTxId":"876ffe86e6f52822efc1e66aa015f7176097ce2b","sellTxId":"11b356aa33887261244c2b615c714a0554cfb909"}
-{"index": {"_index":"pob","_id":"1110366"}}
-	{"id":1110366,"type":"sell","buyer":"richardcrill","seller":"jlordc","symbol":"POB","quantity":"2.42033223","price":"1.61110051","timestamp":1622700537,"volume":"3.89939849","buyTxId":"MM-P-7474712-54449846-3-10-0","sellTxId":"df0beee02d0bd666d3b3714b4ddc69b9ed3fcaaf"}
-{"index": {"_index":"pob","_id":"1110375"}}
-	{"id":1110375,"type":"sell","buyer":"solovey6o2","seller":"melbourneswest","symbol":"POB","quantity":"1.07568370","price":"1.61120053","timestamp":1622701074,"volume":"1.73314215","buyTxId":"e8efe884a48493fd25a7d2a4c2d4dbd9276de746","sellTxId":"22429e1bf4262f486cef5012354a70e36ef2bb24"}
-{"index": {"_index":"pob","_id":"1110376"}}
-	{"id":1110376,"type":"sell","buyer":"richardcrill","seller":"montycashmusic","symbol":"POB","quantity":"24.15862074","price":"1.61130053","timestamp":1622701086,"volume":"38.92679840","buyTxId":"MM-P-7474912-54450046-3-10-0","sellTxId":"7b8cb6557765444c56ab52bde5491e4c5fc3239e"}
-{"index": {"_index":"pob","_id":"1110408"}}
-	{"id":1110408,"type":"buy","buyer":"known.prince","seller":"bluesniper","symbol":"POB","quantity":"7.00000000","price":"1.64975998","timestamp":1622701560,"volume":"11.54831986","buyTxId":"56e179f8b693a3352a13110e8714cb87c38cc75c","sellTxId":"MM-P-7475061-54450196-3-4-0"}
-{"index": {"_index":"pob","_id":"1110420"}}
-	{"id":1110420,"type":"sell","buyer":"solovey6o2","seller":"charcoalbuffet","symbol":"POB","quantity":"1.53350815","price":"1.61170003","timestamp":1622701818,"volume":"2.47155513","buyTxId":"b2c4be3f96bdde0eb5dddbac74a353149fa66ed2","sellTxId":"9e5e9835b1405a93582f7ba785cb337f2fb70431"}
-{"index": {"_index":"pob","_id":"1110430"}}
-	{"id":1110430,"type":"sell","buyer":"solovey6o2","seller":"finguru","symbol":"POB","quantity":"25.00000000","price":"1.61160002","timestamp":1622702433,"volume":"40.29000050","buyTxId":"a793de677edfafbb47b0d49cdcc2f79c872122dd","sellTxId":"530a3a7a67c08b9d1bea0827342ca6b194c00102"}
-{"index": {"_index":"pob","_id":"1110434"}}
-	{"id":1110434,"type":"buy","buyer":"solovey6o2","seller":"fullcoverbetting","symbol":"POB","quantity":"0.68990536","price":"1.61170003","timestamp":1622702649,"volume":"1.11192049","buyTxId":"4419ae7c83e1d70ef4f6b39b8a66249d36471d10","sellTxId":"13e5197eed455cc45759f7c20255b4db86721a6a"}
 {"index": {"_index":"pob","_id":"1110451"}}
 	{"id":1110451,"type":"sell","buyer":"solovey6o2","seller":"achim03","symbol":"POB","quantity":"8.57200000","price":"1.61170003","timestamp":1622703714,"volume":"13.81549266","buyTxId":"beacd4019b587d4f0dcdcaabf9758dbdd06ea9a3","sellTxId":"1426f79e36920c35a8c665dacfbfab7c7abac06d"}
 {"index": {"_index":"pob","_id":"1110462"}}
@@ -516,3 +494,21 @@
 	{"id":1113034,"type":"sell","buyer":"solovey6o2","seller":"corporateay","symbol":"POB","quantity":"0.59320273","price":"1.62605049","timestamp":1622784066,"volume":"0.96457759","buyTxId":"f053c5b87d0b598dc9415257cc5bb47be737b1bc","sellTxId":"2bf0be46d331f53e87e53fe36568e7579a78e3f9"}
 {"index": {"_index":"pob","_id":"1113036"}}
 	{"id":1113036,"type":"sell","buyer":"solovey6o2","seller":"victoriabsb","symbol":"POB","quantity":"1.86646248","price":"1.62465035","timestamp":1622784246,"volume":"3.03234892","buyTxId":"e04320d02053c664d1db34619752bea4a7aa2459","sellTxId":"e95ccae510fd69beed0da79aa6b66d29a3afbc15"}
+{"index": {"_index":"pob","_id":"1113053"}}
+	{"id":1113053,"type":"sell","buyer":"freebornsociety","seller":"anggreklestari","symbol":"POB","quantity":"3.31280247","price":"1.62475035","timestamp":1622784885,"volume":"5.38247697","buyTxId":"MM-P-7502541-54477766-3-2-0","sellTxId":"945d725dd9a0ffc9ea0ebfb91272b109d47e4091"}
+{"index": {"_index":"pob","_id":"1113074"}}
+	{"id":1113074,"type":"sell","buyer":"freebornsociety","seller":"anggreklestari","symbol":"POB","quantity":"15.76752311","price":"1.62495037","timestamp":1622785902,"volume":"25.62144251","buyTxId":"MM-P-7503040-54478265-3-2-0","sellTxId":"651adc7afa9340752e3a61ba835896ed7344c3a2"}
+{"index": {"_index":"pob","_id":"1113093"}}
+	{"id":1113093,"type":"sell","buyer":"freebornsociety","seller":"new-world-guide","symbol":"POB","quantity":"1.63973089","price":"1.62495037","timestamp":1622786451,"volume":"2.66448132","buyTxId":"MM-P-7503040-54478265-3-2-0","sellTxId":"ee6381d6a44d19cf52844d9ffeb5f76f486a24ed"}
+{"index": {"_index":"pob","_id":"1113095"}}
+	{"id":1113095,"type":"sell","buyer":"freebornsociety","seller":"clicmaster","symbol":"POB","quantity":"7.20888243","price":"1.62495037","timestamp":1622786505,"volume":"11.71407617","buyTxId":"MM-P-7503040-54478265-3-2-0","sellTxId":"6eab83805fe8a58d9aaced4fca1b8cb26906d5a0"}
+{"index": {"_index":"pob","_id":"1113097"}}
+	{"id":1113097,"type":"sell","buyer":"solovey6o2","seller":"clicmaster","symbol":"POB","quantity":"26.62349361","price":"1.62465035","timestamp":1622786529,"volume":"43.25386821","buyTxId":"750e4cb733c0121552c67c0b080b5e39a74724d9","sellTxId":"ac4954f0f6aa20487ab68d4bd09654294dd5524b"}
+{"index": {"_index":"pob","_id":"1113101"}}
+	{"id":1113101,"type":"sell","buyer":"solovey6o2","seller":"profeyris7","symbol":"POB","quantity":"52.81296957","price":"1.62465035","timestamp":1622786655,"volume":"85.80260950","buyTxId":"750e4cb733c0121552c67c0b080b5e39a74724d9","sellTxId":"3ae3e8228acab0c327591d6b7746cacae503fc2f"}
+{"index": {"_index":"pob","_id":"1113120"}}
+	{"id":1113120,"type":"sell","buyer":"freebornsociety","seller":"knowhow92","symbol":"POB","quantity":"1.40000000","price":"1.62475035","timestamp":1622787915,"volume":"2.27465049","buyTxId":"MM-P-7503537-54478764-3-2-0","sellTxId":"29fb3e973609a9b60cdb524a1448fec0d0adda15"}
+{"index": {"_index":"pob","_id":"1113129"}}
+	{"id":1113129,"type":"sell","buyer":"freebornsociety","seller":"toofasteddie","symbol":"POB","quantity":"1.25000000","price":"1.62475035","timestamp":1622788845,"volume":"2.03093794","buyTxId":"MM-P-7503537-54478764-3-2-0","sellTxId":"fa41e6fafcc75078a209a17a732c8d6df254a358"}
+{"index": {"_index":"pob","_id":"1113136"}}
+	{"id":1113136,"type":"sell","buyer":"freebornsociety","seller":"risingstargame","symbol":"POB","quantity":"0.03484206","price":"1.62475035","timestamp":1622789190,"volume":"0.05660965","buyTxId":"MM-P-7503537-54478764-3-2-0","sellTxId":"290bcd8f87d1036b56f6b0c61a27b8578246cba9"}
