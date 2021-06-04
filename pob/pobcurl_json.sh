@@ -16,6 +16,10 @@ DATE=`date -I`
 echo "DATE = "$DATE
 LOGPATH="/home/pi/elk/$TOKEN/log"
 echo "LOGPATH = "$LOGPATH
+CMC="$LOGPATH/coinmarketcap.tmp"
+echo "CMC = "$CMC
+HIVEPRICE="$LOGPATH/hiveprice.tmp"
+echo "HIVEPRICE = "$HIVEPRICE
 LOG="$LOGPATH/$TOKEN""curl.log"
 echo "LOG = "$LOG
 LOG1="$LOGPATH/$TOKEN""curl1.log"
@@ -34,6 +38,14 @@ INDEXLOG2="$LOGPATH/$TOKEN"_ids2.log
 echo "INDEXLOG2 = "$INDEXLOG2
 INDEXLOG3="$LOGPATH/$TOKEN"_ids3.log
 echo "INDEXLOG3 = "$INDEXLOG3
+
+
+
+
+# Get Hive/US-Dollar value
+curl -H "X-CMC_PRO_API_KEY: a1ff4bd0-2ac9-4700-ae61-6eaa62f56adc" -H "Accept: application/json" -d "symbol=HIVE" -G https://pro-api.coinmarketcap.com/v1/cryptocurrency/info > $CMC 
+cat $CMC  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}' > $HIVEPRICE # Cut out the Hive Price
+
 
 # Get json file from api engine:
 curl -XPOST -H "Content-type: application/json" -d '{ "jsonrpc": "2.0", "method": "find", "params": { "contract": "market", "table": "tradesHistory", "query": { "symbol": "POB"}, "limit":1000, "offset": 0 }, "id": 1 }' 'https://api.hive-engine.com/rpc/contracts' > $LOG
