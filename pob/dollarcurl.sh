@@ -10,3 +10,6 @@ cat pobcurl3.log | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}' > p
 
 NEWPRICE=`echo $HIVEPRICE \* 2|bc`
 echo "NEWPRICE = "$NEWPRICE 
+read POBPRICE < pobprice.tmp
+POBDOLLAR=`echo $POBPRICE \* $HIVEPRICE|bc`
+echo "Der Preis von POB/Dollar = "$POBDOLLAR
