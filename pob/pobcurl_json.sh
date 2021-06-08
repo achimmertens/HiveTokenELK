@@ -40,8 +40,6 @@ INDEXLOG3="$LOGPATH/$TOKEN"_ids3.log
 echo "INDEXLOG3 = "$INDEXLOG3
 
 
-
-
 # Get Hive/US-Dollar value
 curl -H "X-CMC_PRO_API_KEY: a1ff4bd0-2ac9-4700-ae61-6eaa62f56adc" -H "Accept: application/json" -d "symbol=HIVE" -G https://pro-api.coinmarketcap.com/v1/cryptocurrency/info > $CMC 
 cat $CMC  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}' > $HIVEPRICE # Cut out the Hive Price
@@ -69,9 +67,6 @@ read HIVEPR < $HIVEPRICE
 echo "HIVEPR = "$HIVEPR
 NEWPRICE=`echo $HIVEPR \* 2|bc`
 echo "NEWPRICE = "$NEWPRICE
-
-
-
 
 # -------- Uploading to Elasticsearch -----
 # Upload the complete json data into kibana:
