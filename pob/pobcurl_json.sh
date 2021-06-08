@@ -70,4 +70,4 @@ echo "NEWPRICE = "$NEWPRICE
 
 # -------- Uploading to Elasticsearch -----
 # Upload the complete json data into kibana:
-curl --location --request POST 'http://localhost:9200/pob/_bulk?' --header 'Content-Type: application/json' --data-binary @$LOGDATE
+# curl --location --request POST 'http://localhost:9200/pob/_bulk?' --header 'Content-Type: application/json' --data-binary @$LOGDATE

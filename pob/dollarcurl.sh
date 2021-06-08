@@ -3,5 +3,10 @@
 cat coinmarketcap.tmp  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}' > hiveprice.tmp
 HIVEPRICE=$(cat hiveprice.tmp)
 echo "HIVEPRICE = "$HIVEPRICE
+read HIVEPRICE < hiveprice.tmp
+echo "HIVEPRICE = " $HIVEPRICE
+
+cat pobcurl3.log | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}' > pobprice.tmp
+
 NEWPRICE=`echo $HIVEPRICE \* 2|bc`
 echo "NEWPRICE = "$NEWPRICE 
