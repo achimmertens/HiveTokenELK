@@ -6,7 +6,8 @@ echo "The price of \$HIVE/\$USD = "$HIVEPRICE
 echo "The price of \$HIVE/\$USD = "$HIVEPRICE > pobdollar.tmp
 read HIVEPRICE < hiveprice.tmp
 cat pobcurl3.log | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}' > pobprice.tmp
-read POBPRICE < pobprice.tmp
+# read POBPRICE < pobprice.tmp
+POBPRICE = `tail -1 pobprice.tmp`
 echo "The price of \$POB/\$HIVE = " $POBPRICE
 echo ". The price of \$POB/\$HIVE = " $POBPRICE >> pobdollar.tmp
 POBDOLLAR=`echo $POBPRICE \* $HIVEPRICE|bc`
