@@ -61,15 +61,15 @@ cat $LOGDATE >> $LOGCONS    # Sammle die Daten in einem Topf
 
 # ---- calculating Hiveprice ----
 HIVEPRICE=`cat $CMC  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}'`
-echo "The price of \$HIVE/\$USD = "$HIVEPRICE 
-echo "The price of \$HIVE/\$USD = "$HIVEPRICE > $LISTDOLLAR
+echo "The price of \$USD/\$HIVE = "$HIVEPRICE 
+echo "The price of \$USD/\$HIVE = "$HIVEPRICE > $LISTDOLLAR
 LISTPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}'`
 LISTPRICE=`echo $LISTPRICELIST | awk -F ' ' '{print $NF}'`
-echo "The price of \$LIST/\$HIVE = " $LISTPRICE
-echo ". The price of \$LIST/\$HIVE = " $LISTPRICE >> $LISTDOLLAR
+echo "The price of \$HIVE/\$LIST = " $LISTPRICE
+echo ". The price of \$HIVE/\$LIST = " $LISTPRICE >> $LISTDOLLAR
 LIST_DOLLAR=`echo $LISTPRICE \* $HIVEPRICE|bc`
-echo "The price of \$LIST/\$USD = "$LIST_DOLLAR
-echo ". The price of \$LIST/\$USD = " $LIST_DOLLAR >> $LISTDOLLAR
+echo "The price of \$USD/\$LIST = "$LIST_DOLLAR
+echo ". The price of \$USD/\$LIST = " $LIST_DOLLAR >> $LISTDOLLAR
 sudo cat $LISTDOLLAR >> /var/www/html/elk/index.html    # Put the result to the web
 
 
