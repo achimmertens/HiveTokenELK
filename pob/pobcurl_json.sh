@@ -70,7 +70,7 @@ echo ". The price of \$POB/\$HIVE = " $POBPRICE >> $POBDOLLAR
 POB_DOLLAR=`echo $POBPRICE \* $HIVEPRICE|bc`
 echo "The price of \$POB/\$USD = "$POB_DOLLAR
 echo ". The price of \$POB/\$USD = " $POB_DOLLAR >> $POBDOLLAR
-sudo cp $POBDOLLAR /var/www/html/elk/index.html    # Put the result to the web
+sudo cat $POBDOLLAR >> /var/www/html/elk/index.html    # Put the result to the web
 
 
 
