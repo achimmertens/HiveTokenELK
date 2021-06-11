@@ -61,15 +61,15 @@ cat $LOGDATE >> $LOGCONS    # Sammle die Daten in einem Topf
 
 # ---- calculating Hiveprice ----
 HIVEPRICE=`cat $CMC  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}'`
-echo "The price of \$HIVE/\$USD = "$HIVEPRICE 
-echo "The price of \$HIVE/\$USD = "$HIVEPRICE > $POBDOLLAR
+echo "The price of \$USD/\$HIVE = "$HIVEPRICE 
+echo "The price of \$USD/\$HIVE = "$HIVEPRICE > $POBDOLLAR
 POBPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}'`
 POBPRICE=`echo $POBPRICELIST | awk -F ' ' '{print $NF}'`
-echo "The price of \$POB/\$HIVE = " $POBPRICE
-echo ". The price of \$POB/\$HIVE = " $POBPRICE >> $POBDOLLAR
+echo "The price of \$HIVE/\$POB = " $POBPRICE
+echo ". The price of \$HIVE/\$POB = " $POBPRICE >> $POBDOLLAR
 POB_DOLLAR=`echo $POBPRICE \* $HIVEPRICE|bc`
-echo "The price of \$POB/\$USD = "$POB_DOLLAR
-echo ". The price of \$POB/\$USD = " $POB_DOLLAR >> $POBDOLLAR
+echo "The price of \$USD/\$POB = "$POB_DOLLAR
+echo ". The price of \$USD/\$POB = " $POB_DOLLAR >> $POBDOLLAR
 sudo cat $POBDOLLAR >> /var/www/html/elk/index.html    # Put the result to the web
 
 
