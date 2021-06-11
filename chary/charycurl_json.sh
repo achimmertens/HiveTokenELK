@@ -61,15 +61,15 @@ cat $LOGDATE >> $LOGCONS    # Sammle die Daten in einem Topf
 
 # ---- calculating Hiveprice ----
 HIVEPRICE=`cat $CMC  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}'`
-echo "The price of \$HIVE/\$USD = "$HIVEPRICE 
-echo "The price of \$HIVE/\$USD = "$HIVEPRICE > $CHARYDOLLAR
+echo "The price of \$USD/\$HIVE = "$HIVEPRICE 
+echo "The price of \$USD/\$HIVE = "$HIVEPRICE > $CHARYDOLLAR
 CHARYPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}'`
 CHARYPRICE=`echo $CHARYPRICELIST | awk -F ' ' '{print $NF}'`
-echo "The price of \$CHARY/\$HIVE = " $CHARYPRICE
-echo ". The price of \$CHARY/\$HIVE = " $CHARYPRICE >> $CHARYDOLLAR
+echo "The price of \$HIVE/\$CHARY = " $CHARYPRICE
+echo ". The price of \$HIVE/\$CHARY = " $CHARYPRICE >> $CHARYDOLLAR
 CHARY_DOLLAR=`echo $CHARYPRICE \* $HIVEPRICE|bc`
-echo "The price of \$CHARY/\$USD = "$CHARY_DOLLAR
-echo ". The price of \$CHARY/\$USD = " $CHARY_DOLLAR >> $CHARYDOLLAR
+echo "The price of \$USD/\$CHARY = "$CHARY_DOLLAR
+echo ". The price of \$USD/\$CHARY = " $CHARY_DOLLAR >> $CHARYDOLLAR
 sudo cat $CHARYDOLLAR >> /var/www/html/elk/index.html    # Put the result to the web
 # Upload the complete json data into kibana:
 curl --location --request POST 'http://localhost:9200/chary/_bulk?' --header 'Content-Type: application/json' --data-binary @$LOGDATE
