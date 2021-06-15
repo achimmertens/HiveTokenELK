@@ -1,0 +1,12 @@
+{"index": {"_index":"list","_id":"1095868"}}
+	{"id":1095868,"type":"buy","buyer":"kevmcc","seller":"thelogicaldude","symbol":"LIST","quantity":"5.00000000","price":"0.02490000","timestamp":1622243958,"volume":"0.12450000","buyTxId":"5a75bc64321eddfa364bebb1d90efceb8e4c9ced","sellTxId":"MM-P-7316704-54279676-3-0-0"}
+{"index": {"_index":"list","_id":"1096486"}}
+	{"id":1096486,"type":"sell","buyer":"thelogicaldude","seller":"rishi556","symbol":"LIST","quantity":"1.32845186","price":"0.01353000","timestamp":1622265288,"volume":"0.01797395","buyTxId":"MM-P-7311452-54273783-3-0-0","sellTxId":"c8d4ac7ff2a6b3ff32f30392c08cefb54169b386-0"}
+{"index": {"_index":"list","_id":"1097161"}}
+	{"id":1097161,"type":"sell","buyer":"thelogicaldude","seller":"rishi556","symbol":"LIST","quantity":"0.00010662","price":"0.01460000","timestamp":1622293302,"volume":"0.00000156","buyTxId":"MM-P-7345974-54312235-3-0-0","sellTxId":"77052b675582362b525357e277d965201d817a2b-2"}
+{"index": {"_index":"list","_id":"1097631"}}
+	{"id":1097631,"type":"sell","buyer":"thelogicaldude","seller":"tonytrillions","symbol":"LIST","quantity":"0.00084316","price":"0.01460000","timestamp":1622309019,"volume":"0.00001231","buyTxId":"MM-P-7345974-54312235-3-0-0","sellTxId":"7494d68227153421be1a4a10828334c6254f9732"}
+{"index": {"_index":"list","_id":"1097892"}}
+	{"id":1097892,"type":"sell","buyer":"thelogicaldude","seller":"chireerocks","symbol":"LIST","quantity":"30.67520765","price":"0.01460000","timestamp":1622318283,"volume":"0.44785803","buyTxId":"MM-P-7345974-54312235-3-0-0","sellTxId":"8af36beed29d33c4b96aed32e76e955d07f340ec"}
+{"index": {"_index":"list","_id":"1098290"}}
+	{"id":1098290,"type":"sell","buyer":"thelogicaldude","seller":"brofi-market","symbol":"LIST","quantity":"0.13410101","price":"0.01460000","timestamp":1622329041,"volume":"0.00195787","buyTxId":"MM-P-7345974-54312235-3-0-0","sellTxId":"95241c654089c7ba076805a6c5d5baa912ccb5f9"}
