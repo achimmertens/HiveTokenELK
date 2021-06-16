@@ -286,6 +286,17 @@ In this [post](https://peakd.com/howto/@achimmertens/how-to-configure-elasticsea
 After that, create (if you want) a dashboard, where you bring in you favorite visualizations:
 
 ![grafik.png](https://files.peakd.com/file/peakd-hive/achimmertens/48GjRF4W526tpMrwidPFT4ZniaJ3wA7AgTZmj28cCu6TUip6FV4AfcvaCzhTrJKP2L.png)
+
+## Kibana set up with new tokens example
+How to set up Kibana:
+- Go to Kibana Dev-Mode
+- Insert the content of put_leo.json and execute it.
+- execute leocurl_json.sh to fill some data into kibana
+- Create Indexpattern for leo*
+- Export that pattern and search for the ID
+- Edit tokenviews.ndsjon and replace the Ref-ID with the new Indexpattern-ID
+- Import that file into Kibana
+- Adjust the new dashboard with the new views
  ------
 # Sum up
 It took me several month (with about 5 hours peer week) to come here. For me it was a walk through a djungle maze with lot of swamps, where I got stuck, because I started with nothing but some basic know how. But I had some clear goals: I wanted to understand how API works, how ELK works and to create a report for my $CHARY token. I need this knowledge also for my job.
