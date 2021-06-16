@@ -9,3 +9,5 @@ How to set up Kibana:
 - Adjust the new dashboard with the new views
 
 More Details see: https://github.com/achimmertens/HiveTokenELK#readme
+
+Test
