@@ -7,3 +7,5 @@ How to set up Kibana:
 - Edit tokenviews.ndsjon and replace the Ref-ID with the new Indexpattern-ID
 - Import that file into Kibana
 - Adjust the new dashboard with the new views
+
+More Details see: https://github.com/achimmertens/HiveTokenELK#readme
