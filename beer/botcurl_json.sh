@@ -76,4 +76,4 @@ cat $LOGDATE >> $LOGCONS    # Sammle die Daten in einem Topf
 
 
 # Upload the complete json data into kibana:
-# curl --location --request POST 'http://localhost:9200/beer/_bulk?' --header 'Content-Type: application/json' --data-binary @$LOGDATE
+curl --location --request POST 'http://localhost:9200/beerbot/_bulk?' --header 'Content-Type: application/json' --data-binary @$LOGDATE
