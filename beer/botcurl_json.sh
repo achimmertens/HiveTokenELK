@@ -46,7 +46,10 @@ echo "BEERDOLLAR = "$BEERDOLLAR
 # curl -H "X-CMC_PRO_API_KEY: a1ff4bd0-2ac9-4700-ae61-6eaa62f56adc" -H "Accept: application/json" -d "symbol=HIVE" -G https://pro-api.coinmarketcap.com/v1/cryptocurrency/info > $CMC 
 
 # Get json file from api engine:
-curl -XPOST -H "Content-type: application/json" -d '{ "jsonrpc": "2.0", "method": "find", "params": { "contract": "market", "table": "accountHistory", "query": { "account": "beerlover"}, "limit":1000, "offset": 0 }, "id": 1 }' 'https://api.hive-engine.com/rpc/contracts' > $LOG
+# curl -XPOST -H "Content-type: application/json" -d '{ "jsonrpc": "2.0", "method": "find", "params": { "contract": "market", "table": "balances", "query": { "account": "beerlover"}, "limit":1000, "offset": 0 }, "id": 1 }' 'https://api.hive-engine.com/rpc/contracts' > $LOG
+curl -XPOST -H "Content-type: application/json" -d '{ "jsonrpc": "2.0", "method": "find", "params": { "contract": "accountHistory", "query": { "account": "beerlover"}, "limit":1000, "offset": 0 }, "id": 1 }' 'https://api.hive-engine.com/rpc/accountHistory' > $LOG
+# curl https://accounts.hive-engine.com/accountHistory?account=beerlover&limit=50&offset=0&symbol=BEER > $LOG
+curl -X 'GET' 'https://accounts.hive-engine.com/accountHistory?account=beerlover&limit=10&offset=0&symbol=BEER' -H 'accept: application/xml' > $LOG
 cat $LOG
 
 # cat $LOG | sed -r 's/^.{34}//' | sed 's/.\{3\}$//' > $LOG1   # delete the first 34 and the last 3 characters
