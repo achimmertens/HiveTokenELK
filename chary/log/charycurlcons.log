@@ -729,3 +729,25 @@
 	</htm}
 {"index": {"_index":"chary","_id":"1165678"}}
 	{"id":1165678,"type":"buy","buyer":"charityball","seller":"hive09","symbol":"CHARY","quantity":"61.000","price":"0.01950000","timestamp":1624428738,"volume":"1.18950000","buyTxId":"5adeec0f759e468ac9ce1c208bb0f530ba86ec6f","sellTxId":"0c65d5acdb2089e4f196ef9afefbbea414d0b989"}
+{"index": {"_index":"chary","_id":"1171326"}}
+	{"id":1171326,"type":"buy","buyer":"charityball","seller":"hive09","symbol":"CHARY","quantity":"0.149","price":"0.01950000","timestamp":1624645380,"volume":"0.00290550","buyTxId":"ac3dbb7af212e80d73e6c3f1db0863b3073f0e78","sellTxId":"0c65d5acdb2089e4f196ef9afefbbea414d0b989"}
+{"index": {"_index":"chary","_id":"1171327"}}
+	{"id":1171327,"type":"buy","buyer":"charityball","seller":"hive09","symbol":"CHARY","quantity":"42.851","price":"0.01950000","timestamp":1624645380,"volume":"0.83559450","buyTxId":"ac3dbb7af212e80d73e6c3f1db0863b3073f0e78","sellTxId":"24ed39ae54dc237bea37ebc3a151f44554427905"}
+{"index": {"_index":"chary","_id":"1171326"}}
+	{"id":1171326,"type":"buy","buyer":"charityball","seller":"hive09","symbol":"CHARY","quantity":"0.149","price":"0.01950000","timestamp":1624645380,"volume":"0.00290550","buyTxId":"ac3dbb7af212e80d73e6c3f1db0863b3073f0e78","sellTxId":"0c65d5acdb2089e4f196ef9afefbbea414d0b989"}
+{"index": {"_index":"chary","_id":"1171327"}}
+	{"id":1171327,"type":"buy","buyer":"charityball","seller":"hive09","symbol":"CHARY","quantity":"42.851","price":"0.01950000","timestamp":1624645380,"volume":"0.83559450","buyTxId":"ac3dbb7af212e80d73e6c3f1db0863b3073f0e78","sellTxId":"24ed39ae54dc237bea37ebc3a151f44554427905"}
+{"index": {"_index":"chary","_id":"1175016"}}
+	{"id":1175016,"type":"sell","buyer":"oswvin01","seller":"mima2606","symbol":"CHARY","quantity":"28.519","price":"0.00070000","timestamp":1624794156,"volume":"0.01996330","buyTxId":"0f0c3a251d9078251c45c629305e6362b4b0fc83","sellTxId":"5758be2dcfd0b6a07358d78f8fd13d9c3a9d63c3"}
+{"index": {"_index":"chary","_id":"1175016"}}
+	{"id":1175016,"type":"sell","buyer":"oswvin01","seller":"mima2606","symbol":"CHARY","quantity":"28.519","price":"0.00070000","timestamp":1624794156,"volume":"0.01996330","buyTxId":"0f0c3a251d9078251c45c629305e6362b4b0fc83","sellTxId":"5758be2dcfd0b6a07358d78f8fd13d9c3a9d63c3"}
+{"index": {"_index":"chary","_id":"1177134"}}
+	{"id":1177134,"type":"buy","buyer":"charityball","seller":"hive09","symbol":"CHARY","quantity":"193.993","price":"0.01950000","timestamp":1624864893,"volume":"3.78286350","buyTxId":"ca00865f8109ed70c5e2e657d0daa4e655b62084","sellTxId":"24ed39ae54dc237bea37ebc3a151f44554427905"}
+{"index": {"_index":"chary","_id":"1177135"}}
+	{"id":1177135,"type":"buy","buyer":"charityball","seller":"crypto133","symbol":"CHARY","quantity":"206.007","price":"0.01950000","timestamp":1624864893,"volume":"4.01713650","buyTxId":"ca00865f8109ed70c5e2e657d0daa4e655b62084","sellTxId":"9e8affa2bba41438a61964c3ef4029d63455e662"}
+{"index": {"_index":"chary","_id":"1177423"}}
+	{"id":1177423,"type":"buy","buyer":"dfacademy","seller":"crypto133","symbol":"CHARY","quantity":"2.000","price":"0.01950000","timestamp":1624876038,"volume":"0.03900000","buyTxId":"1243b14b6638d8c2361e38ab3de0df1a3fcacee5","sellTxId":"9e8affa2bba41438a61964c3ef4029d63455e662"}
+{"index": {"_index":"chary","_id":"1177426"}}
+	{"id":1177426,"type":"buy","buyer":"dfacademy","seller":"crypto133","symbol":"CHARY","quantity":"3.860","price":"0.01950000","timestamp":1624876122,"volume":"0.07527000","buyTxId":"822d9f30e45bc046ee770985624af55d916bb2ca","sellTxId":"9e8affa2bba41438a61964c3ef4029d63455e662"}
+{"index": {"_index":"chary","_id":"1177427"}}
+	{"id":1177427,"type":"buy","buyer":"dfacademy","seller":"bilalhive","symbol":"CHARY","quantity":"1.140","price":"0.01950000","timestamp":1624876122,"volume":"0.02223000","buyTxId":"822d9f30e45bc046ee770985624af55d916bb2ca","sellTxId":"10d5dd2afb8ebdd48562808627e10f722acd2ea1"}
