@@ -1,0 +1,16 @@
+{"index": {"_index":"list","_id":"1227145"}}
+	{"id":1227145,"type":"sell","buyer":"thelogicaldude","seller":"anadolu","symbol":"LIST","quantity":"0.53769656","price":"0.00960000","timestamp":1626497049,"volume":"0.00516189","buyTxId":"MM-P-8709182-55689529-3-0-0","sellTxId":"2c3cfcc79cb68c3357a274c92dc32458b3269586"}
+{"index": {"_index":"list","_id":"1227352"}}
+	{"id":1227352,"type":"sell","buyer":"thelogicaldude","seller":"justinparke","symbol":"LIST","quantity":"5.82155129","price":"0.00960000","timestamp":1626502737,"volume":"0.05588689","buyTxId":"MM-P-8709182-55689529-3-0-0","sellTxId":"6f81de8842b429d8e352d8182152fbc4d44baf78"}
+{"index": {"_index":"list","_id":"1227986"}}
+	{"id":1227986,"type":"sell","buyer":"thelogicaldude","seller":"dhedge-drips","symbol":"LIST","quantity":"0.09064038","price":"0.00960000","timestamp":1626526020,"volume":"0.00087015","buyTxId":"MM-P-8709182-55689529-3-0-0","sellTxId":"9335fafefabe3197317aceb2cd526898e7b1aa1e"}
+{"index": {"_index":"list","_id":"1228257"}}
+	{"id":1228257,"type":"sell","buyer":"thelogicaldude","seller":"savvyplayer","symbol":"LIST","quantity":"16.48275464","price":"0.00960000","timestamp":1626535212,"volume":"0.15823444","buyTxId":"MM-P-8709182-55689529-3-0-0","sellTxId":"28960114fb85e18c2c8ab665be624157913520ee"}
+{"index": {"_index":"list","_id":"1228365"}}
+	{"id":1228365,"type":"sell","buyer":"thelogicaldude","seller":"sipahikara","symbol":"LIST","quantity":"35.38800000","price":"0.00960000","timestamp":1626538431,"volume":"0.33972480","buyTxId":"MM-P-8709182-55689529-3-0-0","sellTxId":"655d1485dcc70e8a86353a5c30e5f34926859478"}
+{"index": {"_index":"list","_id":"1228843"}}
+	{"id":1228843,"type":"sell","buyer":"thelogicaldude","seller":"zeruxanime","symbol":"LIST","quantity":"69.54342495","price":"0.00960000","timestamp":1626551160,"volume":"0.66761688","buyTxId":"MM-P-8709182-55689529-3-0-0","sellTxId":"b881079a7f8d9c47c9928e8fa45768da74d88e77"}
+{"index": {"_index":"list","_id":"1228870"}}
+	{"id":1228870,"type":"sell","buyer":"thelogicaldude","seller":"charityball","symbol":"LIST","quantity":"4.98825001","price":"0.00960000","timestamp":1626551871,"volume":"0.04788720","buyTxId":"MM-P-8709182-55689529-3-0-0","sellTxId":"695f8a1c6e6defdeb6f892ae61b1d3a3cbc6fb88"}
+{"index": {"_index":"list","_id":"1229239"}}
+	{"id":1229239,"type":"sell","buyer":"thelogicaldude","seller":"yamfleitas","symbol":"LIST","quantity":"2.34136323","price":"0.00960000","timestamp":1626566526,"volume":"0.02247709","buyTxId":"MM-P-8709182-55689529-3-0-0","sellTxId":"ef14e4f252d976ed056031fd41f889b13cf80bd0"}

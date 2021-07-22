@@ -1,0 +1,6 @@
+{"index": {"_index":"chary","_id":"1199881"}}
+	{"id":1199881,"type":"buy","buyer":"charityball","seller":"crypto133","symbol":"CHARY","quantity":"100.000","price":"0.01499000","timestamp":1625615136,"volume":"1.49900000","buyTxId":"ccdb97430cc813c9cc612840d079296afea0be38","sellTxId":"8abc20cae2aee39a991d406112ba5833c7e8a144"}
+{"index": {"_index":"chary","_id":"1202400"}}
+	{"id":1202400,"type":"buy","buyer":"hakeemshah96","seller":"tailah.bayu1","symbol":"CHARY","quantity":"67.527","price":"0.00850000","timestamp":1625699598,"volume":"0.57397950","buyTxId":"6708fd93882a0739101119ab7d71977e43f05e8c","sellTxId":"c4b1e1e8961b6a26c38cec670d714714f5873223"}
+{"index": {"_index":"chary","_id":"1202401"}}
+	{"id":1202401,"type":"sell","buyer":"hakeemshah96","seller":"hakeemshah96","symbol":"CHARY","quantity":"12.959","price":"0.00850000","timestamp":1625699661,"volume":"0.11015150","buyTxId":"6708fd93882a0739101119ab7d71977e43f05e8c","sellTxId":"e209fc5014d069fb0f37d16ea2077c89eec71847"}
