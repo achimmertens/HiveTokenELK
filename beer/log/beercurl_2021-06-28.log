@@ -1,0 +1,14 @@
+{"index": {"_index":"beer","_id":"1174271"}}
+	{"id":1174271,"type":"sell","buyer":"zoe24","seller":"forexbrokr","symbol":"BEER","quantity":"0.02500000","price":"0.18504000","timestamp":1624760274,"volume":"0.00462600","buyTxId":"ca9da4e1b7e2152cfec4f0acc65f98b2327c7f69","sellTxId":"fffa2ab9f428b3a26cb544b12f83c3219d416174"}
+{"index": {"_index":"beer","_id":"1174551"}}
+	{"id":1174551,"type":"sell","buyer":"juanvegetarian","seller":"vcelier","symbol":"BEER","quantity":"0.17400000","price":"0.18505000","timestamp":1624771518,"volume":"0.03219870","buyTxId":"6ff3909a056b4d87f0526096233540939d632ad8","sellTxId":"462ace8bef29d55a4c52485d4ae1d54eeab98e52"}
+{"index": {"_index":"beer","_id":"1174873"}}
+	{"id":1174873,"type":"sell","buyer":"atomcollector","seller":"itharagaian","symbol":"BEER","quantity":"0.00300000","price":"0.18506000","timestamp":1624788489,"volume":"0.00055518","buyTxId":"799f05b555e5e7a3d76b922073bf8a9c131fd657","sellTxId":"d3db32a858cdb8a6047d4e5875f26102eef3dd35"}
+{"index": {"_index":"beer","_id":"1175424"}}
+	{"id":1175424,"type":"sell","buyer":"atomcollector","seller":"mafia.wallet","symbol":"BEER","quantity":"0.057","price":"0.18506000","timestamp":1624805292,"volume":"0.01054842","buyTxId":"799f05b555e5e7a3d76b922073bf8a9c131fd657","sellTxId":"0d97667e23536464a962d0b58b80fba8b1e40d21-2"}
+{"index": {"_index":"beer","_id":"1176108"}}
+	{"id":1176108,"type":"sell","buyer":"juanvegetarian","seller":"alberto0607","symbol":"BEER","quantity":"0.00010012","price":"0.18505000","timestamp":1624826868,"volume":"0.00001853","buyTxId":"6ff3909a056b4d87f0526096233540939d632ad8","sellTxId":"14ff9548e5c15f51facc0a78ead01c4795906ea6"}
+{"index": {"_index":"beer","_id":"1176126"}}
+	{"id":1176126,"type":"sell","buyer":"juanvegetarian","seller":"deathwing","symbol":"BEER","quantity":"0.007","price":"0.18505000","timestamp":1624827306,"volume":"0.00129535","buyTxId":"6ff3909a056b4d87f0526096233540939d632ad8","sellTxId":"3cde88a48061d84998c5546c1b39e0f903e2ec83-3"}
+{"index": {"_index":"beer","_id":"1176455"}}
+	{"id":1176455,"type":"sell","buyer":"schlees","seller":"mafia.wallet","symbol":"BEER","quantity":"0.057","price":"0.19000000","timestamp":1624838436,"volume":"0.01083000","buyTxId":"bdbd1006e26005861cba05bfed2e7cf63c7a0cdd","sellTxId":"32df75155254af3a110e0d2cc272e3aa57dea388-1"}

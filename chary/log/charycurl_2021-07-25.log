@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1249904"}}
+	{"id":1249904,"type":"buy","buyer":"charityball","seller":"crypto133","symbol":"CHARY","quantity":"43.000","price":"0.00949000","timestamp":1627158126,"volume":"0.40807000","buyTxId":"fe5b83d3b929efbfd04593a8516132b630d709bb","sellTxId":"72dad0ce1c1d0d35a936b627134632dca3994c82"}

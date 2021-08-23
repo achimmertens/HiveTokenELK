@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1297259"}}
+	{"id":1297259,"type":"buy","buyer":"charityball","seller":"uyobong","symbol":"CHARY","quantity":"175.000","price":"0.00890000","timestamp":1627957563,"volume":"1.55750000","buyTxId":"136fa68b95e2e923f119f9cee30f2c5125eb8f80","sellTxId":"b68abe6575f3e678cdecd867fe4b67171e4f0beb"}

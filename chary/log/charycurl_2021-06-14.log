@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1138908"}}
+	{"id":1138908,"type":"buy","buyer":"charityball","seller":"wallet-kabil","symbol":"CHARY","quantity":"200.000","price":"0.01900000","timestamp":1623564537,"volume":"3.80000000","buyTxId":"42bebc47ab20bc4e50e81a80b22fe2f00c4041f8","sellTxId":"d0670e42356743d9e77935e5f840b68945edb87f"}

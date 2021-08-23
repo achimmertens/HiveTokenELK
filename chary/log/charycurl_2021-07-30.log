@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1276127"}}
+	{"id":1276127,"type":"buy","buyer":"charityball","seller":"mykos","symbol":"CHARY","quantity":"25.000","price":"0.00900000","timestamp":1627600695,"volume":"0.22500000","buyTxId":"9b707b0850d5c8f88361c5752d32c850b4cd1003","sellTxId":"5ca28727d7d9960e1995ea4e7f2daa922eb27673"}

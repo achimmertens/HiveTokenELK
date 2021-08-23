@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1165678"}}
+	{"id":1165678,"type":"buy","buyer":"charityball","seller":"hive09","symbol":"CHARY","quantity":"61.000","price":"0.01950000","timestamp":1624428738,"volume":"1.18950000","buyTxId":"5adeec0f759e468ac9ce1c208bb0f530ba86ec6f","sellTxId":"0c65d5acdb2089e4f196ef9afefbbea414d0b989"}

@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1211821"}}
+	{"id":1211821,"type":"buy","buyer":"charityball","seller":"tailah.bayu1","symbol":"CHARY","quantity":"25.000","price":"0.00900000","timestamp":1626025365,"volume":"0.22500000","buyTxId":"71066a5180d4846efa0e3b9c667845151d66dc01","sellTxId":"afae0e9a8d12a5612e576dd392e61f1991b7972a"}

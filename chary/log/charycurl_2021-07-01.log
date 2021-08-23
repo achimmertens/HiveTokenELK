@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1182552"}}
+	{"id":1182552,"type":"buy","buyer":"charityball","seller":"nickyhavey","symbol":"CHARY","quantity":"7.000","price":"0.01940000","timestamp":1625027103,"volume":"0.13580000","buyTxId":"f1d0a5e2c02ef4c9ccf447f7334550bea4ffa59b","sellTxId":"ea7b8640d6bc78b9fe332c94025a3a9ea59d5a72"}
