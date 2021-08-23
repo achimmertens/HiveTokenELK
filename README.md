@@ -240,11 +240,17 @@ After executing it looks like this:
 Now this script has to run regularely. This is done with crontab. Meanwhile I have several scripts. They start every morning at 4:50, 4:51, 4:52,...:
 > crontab -e
 #m h  dom mon dow   command
+49 4 * * Tue rm /var/www/html/elk/index.html
 50 4 * * * /home/pi/chary/charycurl.sh >> /home/pi/chary/cron.log
 51 4 * * * /home/pi/elk/beer/beercurl_json.sh >> /home/pi/elk/beer/log/cron.log
 52 4 * * * /home/pi/elk/chary/charycurl_json.sh >> /home/pi/elk/chary/log/cron.log
 53 4 * * * /home/pi/elk/pob/pobcurl_json.sh >> /home/pi/elk/pob/log/cron.log
 54 4 * * * /home/pi/elk/list/listcurl_json.sh >> /home/pi/elk/list/log/cron.log
+55 4 * * * /home/pi/elk/leo/leocurl_json.sh >> /home/pi/elk/leo/log/cron.log
+56 4 * * * /home/pi/elk/sim/simcurl_json.sh >> /home/pi/elk/sim/log/cron.log
+57 4 * * * /home/pi/elk/beer/botcurl_json.sh >> /home/pi/elk/beer/logbot/cron.log
+
+
 
 A cron.log looks like this:
 
