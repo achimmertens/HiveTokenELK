@@ -1,0 +1,14 @@
+{"index": {"_index":"list","_id":"1435834"}}
+	{"id":1435834,"type":"sell","buyer":"thelogicaldude","seller":"justinparke","symbol":"LIST","quantity":"5.68043439","price":"0.01190002","timestamp":1630123683,"volume":"0.06759728","buyTxId":"MM-P-9814289-56797636-3-0-0","sellTxId":"cda2c04644cd412bd3b68134ee86a9347aae1ef8"}
+{"index": {"_index":"list","_id":"1435835"}}
+	{"id":1435835,"type":"sell","buyer":"lebah","seller":"justinparke","symbol":"LIST","quantity":"1.37139166","price":"0.01180002","timestamp":1630123683,"volume":"0.01618245","buyTxId":"d5bb683f41c7666a44232ac07e6039f15f172dc9","sellTxId":"cda2c04644cd412bd3b68134ee86a9347aae1ef8"}
+{"index": {"_index":"list","_id":"1436514"}}
+	{"id":1436514,"type":"sell","buyer":"lebah","seller":"pablodare","symbol":"LIST","quantity":"19.00980015","price":"0.01180002","timestamp":1630138452,"volume":"0.22431602","buyTxId":"d5bb683f41c7666a44232ac07e6039f15f172dc9","sellTxId":"a4dbdff5f299b6577f0d0103008ffafb984748a5"}
+{"index": {"_index":"list","_id":"1438272"}}
+	{"id":1438272,"type":"sell","buyer":"lebah","seller":"esmeesmith","symbol":"LIST","quantity":"2.90738958","price":"0.01180002","timestamp":1630169874,"volume":"0.03430726","buyTxId":"d5bb683f41c7666a44232ac07e6039f15f172dc9","sellTxId":"c5b5cab3143fae3f263c5285dd9bab90d002f33c"}
+{"index": {"_index":"list","_id":"1438393"}}
+	{"id":1438393,"type":"buy","buyer":"curatorcat.leo","seller":"dhedge-drips","symbol":"LIST","quantity":"0.18088155","price":"0.01649900","timestamp":1630170834,"volume":"0.00298436","buyTxId":"b5894016c37edca1a32afd037ec68b0d9ac560bd","sellTxId":"3b351167fa4fa4b5fd7a25c6cff3bcc18fa53263"}
+{"index": {"_index":"list","_id":"1438401"}}
+	{"id":1438401,"type":"buy","buyer":"curatorcat.leo","seller":"thelogicaldude","symbol":"LIST","quantity":"7.76000000","price":"0.01649900","timestamp":1630170891,"volume":"0.12803224","buyTxId":"a5670a248a31d36efb45e0c200b9bae12d5e10f9","sellTxId":"MM-P-9949788-56933375-3-0-0"}
+{"index": {"_index":"list","_id":"1439561"}}
+	{"id":1439561,"type":"sell","buyer":"lebah","seller":"crypto133","symbol":"LIST","quantity":"15.71141861","price":"0.01180002","timestamp":1630187490,"volume":"0.18539505","buyTxId":"d5bb683f41c7666a44232ac07e6039f15f172dc9","sellTxId":"8ea5d4b2a58fcfc471ce13a6d526aba7e6583fb1"}

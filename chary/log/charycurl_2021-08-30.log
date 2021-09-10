@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"1439390"}}
+	{"id":1439390,"type":"buy","buyer":"charityball","seller":"elkezaksek","symbol":"CHARY","quantity":"777.000","price":"0.00950000","timestamp":1630184202,"volume":"7.38150000","buyTxId":"cc8c0b127b4ccfbbdc135d4ae04f98dcd359dc57","sellTxId":"f97ce37b640bb2247cc936a3451d96c015f5d5b2"}
+{"index": {"_index":"chary","_id":"1444373"}}
+	{"id":1444373,"type":"buy","buyer":"charityball","seller":"crypto133","symbol":"CHARY","quantity":"3333.000","price":"0.00949000","timestamp":1630264293,"volume":"31.63017000","buyTxId":"7937cfbf66081acf2794416d544ae29b6d03599b","sellTxId":"27f9e66fc214397c9ab691f1c2365503a889782e"}

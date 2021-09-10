@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1481153"}}
+	{"id":1481153,"type":"sell","buyer":"achimmertens","seller":"charityball","symbol":"CHARY","quantity":"298.211","price":"0.00500000","timestamp":1630793949,"volume":"1.49105500","buyTxId":"49c42ece0a1a6df8358651580e135570e42e7244","sellTxId":"42ae52311cd35d2db62d2322db4a52c81a12ba39"}
