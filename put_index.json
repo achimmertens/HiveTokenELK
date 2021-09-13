@@ -1,9 +1,3 @@
-GET .kibana/_search?q=type:index-pattern
-{}
-
-get /_cat/indices
-
-put leo
 {  
   "aliases" : { },
   "mappings" : {
