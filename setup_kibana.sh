@@ -26,3 +26,5 @@ curl --location --request POST 'http://localhost:9200/token/_bulk?' --header 'Co
 curl --location --request POST 'http://localhost:9200/token/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/pob/log/pobcurlcons.log
 curl --location --request POST 'http://localhost:9200/token/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/sim/log/simcurlcons.log
 curl --location --request POST 'http://localhost:9200/token/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/beer/logbot/beerbotcurlcons.log
+
+# Now upload "All_kibana_objects.ndjson
