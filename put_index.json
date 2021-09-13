@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-{
-  
-    "aliases" : { },
-    "mappings" : {
-      "properties" : {
-        "buyTxId" : {
-          "type" : "text",
-          "fields" : {
-            "keyword" : {
-              "type" : "keyword",
-              "ignore_above" : 256
-            }
-=======
-GET .kibana/_search?q=type:index-pattern
-{}
-
-get /_cat/indices
-
-put leo
-{  
-  "aliases" : { },
   "mappings" : {
     "properties" : {
       "buyTxId" : {
@@ -28,7 +6,6 @@ put leo
           "keyword" : {
             "type" : "keyword",
             "ignore_above" : 256
->>>>>>> 182079de8e9c869bafdccc6beb2dfcd62c7291d3
           }
         }
       },
