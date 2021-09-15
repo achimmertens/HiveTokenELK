@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"1470670"}}
+	{"id":1470670,"type":"sell","buyer":"achimmertens","seller":"abbey877","symbol":"CHARY","quantity":"186.810","price":"0.00500000","timestamp":1630650624,"volume":"0.93405000","buyTxId":"49c42ece0a1a6df8358651580e135570e42e7244","sellTxId":"cc799a8c1ac4c6cc20e02e29df8ef6a06e2eab0a"}
+{"index": {"_index":"chary","_id":"1472873"}}
+	{"id":1472873,"type":"sell","buyer":"achimmertens","seller":"teenagecrypto","symbol":"CHARY","quantity":"34.913","price":"0.00500000","timestamp":1630688574,"volume":"0.17456500","buyTxId":"49c42ece0a1a6df8358651580e135570e42e7244","sellTxId":"b50b46b85f0815d55f7840c36874c02aa4d6a084"}
