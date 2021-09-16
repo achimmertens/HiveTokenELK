@@ -1,3 +1,2 @@
-The price of $USD/$HIVE =  0.75077477
-. The price of $HIVE/$CHARY =  0.00500000
-. The price of $USD/$CHARY =  .00375387
+{"index": {"_index":"tokenprice"}
+	{"token":"chary","timestamp":1631274978,"usd_hive":"0.75","hive_chary":"0.005","usd_chary":"0.0037"}
