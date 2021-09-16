@@ -1,0 +1,29 @@
+{
+  "aliases" : { },
+  "mappings" : {
+    "properties" : {
+              "token" : {
+        "type" : "text",
+        "fields" : {
+          "keyword" : {
+            "type" : "keyword",
+            "ignore_above" : 256
+          }
+        }
+      },
+      "timestamp" : {
+        "type" : "date",
+        "format" : "epoch_second"
+      },
+       "usd_hive" : {
+        "type" : "float"
+      },
+       "hive_token" : {
+        "type" : "float"
+      },
+      "usd_token" : {
+        "type" : "float"
+      }
+    }
+  }
+}
