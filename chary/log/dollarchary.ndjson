@@ -1,2 +1,2 @@
-{"index": {"_index":"tokenprice"}}
+{"index": {"_index":"dollartoken"}}
 	{"token":"chary","timestamp":1631274978,"usd_hive":"0.75","hive_token":"0.005","usd_token":"0.0037"}
