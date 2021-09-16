@@ -1186,3 +1186,7 @@
 	{"id":1505588,"type":"sell","buyer":"achimmertens","seller":"phoenixwren","symbol":"CHARY","quantity":"0.173","price":"0.00500000","timestamp":1631225190,"volume":"0.00086500","buyTxId":"49c42ece0a1a6df8358651580e135570e42e7244","sellTxId":"a1e54a81e08a2624ae2d4bf8e24144ce0766a31b"}
 {"index": {"_index":"chary","_id":"1507669"}}
 	{"id":1507669,"type":"sell","buyer":"achimmertens","seller":"elkezaksek","symbol":"CHARY","quantity":"6287.200","price":"0.00500000","timestamp":1631274978,"volume":"31.43600000","buyTxId":"49c42ece0a1a6df8358651580e135570e42e7244","sellTxId":"c84bc890dbb4874027c81249e6b88d3327848b22"}
+{"index": {"_index":"chary","_id":"1505588"}}
+	{"id":1505588,"type":"sell","buyer":"achimmertens","seller":"phoenixwren","symbol":"CHARY","quantity":"0.173","price":"0.00500000","timestamp":1631225190,"volume":"0.00086500","buyTxId":"49c42ece0a1a6df8358651580e135570e42e7244","sellTxId":"a1e54a81e08a2624ae2d4bf8e24144ce0766a31b"}
+{"index": {"_index":"chary","_id":"1507669"}}
+	{"id":1507669,"type":"sell","buyer":"achimmertens","seller":"elkezaksek","symbol":"CHARY","quantity":"6287.200","price":"0.00500000","timestamp":1631274978,"volume":"31.43600000","buyTxId":"49c42ece0a1a6df8358651580e135570e42e7244","sellTxId":"c84bc890dbb4874027c81249e6b88d3327848b22"}
