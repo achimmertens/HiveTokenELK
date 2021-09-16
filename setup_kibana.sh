@@ -21,6 +21,7 @@ curl --location --request PUT 'http://localhost:9200/beerbot' --header 'Content-
 curl --location --request PUT 'http://localhost:9200/spt' --header 'Content-Type: application/json' --data-bin @put_index.json
 
 # bulkload the consolidated data for each token
+# (Question: Shouldn't I rename "token" in the URL into the real tokenname? I think it worked last time like it is, but I don't know why)
 curl --location --request POST 'http://localhost:9200/token/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/beer/log/beercurlcons.log
 curl --location --request POST 'http://localhost:9200/token/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/chary/log/charycurlcons.log
 curl --location --request POST 'http://localhost:9200/token/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/leo/log/leocurlcons.log
