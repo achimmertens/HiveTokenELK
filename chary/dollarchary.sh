@@ -18,10 +18,12 @@ CMC="$LOGPATH/coinmarketcap.tmp2"
 echo "CMC = "$CMC
 HIVEPRICE="$LOGPATH/hiveprice.tmp"
 echo "HIVEPRICE = "$HIVEPRICE
-DOLLARCHARY="$LOGPATH/dollarchary.json"
-echo "DOLLARCHARY = "$DOLLARCHARY
+DOLLARTOKEN="$LOGPATH/dollartoken.json"
+echo "DOLLARTOKEN = "$DOLLARTOKEN
 LOG3="$LOGPATH/$TOKEN""curl3.log"
 echo "LOG3 = "$LOG3
+TIMESTAMP=$(date +%s)
+echo $TIMESTAMP
 
 # Get Hive/US-Dollar value
 curl -H "X-CMC_PRO_API_KEY: a1ff4bd0-2ac9-4700-ae61-6eaa62f56adc" -H "Accept: application/json" -d "symbol=HIVE" -G https://pro-api.coinmarketcap.com/v1/cryptocurrency/info > $CMC 
@@ -33,17 +35,17 @@ curl -H "X-CMC_PRO_API_KEY: a1ff4bd0-2ac9-4700-ae61-6eaa62f56adc" -H "Accept: ap
 HIVEPRICE=`cat $CMC  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}'`
 echo "The price of \$USD/\$HIVE = "$HIVEPRICE 
 # echo "The price of \$USD/\$HIVE = "$HIVEPRICE > $CHARYDOLLAR
-CHARYPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}'`
-CHARYPRICE=`echo $CHARYPRICELIST | awk -F ' ' '{print $NF}'`
-echo "The price of \$HIVE/\$CHARY = " $CHARYPRICE
+TOKENPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}'`
+TOKENPRICE=`echo $TOKENPRICELIST | awk -F ' ' '{print $NF}'`
+echo "The price of \$HIVE/$TOKEN = " $TOKENPRICE
 # echo ". The price of \$HIVE/\$CHARY = " $CHARYPRICE >> $CHARYDOLLAR
-CHARY_DOLLAR=`echo $CHARYPRICE \* $HIVEPRICE|bc`
-echo "The price of \$USD/\$CHARY = "$CHARY_DOLLAR
+DOLLAR_TOKEN=`echo $TOKENPRICE \* $HIVEPRICE|bc`
+echo "The price of \$USD/\$CHARY = "$DOLLAR_TOKEN
 # echo ". The price of \$USD/\$CHARY = " $CHARY_DOLLAR >> $CHARYDOLLAR
 
 echo "{\"index\": {\"_index\":\"dollartoken\"}} 
-{\"token\":\"chary\",\"charyprice\":$CHARYPRICE}" > $DOLLARCHARY
-# {"token":"chary","timestamp":1631274978,"usd_hive":"0.75","hive_token":"0.005","usd_token":"0.0037"}"
+{\"token\":\"$TOKEN\",\"timestamp\":$TIMESTAMP,\"usd_hive\":$HIVEPRICE,\"hive_token\":$TOKENPRICE,\"usd_token\":$DOLLAR_TOKEN}" > $DOLLARTOKEN
+# {"token":$TOKEN,"timestamp":1631274978,"usd_hive":"0.75","hive_token":"0.005","usd_token":"0.0037"}"
 
 
 
