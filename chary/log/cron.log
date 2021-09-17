@@ -2440,4 +2440,22 @@ CHARYDOLLAR = /home/pi/elk/chary/log/charydollar.tmp
 The price of $USD/$HIVE =  0.75077477
 The price of $HIVE/$CHARY =  0.00500000
 The price of $USD/$CHARY = .00375387
-{"took":33,"errors":false,"items":[{"index":{"_index":"chary","_type":"_doc","_id":"1505588","_version":7,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":585,"_primary_term":1,"status":200}},{"index":{"_index":"chary","_type":"_doc","_id":"1507669","_version":6,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":586,"_primary_term":1,"status":200}}]}
+{"took":33,"errors":false,"items":[{"index":{"_index":"chary","_type":"_doc","_id":"1505588","_version":7,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":585,"_primary_term":1,"status":200}},{"index":{"_index":"chary","_type":"_doc","_id":"1507669","_version":6,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":586,"_primary_term":1,"status":200}}]}Token = chary
+DATE = 2021-09-17
+LOGPATH = /home/pi/elk/chary/log
+CMC = /home/pi/elk/chary/log/coinmarketcap.tmp
+HIVEPRICE = /home/pi/elk/chary/log/hiveprice.tmp
+LOG = /home/pi/elk/chary/log/charycurl.log
+LOG1 = /home/pi/elk/chary/log/charycurl1.log
+LOG2 = /home/pi/elk/chary/log/charycurl2.log
+LOG3 = /home/pi/elk/chary/log/charycurl3.log
+LOGDATE = /home/pi/elk/chary/log/charycurl_2021-09-17.log
+LOGCONS = /home/pi/elk/chary/log/charycurlcons.log
+INDEXLOG = /home/pi/elk/chary/log/chary_ids.log
+INDEXLOG2 = /home/pi/elk/chary/log/chary_ids2.log
+INDEXLOG3 = /home/pi/elk/chary/log/chary_ids3.log
+CHARYDOLLAR = /home/pi/elk/chary/log/charydollar.tmp
+The price of $USD/$HIVE =  0.75118936
+The price of $HIVE/$CHARY =  0.00033000
+The price of $USD/$CHARY = .00024789
+{"took":26,"errors":false,"items":[{"index":{"_index":"chary","_type":"_doc","_id":"1536178","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":587,"_primary_term":1,"status":201}}]}
