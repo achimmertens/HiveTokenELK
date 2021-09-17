@@ -41,7 +41,8 @@ CHARY_DOLLAR=`echo $CHARYPRICE \* $HIVEPRICE|bc`
 echo "The price of \$USD/\$CHARY = "$CHARY_DOLLAR
 # echo ". The price of \$USD/\$CHARY = " $CHARY_DOLLAR >> $CHARYDOLLAR
 
-echo "{\"index\": {\"_index\":\"dollartoken\"}}" > $DOLLARCHARY
+echo "{\"index\": {\"_index\":\"dollartoken\"}} 
+{\"token\":\"chary\",\"charyprice\":$CHARYPRICE}" > $DOLLARCHARY
 # {"token":"chary","timestamp":1631274978,"usd_hive":"0.75","hive_token":"0.005","usd_token":"0.0037"}"
 
 
