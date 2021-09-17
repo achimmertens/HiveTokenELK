@@ -1,2 +1,0 @@
-{"index": {"_index":"chary","_id":"1104807"}}
-	{"id":1104807,"type":"sell","buyer":"wallet-kabil","seller":"gimmetricks1","symbol":"CHARY","quantity":"10.985","price":"0.00050000","timestamp":1622516907,"volume":"0.00549250","buyTxId":"223cd00263b98de9480ff98aa09f7edbcaef609b","sellTxId":"65c224d1d6d89912ffa4e6986fd65dfa49c18ee4"}

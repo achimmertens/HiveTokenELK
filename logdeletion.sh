@@ -15,15 +15,13 @@
 # (du -hs $i)
 # done
 
-# Finde alle Dateien, die älter sind als 10 Tage und Lösche sie.
+# Finde alle vorgegebenen Dateien, die älter sind als 10 Tage und Lösche sie.
 
-arrayname=("Chary","beer")
-echo "{$arrayname[@]}"
+arrayname=('chary' 'beer' 'leo' 'list' 'pob' 'sim' 'spt')
 for i in "${arrayname[@]}"
 do 
 LOGPATH="/home/pi/elk/$i/log"
 echo "LOGPATH = "$LOGPATH
-find $LOGPATH -name "*.log" -type f -mtime +10 
-# -exec rm {} \;
+find $LOGPATH -name "*.log" -type f -mtime +10 -exec rm {} \;
 done
 
