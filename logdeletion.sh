@@ -15,8 +15,7 @@
 # (du -hs $i)
 # done
 
+# Finde alle Dateien, die älter sind als 10 Tage und Lösche sie.
 LOGPATH="/home/pi/elk/chary/log"
 echo "LOGPATH = "$LOGPATH
-find $LOGPATH -name "*.log" -type f -mtime +10 
-# -exec rm {} \;
-# Finde alle Dateien, die älter sind als 10 Tage und Lösche sie.
+find $LOGPATH -name "*.log" -type f -mtime +10 -exec rm {} \;
