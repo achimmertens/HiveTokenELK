@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1546361"}}
+	{"id":1546361,"type":"sell","buyer":"metzli","seller":"shainemata","symbol":"CHARY","quantity":"2.051","price":"0.00033000","timestamp":1631985015,"volume":"0.00067683","buyTxId":"1c50bb93badd3bfd373e1daf4c7fd107a428b0a3","sellTxId":"939e2af985fb2de49dadce3ebbf65fef88a7e8e7"}
