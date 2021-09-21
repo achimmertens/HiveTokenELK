@@ -39,13 +39,15 @@ TOKENPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print
 TOKENPRICE=`echo $TOKENPRICELIST | awk -F ' ' '{print $NF}'`
 echo "The price of \$HIVE/$TOKEN = " $TOKENPRICE
 # echo ". The price of \$HIVE/\$CHARY = " $CHARYPRICE >> $CHARYDOLLAR
-DOLLAR_TOKEN=`echo $TOKENPRICE \* $HIVEPRICE|bc`
+DOLLAR_TOKEN=`echo scale=4; $TOKENPRICE \* $HIVEPRICE|bc`
 echo "The price of \$USD/\$CHARY = "$DOLLAR_TOKEN
 # echo ". The price of \$USD/\$CHARY = " $CHARY_DOLLAR >> $CHARYDOLLAR
 
 echo "{\"index\": {\"_index\":\"dollartoken\"}} 
-{\"token\":\"$TOKEN\",\"timestamp\":$TIMESTAMP,\"usd_hive\":$HIVEPRICE,\"hive_token\":$TOKENPRICE,\"usd_token\":$DOLLAR_TOKEN}" > $DOLLARTOKEN
+{\"token\":\"$TOKEN\",\"timestamp\":$TIMESTAMP,\"usd_hive\":$HIVEPRICE,\"hive_token\":$TOKENPRICE,\"usd_token\":$DOLLAR_TOKEN}" >> $DOLLARTOKEN
 # {"token":$TOKEN,"timestamp":1631274978,"usd_hive":"0.75","hive_token":"0.005","usd_token":"0.0037"}"
+
+# curl --location --request POST 'http://localhost:9200/dollartoken/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/chary/log/dollartoken.json
 
 
 
