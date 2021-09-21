@@ -39,7 +39,7 @@ TOKENPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print
 TOKENPRICE=`echo $TOKENPRICELIST | awk -F ' ' '{print $NF}'`
 echo "The price of \$HIVE/$TOKEN = " $TOKENPRICE
 # echo ". The price of \$HIVE/\$CHARY = " $CHARYPRICE >> $CHARYDOLLAR
-DOLLAR_TOKEN=`echo scale=4; $TOKENPRICE \* $HIVEPRICE|bc`
+DOLLAR_TOKEN=`echo "scale=6; x=$TOKENPRICE*$HIVEPRICE; if(x<1) print 0;x/1"|bc`
 echo "The price of \$USD/\$CHARY = "$DOLLAR_TOKEN
 # echo ". The price of \$USD/\$CHARY = " $CHARY_DOLLAR >> $CHARYDOLLAR
 
