@@ -8,7 +8,7 @@
 
  
 # Set some variables:
-TOKEN="chary"
+TOKEN="list"
 echo "Token = "$TOKEN
 DATE=`date -I`
 echo "DATE = "$DATE
@@ -34,14 +34,11 @@ curl -H "X-CMC_PRO_API_KEY: a1ff4bd0-2ac9-4700-ae61-6eaa62f56adc" -H "Accept: ap
 # ---- calculating Hiveprice ----
 HIVEPRICE=`cat $CMC  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}'`
 echo "The price of \$USD/\$HIVE = "$HIVEPRICE 
-# echo "The price of \$USD/\$HIVE = "$HIVEPRICE > $CHARYDOLLAR
 TOKENPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}'`
 TOKENPRICE=`echo $TOKENPRICELIST | awk -F ' ' '{print $NF}'`
 echo "The price of \$HIVE/$TOKEN = " $TOKENPRICE
-# echo ". The price of \$HIVE/\$CHARY = " $CHARYPRICE >> $CHARYDOLLAR
 DOLLAR_TOKEN=`echo "scale=6; x=$TOKENPRICE*$HIVEPRICE; if(x<1) print 0;x/1"|bc`
-echo "The price of \$USD/\$CHARY = "$DOLLAR_TOKEN
-# echo ". The price of \$USD/\$CHARY = " $CHARY_DOLLAR >> $CHARYDOLLAR
+echo "The price of \$USD/\$TOKEN = "$DOLLAR_TOKEN
 
 echo "{\"index\": {\"_index\":\"dollartoken\"}} 
 {\"token\":\"$TOKEN\",\"timestamp\":$TIMESTAMP,\"usd_hive\":$HIVEPRICE,\"hive_token\":$TOKENPRICE,\"usd_token\":$DOLLAR_TOKEN}" >> $DOLLARTOKEN
