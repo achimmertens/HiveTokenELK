@@ -1,0 +1,14 @@
+{"index": {"_index":"beer","_id":"2542748"}}
+	{"id":2542748,"type":"sell","buyer":"harveyword","seller":"oks2crypto","symbol":"BEER","quantity":"3.25000000","price":"0.05553000","timestamp":1642165203,"volume":"0.18047250","buyTxId":"9ba5c183d978fa5ef797ea93a544cb77efacbe66","sellTxId":"0fce35a6c84c077606d7bfbc522064dcc9ca7b44"}
+{"index": {"_index":"beer","_id":"2543535"}}
+	{"id":2543535,"type":"sell","buyer":"harveyword","seller":"andy4475","symbol":"BEER","quantity":"3.59336749","price":"0.05553000","timestamp":1642173444,"volume":"0.19953970","buyTxId":"9ba5c183d978fa5ef797ea93a544cb77efacbe66","sellTxId":"94da44805f96b69b8a29ccb684214cb3d30a69bf"}
+{"index": {"_index":"beer","_id":"2544303"}}
+	{"id":2544303,"type":"sell","buyer":"harveyword","seller":"marsupia","symbol":"BEER","quantity":"2.5","price":"0.05553000","timestamp":1642181841,"volume":"0.13882500","buyTxId":"9ba5c183d978fa5ef797ea93a544cb77efacbe66","sellTxId":"d1fe130826fb39fddef13c2234edb72bd8246557"}
+{"index": {"_index":"beer","_id":"2544725"}}
+	{"id":2544725,"type":"sell","buyer":"harveyword","seller":"esmeesmith","symbol":"BEER","quantity":"0.05","price":"0.05553000","timestamp":1642187988,"volume":"0.00277650","buyTxId":"9ba5c183d978fa5ef797ea93a544cb77efacbe66","sellTxId":"9c1d590cb987c0bd5a6a1f9f8407f4c70c63e382"}
+{"index": {"_index":"beer","_id":"2545453"}}
+	{"id":2545453,"type":"sell","buyer":"harveyword","seller":"theclasser1","symbol":"BEER","quantity":"3.00900000","price":"0.05553000","timestamp":1642196241,"volume":"0.16708977","buyTxId":"9ba5c183d978fa5ef797ea93a544cb77efacbe66","sellTxId":"e23e871af5f355a98d63d697ff5a98ccfe2898c6"}
+{"index": {"_index":"beer","_id":"2545658"}}
+	{"id":2545658,"type":"buy","buyer":"detlev","seller":"saulos","symbol":"BEER","quantity":"0.10000000","price":"0.17900000","timestamp":1642198725,"volume":"0.01790000","buyTxId":"05ea7b78caf75df89e25bd7c20b16dd65d824a84","sellTxId":"ae1c8b8bcea842cab50f9f36477affe1f074d91b"}
+{"index": {"_index":"beer","_id":"2546629"}}
+	{"id":2546629,"type":"sell","buyer":"chaoabunga","seller":"misuli","symbol":"BEER","quantity":"0.61500000","price":"0.16000000","timestamp":1642210233,"volume":"0.09840000","buyTxId":"43912b53acd4be6ce767d200450baa2925c92123","sellTxId":"acadb67602c8a5b6f9246dd889e768e8b842b68c"}

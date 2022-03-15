@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1746128"}}
+	{"id":1746128,"type":"sell","buyer":"kasna","seller":"anderssinho","symbol":"CHARY","quantity":"117.924","price":"0.00004700","timestamp":1634722248,"volume":"0.00554243","buyTxId":"226ca10772a49102a9668c5603dfc62b6e54db83","sellTxId":"d1d16e2504d0960c21ab2a8a26adfaabe3a4efbd"}

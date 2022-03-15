@@ -1,0 +1,14 @@
+{"index": {"_index":"beer","_id":"2534091"}}
+	{"id":2534091,"type":"sell","buyer":"chaoabunga","seller":"itharagaian","symbol":"BEER","quantity":"0.00100000","price":"0.05550000","timestamp":1642059255,"volume":"0.00005550","buyTxId":"6ce0b9fb03aa7f7320059510d3ed03d9ffaa7219","sellTxId":"ab47aa3fc40affad8113c0900f4cfcbc28f0f808"}
+{"index": {"_index":"beer","_id":"2536902"}}
+	{"id":2536902,"type":"sell","buyer":"princekham","seller":"hiveexplorers","symbol":"BEER","quantity":"0.02250000","price":"0.05551000","timestamp":1642092543,"volume":"0.00124898","buyTxId":"850bb2a8fa6fe74b9255deaba817f9b3afccb79a","sellTxId":"1114dcbadba21a3c1a77e462d63244925510fe45"}
+{"index": {"_index":"beer","_id":"2537504"}}
+	{"id":2537504,"type":"sell","buyer":"princekham","seller":"jjprac","symbol":"BEER","quantity":"1.14606693","price":"0.05551200","timestamp":1642097877,"volume":"0.06362047","buyTxId":"81a9edd727a61b571bd97e0ee2d2b006c1ad698f","sellTxId":"d9614d22a1abc4235ea3ab9ff4c71440f5b5a389"}
+{"index": {"_index":"beer","_id":"2537713"}}
+	{"id":2537713,"type":"sell","buyer":"princekham","seller":"lloyddavis","symbol":"BEER","quantity":"0.74155184","price":"0.05551200","timestamp":1642099971,"volume":"0.04116503","buyTxId":"81a9edd727a61b571bd97e0ee2d2b006c1ad698f","sellTxId":"0a05951f6f8cb39f246110ba694102c3f04c34a0"}
+{"index": {"_index":"beer","_id":"2538670"}}
+	{"id":2538670,"type":"sell","buyer":"princekham","seller":"itharagaian","symbol":"BEER","quantity":"0.00100000","price":"0.05552000","timestamp":1642112388,"volume":"0.00005552","buyTxId":"4d0056217971a4268ebc6f0dab0267fe6ada8c78","sellTxId":"5ffe01cab8dbf9d2cf8112cb1f1ae4f32fe75941"}
+{"index": {"_index":"beer","_id":"2538860"}}
+	{"id":2538860,"type":"sell","buyer":"princekham","seller":"leic","symbol":"BEER","quantity":"8.59083812","price":"0.05552000","timestamp":1642114419,"volume":"0.47696333","buyTxId":"4d0056217971a4268ebc6f0dab0267fe6ada8c78","sellTxId":"45d2b09140e47731f04fdfda69fd6ffb634baf45"}
+{"index": {"_index":"beer","_id":"2539350"}}
+	{"id":2539350,"type":"sell","buyer":"princekham","seller":"kamrunnahar","symbol":"BEER","quantity":"0.55126399","price":"0.05552000","timestamp":1642119654,"volume":"0.03060618","buyTxId":"4d0056217971a4268ebc6f0dab0267fe6ada8c78","sellTxId":"fde03a3d131300cb46c9d02137aaab0d006ce260"}

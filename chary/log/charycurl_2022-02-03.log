@@ -1,0 +1,6 @@
+{"index": {"_index":"chary","_id":"2678602"}}
+	{"id":2678602,"type":"sell","buyer":"alphacore","seller":"phusionphil","symbol":"CHARY","quantity":"1094.504","price":"0.00010000","timestamp":1643633256,"volume":"0.10945040","buyTxId":"0b67be8d46cfd0c1c58c5d10633039ad95e96e19","sellTxId":"3bdc42fbd95c74b3e2206c272b77d50a7d339e17"}
+{"index": {"_index":"chary","_id":"2680011"}}
+	{"id":2680011,"type":"sell","buyer":"alphacore","seller":"yintercept","symbol":"CHARY","quantity":"4.148","price":"0.00010000","timestamp":1643648961,"volume":"0.00041480","buyTxId":"0b67be8d46cfd0c1c58c5d10633039ad95e96e19","sellTxId":"fedb32bbde4518051ee5078ba22e93e9d386e1f5"}
+{"index": {"_index":"chary","_id":"2685419"}}
+	{"id":2685419,"type":"sell","buyer":"alphacore","seller":"pele23","symbol":"CHARY","quantity":"0.576","price":"0.00010000","timestamp":1643719146,"volume":"0.00005760","buyTxId":"0b67be8d46cfd0c1c58c5d10633039ad95e96e19","sellTxId":"7ea07eceb8f03f55da1414f43d1dececae12e030"}

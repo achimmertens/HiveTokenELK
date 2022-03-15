@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"2187892"}}
+	{"id":2187892,"type":"buy","buyer":"holovision.cash","seller":"abimbola753","symbol":"CHARY","quantity":"791.293","price":"0.00100000","timestamp":1638807183,"volume":"0.79129300","buyTxId":"d9d6052ed3fd5fc4e1fea3fafede27b2d6f426d1","sellTxId":"4c691c648c2d587a46df8515ff1eaca41b66e5d7"}
+{"index": {"_index":"chary","_id":"2194616"}}
+	{"id":2194616,"type":"sell","buyer":"holovision.cash","seller":"semogtrebor","symbol":"CHARY","quantity":"208.707","price":"0.00100000","timestamp":1638889896,"volume":"0.20870700","buyTxId":"d9d6052ed3fd5fc4e1fea3fafede27b2d6f426d1","sellTxId":"c9ecd96e0d7f2acbc9e8b6e41ae3aae4c2c6210b"}

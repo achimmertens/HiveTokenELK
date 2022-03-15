@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2564735"}}
+	{"id":2564735,"type":"sell","buyer":"alphacore","seller":"pele23","symbol":"CHARY","quantity":"0.131","price":"0.00010000","timestamp":1642419975,"volume":"0.00001310","buyTxId":"0b67be8d46cfd0c1c58c5d10633039ad95e96e19","sellTxId":"1f4b3391e89717698b6b509550671482c3b0a182"}

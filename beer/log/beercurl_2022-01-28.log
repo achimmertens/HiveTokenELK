@@ -1,0 +1,16 @@
+{"index": {"_index":"beer","_id":"2648168"}}
+	{"id":2648168,"type":"sell","buyer":"detlev","seller":"maryjane.main","symbol":"BEER","quantity":"1.15200000","price":"0.15900000","timestamp":1643266161,"volume":"0.18316800","buyTxId":"439bbc31dd8c7f66180cccab86d278d6aed34421","sellTxId":"f43a9b3e9ff3c8a32735d1b9a0925e56b71fd17f"}
+{"index": {"_index":"beer","_id":"2648369"}}
+	{"id":2648369,"type":"sell","buyer":"detlev","seller":"itharagaian","symbol":"BEER","quantity":"0.00100000","price":"0.15900000","timestamp":1643268801,"volume":"0.00015900","buyTxId":"439bbc31dd8c7f66180cccab86d278d6aed34421","sellTxId":"b78493045e2e99142631bd8087fefb8f56e026da"}
+{"index": {"_index":"beer","_id":"2649874"}}
+	{"id":2649874,"type":"sell","buyer":"detlev","seller":"krakonos","symbol":"BEER","quantity":"0.88188903","price":"0.15900000","timestamp":1643286396,"volume":"0.14022036","buyTxId":"439bbc31dd8c7f66180cccab86d278d6aed34421","sellTxId":"8f76b0f7fe0e9284dc9a744585eb5b368c1ff53c"}
+{"index": {"_index":"beer","_id":"2649998"}}
+	{"id":2649998,"type":"sell","buyer":"detlev","seller":"martusamak","symbol":"BEER","quantity":"0.16833617","price":"0.15900000","timestamp":1643288301,"volume":"0.02676545","buyTxId":"439bbc31dd8c7f66180cccab86d278d6aed34421","sellTxId":"3edb78db91a06db64022a972eb4c472b6b9ce4df"}
+{"index": {"_index":"beer","_id":"2650035"}}
+	{"id":2650035,"type":"sell","buyer":"detlev","seller":"rexikhan","symbol":"BEER","quantity":"0.03100000","price":"0.15900000","timestamp":1643288742,"volume":"0.00492900","buyTxId":"439bbc31dd8c7f66180cccab86d278d6aed34421","sellTxId":"6508f2fa65644dec97d15c682d37e6b2361e2c2e"}
+{"index": {"_index":"beer","_id":"2650580"}}
+	{"id":2650580,"type":"sell","buyer":"detlev","seller":"chekohler","symbol":"BEER","quantity":"0.02500000","price":"0.15900000","timestamp":1643295447,"volume":"0.00397500","buyTxId":"439bbc31dd8c7f66180cccab86d278d6aed34421","sellTxId":"f261037167ef580ad80bb736bfae89fed8a508a9"}
+{"index": {"_index":"beer","_id":"2650889"}}
+	{"id":2650889,"type":"sell","buyer":"detlev","seller":"mafia.wallet","symbol":"BEER","quantity":"0.635","price":"0.15900000","timestamp":1643299452,"volume":"0.10096500","buyTxId":"439bbc31dd8c7f66180cccab86d278d6aed34421","sellTxId":"4c0415098c750b752cf14643d13e54bcacc36b33-3"}
+{"index": {"_index":"beer","_id":"2653755"}}
+	{"id":2653755,"type":"sell","buyer":"detlev","seller":"mima2606","symbol":"BEER","quantity":"1.05358144","price":"0.15900000","timestamp":1643326527,"volume":"0.16751945","buyTxId":"439bbc31dd8c7f66180cccab86d278d6aed34421","sellTxId":"cd462cbbbde2344bb6762188aafd2a0228aca937"}

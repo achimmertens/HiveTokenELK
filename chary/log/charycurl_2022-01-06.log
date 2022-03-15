@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2437752"}}
+	{"id":2437752,"type":"buy","buyer":"baconface","seller":"semogtrebor","symbol":"CHARY","quantity":"6.818","price":"0.00100000","timestamp":1641045501,"volume":"0.00681800","buyTxId":"6df41169923dd7cd0e822662041c86df39f4a55f","sellTxId":"c9ecd96e0d7f2acbc9e8b6e41ae3aae4c2c6210b"}

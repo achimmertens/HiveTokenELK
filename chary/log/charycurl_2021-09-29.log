@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1573299"}}
+	{"id":1573299,"type":"sell","buyer":"metzli","seller":"anderssinho","symbol":"CHARY","quantity":"36.538","price":"0.00033000","timestamp":1632467175,"volume":"0.01205754","buyTxId":"1c50bb93badd3bfd373e1daf4c7fd107a428b0a3","sellTxId":"43ab5521dcdb95b3fc85dfafb9c3b50a06817412"}
