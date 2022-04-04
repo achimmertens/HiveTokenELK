@@ -38,8 +38,8 @@ INDEXLOG2="$LOGPATH/$TOKEN"_ids2.log
 echo "INDEXLOG2 = "$INDEXLOG2
 INDEXLOG3="$LOGPATH/$TOKEN"_ids3.log
 echo "INDEXLOG3 = "$INDEXLOG3
-BEERDOLLAR="$LOGPATH/luvdollar.tmp"
-echo "BEERDOLLAR = "$BEERDOLLAR
+LUVDOLLAR="$LOGPATH/luvdollar.tmp"
+echo "LUVDOLLAR = "$LUVDOLLAR
 
 
 # Get Hive/US-Dollar value
