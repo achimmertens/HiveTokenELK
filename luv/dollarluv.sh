@@ -8,7 +8,7 @@
 
  
 # Set some variables:
-TOKEN="beer"
+TOKEN="luv"
 echo "Token = "$TOKEN
 DATE=`date -I`
 echo "DATE = "$DATE
