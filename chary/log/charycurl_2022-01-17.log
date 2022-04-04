@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2555930"}}
+	{"id":2555930,"type":"buy","buyer":"baconface","seller":"aiovo","symbol":"CHARY","quantity":"8.403","price":"0.00090000","timestamp":1642327011,"volume":"0.00756270","buyTxId":"36cc8524dc03bc21ebb00ebdc3ac8d9da8f9f148","sellTxId":"fbe8014e556c95569dc04ce053ff58058ca2bcaa"}

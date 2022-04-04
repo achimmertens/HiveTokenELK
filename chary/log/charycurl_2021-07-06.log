@@ -1,4 +1,0 @@
-{"index": {"_index":"chary","_id":"1196585"}}
-	{"id":1196585,"type":"sell","buyer":"tailah.bayu1","seller":"edystringz","symbol":"CHARY","quantity":"48.989","price":"0.00500000","timestamp":1625499882,"volume":"0.24494500","buyTxId":"af7e070a352216ff6138592b9c4432ab22f2fc71","sellTxId":"cd7a5384b04e37e4adab3d0b11a6811beaebeb18"}
-{"index": {"_index":"chary","_id":"1197309"}}
-	{"id":1197309,"type":"buy","buyer":"charityball","seller":"tailah.bayu1","symbol":"CHARY","quantity":"50.000","price":"0.01700000","timestamp":1625522979,"volume":"0.85000000","buyTxId":"8be29d2319b31077c53739474fa0465a12a28de6","sellTxId":"a423f7afeefa18d2abd33101ee5b3f7b5b3d9f49"}

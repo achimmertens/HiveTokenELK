@@ -1,0 +1,6 @@
+{"index": {"_index":"chary","_id":"2533418"}}
+	{"id":2533418,"type":"buy","buyer":"alphacore","seller":"ritxi","symbol":"CHARY","quantity":"393.968","price":"0.00100000","timestamp":1642049610,"volume":"0.39396800","buyTxId":"97b56a935ced555c621faec94c7e9491de469d07","sellTxId":"af40aa907d2005d806d9dd984d43425b7be94143"}
+{"index": {"_index":"chary","_id":"2533419"}}
+	{"id":2533419,"type":"buy","buyer":"alphacore","seller":"elkezaksek","symbol":"CHARY","quantity":"606.032","price":"0.00100000","timestamp":1642049610,"volume":"0.60603200","buyTxId":"97b56a935ced555c621faec94c7e9491de469d07","sellTxId":"eb02603e8a3589c6b6b61daf2bd4baa29e4bf16e"}
+{"index": {"_index":"chary","_id":"2534903"}}
+	{"id":2534903,"type":"sell","buyer":"alphacore","seller":"ekeminiemy","symbol":"CHARY","quantity":"279.487","price":"0.00010000","timestamp":1642069896,"volume":"0.02794870","buyTxId":"0b67be8d46cfd0c1c58c5d10633039ad95e96e19","sellTxId":"dc9ca01d71185d70a460f3a93329be925d28b75e"}

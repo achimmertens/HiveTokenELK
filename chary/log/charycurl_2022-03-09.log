@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2905933"}}
+	{"id":2905933,"type":"buy","buyer":"baconface","seller":"glimpsytips","symbol":"CHARY","quantity":"19.928","price":"0.00100000","timestamp":1646409900,"volume":"0.01992800","buyTxId":"7a713447f29c2fa6b66a31676a2bdb447aab7158","sellTxId":"80a44376b34b36820c3bbb572c3cd261f31c92bd"}

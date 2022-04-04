@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2148189"}}
+	{"id":2148189,"type":"sell","buyer":"holovision","seller":"shainemata","symbol":"CHARY","quantity":"2.049","price":"0.00000600","timestamp":1638289350,"volume":"0.00001229","buyTxId":"3dcce5bea982535d3d4f6a283a81585d21526755","sellTxId":"a0afb10f88533b523784be94f50b8713a93e8065"}

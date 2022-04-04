@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"2311537"}}
+	{"id":2311537,"type":"buy","buyer":"hakeemshah96","seller":"semogtrebor","symbol":"CHARY","quantity":"98.233","price":"0.00100000","timestamp":1639795908,"volume":"0.09823300","buyTxId":"ee8890b53195d562a6c2fb6b4dc252e78e9c71c4","sellTxId":"c9ecd96e0d7f2acbc9e8b6e41ae3aae4c2c6210b"}
+{"index": {"_index":"chary","_id":"2311583"}}
+	{"id":2311583,"type":"buy","buyer":"hakeemshah96","seller":"semogtrebor","symbol":"CHARY","quantity":"50.526","price":"0.00100000","timestamp":1639796223,"volume":"0.05052600","buyTxId":"99696bf4ce23709db69650d4a8443f982d5ffc19","sellTxId":"c9ecd96e0d7f2acbc9e8b6e41ae3aae4c2c6210b"}

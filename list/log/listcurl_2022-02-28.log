@@ -1,0 +1,14 @@
+{"index": {"_index":"list","_id":"2868397"}}
+	{"id":2868397,"type":"sell","buyer":"pi-trader","seller":"tonytrillions","symbol":"LIST","quantity":"106.35424353","price":"0.00420001","timestamp":1645938543,"volume":"0.44668889","buyTxId":"da5462d9d3ebbf10c060bca0df35f887c36ff993-2","sellTxId":"f5d62b55fbb1f35407457a4e976463260c30fea1"}
+{"index": {"_index":"list","_id":"2868681"}}
+	{"id":2868681,"type":"sell","buyer":"pi-trader","seller":"nrg","symbol":"LIST","quantity":"14.94591415","price":"0.00420001","timestamp":1645942461,"volume":"0.06277299","buyTxId":"013ec076acdada7f70b9784219b34ccf0b63722c-6","sellTxId":"8a69489a0282bfb23ec56b45ce1069ef45ac6e90-31"}
+{"index": {"_index":"list","_id":"2869102"}}
+	{"id":2869102,"type":"sell","buyer":"pi-trader","seller":"brofi-market","symbol":"LIST","quantity":"8.16264256","price":"0.00420001","timestamp":1645949721,"volume":"0.03428318","buyTxId":"edd35d8464153b8e379b218eec606f5de98ef4de-9","sellTxId":"18c699d45e0db09cad4f30d1a06f5e6c252f51fb"}
+{"index": {"_index":"list","_id":"2869648"}}
+	{"id":2869648,"type":"sell","buyer":"pi-trader","seller":"synergie","symbol":"LIST","quantity":"0.12400000","price":"0.00420001","timestamp":1645957482,"volume":"0.00052080","buyTxId":"f9f560c5bd1f6ecf10dbdf61ec89a4eb4d22cc41-4","sellTxId":"a1aa1e8eeeccd008de6f37f74bbf825de95f2350"}
+{"index": {"_index":"list","_id":"2870180"}}
+	{"id":2870180,"type":"sell","buyer":"pi-trader","seller":"dhedge-drips","symbol":"LIST","quantity":"0.76524775","price":"0.00420001","timestamp":1645966050,"volume":"0.00321405","buyTxId":"f4e5c609360965eff41b9fbb27bb3c4043dabca7-1","sellTxId":"8f1206fb24fe05e7e6c54da8ba28022a2441312e"}
+{"index": {"_index":"list","_id":"2870565"}}
+	{"id":2870565,"type":"sell","buyer":"pi-trader","seller":"alfarero","symbol":"LIST","quantity":"0.47152225","price":"0.00420001","timestamp":1645972395,"volume":"0.00198040","buyTxId":"72e04d5aeeacdeee8408702fc111cd076de538c9-2","sellTxId":"8ecd3ff846d9160bdf45126722331cdf25a799f5"}
+{"index": {"_index":"list","_id":"2873987"}}
+	{"id":2873987,"type":"buy","buyer":"onewolfe","seller":"dhedge-drips","symbol":"LIST","quantity":"0.50000000","price":"0.00470000","timestamp":1646015193,"volume":"0.00235000","buyTxId":"35dbfdbee10af9f95d6f8db7743724df7868ff5d","sellTxId":"3c3d1c00862d8857c1d6b052d0bc592f1beda240"}

@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"1608878"}}
+	{"id":1608878,"type":"sell","buyer":"kasna","seller":"pele23","symbol":"CHARY","quantity":"0.147","price":"0.00004700","timestamp":1632943257,"volume":"0.00000691","buyTxId":"226ca10772a49102a9668c5603dfc62b6e54db83","sellTxId":"c6418c59dfb7e8f7683ee663bf1fdaa674e36e98"}

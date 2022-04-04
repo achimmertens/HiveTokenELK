@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2510306"}}
+	{"id":2510306,"type":"sell","buyer":"baconface","seller":"anderssinho","symbol":"CHARY","quantity":"18.258","price":"0.00000001","timestamp":1641812499,"volume":"0.00000018","buyTxId":"a3ef096e89c46b421314f50d9c12c8bfdd818fd1","sellTxId":"15796da0e79d19f4713f003cd2fed8cf7b6a8303"}

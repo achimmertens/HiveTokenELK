@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2716700"}}
+	{"id":2716700,"type":"sell","buyer":"alphacore","seller":"aiovo","symbol":"CHARY","quantity":"957.551","price":"0.00010000","timestamp":1644089037,"volume":"0.09575510","buyTxId":"0b67be8d46cfd0c1c58c5d10633039ad95e96e19","sellTxId":"dba48e8b32afc22b3e21974d2c1d6e2fc9fb9e8e"}

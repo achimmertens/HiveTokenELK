@@ -1,8 +1,0 @@
-{"index": {"_index":"list","_id":"1208191"}}
-	{"id":1208191,"type":"sell","buyer":"thelogicaldude","seller":"pablodare","symbol":"LIST","quantity":"9.85199640","price":"0.01140000","timestamp":1625904462,"volume":"0.11231276","buyTxId":"MM-P-8513502-55492908-3-0-0","sellTxId":"65470af04c78cec154b171328e750ab7268fa876"}
-{"index": {"_index":"list","_id":"1208912"}}
-	{"id":1208912,"type":"sell","buyer":"thelogicaldude","seller":"brofi-market","symbol":"LIST","quantity":"0.39822148","price":"0.01140000","timestamp":1625934315,"volume":"0.00453972","buyTxId":"MM-P-8513502-55492908-3-0-0","sellTxId":"72858c55048e820893375167c093200777f74aac"}
-{"index": {"_index":"list","_id":"1209137"}}
-	{"id":1209137,"type":"sell","buyer":"thelogicaldude","seller":"charityball","symbol":"LIST","quantity":"27.35667532","price":"0.01140000","timestamp":1625941461,"volume":"0.31186610","buyTxId":"MM-P-8513502-55492908-3-0-0","sellTxId":"e8c338df5e61f0bdfceae9a936828c9ec7f2a9d3"}
-{"index": {"_index":"list","_id":"1209553"}}
-	{"id":1209553,"type":"sell","buyer":"yintercept","seller":"crypto133","symbol":"LIST","quantity":"25.00000000","price":"0.01200000","timestamp":1625956383,"volume":"0.30000000","buyTxId":"964008b086619fbb39ac068c3612feaad27102c9","sellTxId":"f57ae87f1351b7153f2adfb9357530cae6fbda13"}

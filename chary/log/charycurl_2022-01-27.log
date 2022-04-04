@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2632486"}}
+	{"id":2632486,"type":"sell","buyer":"alphacore","seller":"patrickulrich","symbol":"CHARY","quantity":"657.626","price":"0.00010000","timestamp":1643078247,"volume":"0.06576260","buyTxId":"0b67be8d46cfd0c1c58c5d10633039ad95e96e19","sellTxId":"fa12258ed413fe9ebc7395308f4e377d06dd47e5"}

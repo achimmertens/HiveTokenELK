@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"1781046"}}
+	{"id":1781046,"type":"sell","buyer":"kasna","seller":"anderssinho","symbol":"CHARY","quantity":"0.007","price":"0.00004700","timestamp":1635066774,"volume":"0.00000033","buyTxId":"226ca10772a49102a9668c5603dfc62b6e54db83","sellTxId":"8020b48c9a8c0dc7fd512dac1020aac943513519"}
+{"index": {"_index":"chary","_id":"1782156"}}
+	{"id":1782156,"type":"sell","buyer":"kasna","seller":"flaxz","symbol":"CHARY","quantity":"0.516","price":"0.00004700","timestamp":1635079092,"volume":"0.00002425","buyTxId":"226ca10772a49102a9668c5603dfc62b6e54db83","sellTxId":"4f784de418770bb2f0e493aaebe495921859e997"}

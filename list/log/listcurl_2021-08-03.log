@@ -1,8 +1,0 @@
-{"index": {"_index":"list","_id":"1293109"}}
-	{"id":1293109,"type":"sell","buyer":"thelogicaldude","seller":"brofi-market","symbol":"LIST","quantity":"0.10170157","price":"0.01170001","timestamp":1627892217,"volume":"0.00118991","buyTxId":"MM-P-9168410-56149766-3-0-0","sellTxId":"ea385a32a73504d835e5611a15b1c07e45405543"}
-{"index": {"_index":"list","_id":"1293573"}}
-	{"id":1293573,"type":"sell","buyer":"thelogicaldude","seller":"uyobong","symbol":"LIST","quantity":"95.65908199","price":"0.01170001","timestamp":1627904634,"volume":"1.11921222","buyTxId":"MM-P-9168410-56149766-3-0-0","sellTxId":"35b5c4a80d647ba7b7dea7575524787919af685d"}
-{"index": {"_index":"list","_id":"1293808"}}
-	{"id":1293808,"type":"sell","buyer":"thelogicaldude","seller":"dhedge-drips","symbol":"LIST","quantity":"0.00953452","price":"0.01170001","timestamp":1627908393,"volume":"0.00011155","buyTxId":"MM-P-9168410-56149766-3-0-0","sellTxId":"e9f54bc359e0ac038cf8aa283546c5a390958a57"}
-{"index": {"_index":"list","_id":"1297240"}}
-	{"id":1297240,"type":"sell","buyer":"thelogicaldude","seller":"charityball","symbol":"LIST","quantity":"30.25817704","price":"0.01180002","timestamp":1627957146,"volume":"0.35704709","buyTxId":"MM-P-9204226-56185677-3-0-0","sellTxId":"97637b9c1a3f3a9559c4fab14aa0a8e52d9ef001"}

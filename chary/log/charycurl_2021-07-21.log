@@ -1,4 +1,0 @@
-{"index": {"_index":"chary","_id":"1236618"}}
-	{"id":1236618,"type":"sell","buyer":"metzli","seller":"worktight","symbol":"CHARY","quantity":"42.535","price":"0.00010000","timestamp":1626787095,"volume":"0.00425350","buyTxId":"5b263b51d4c51190cf2a6a7268dfb6dadc770c7f","sellTxId":"606f85ca19d52f347cf2c332c5ce7ff12d920036"}
-{"index": {"_index":"chary","_id":"1237632"}}
-	{"id":1237632,"type":"buy","buyer":"charityball","seller":"tailah.bayu1","symbol":"CHARY","quantity":"33.000","price":"0.00950000","timestamp":1626817002,"volume":"0.31350000","buyTxId":"c01dd8571514b6e05844de8ff3770f26415d25c6","sellTxId":"ccf647450a8751c5707b633b680e19653bb940fe"}

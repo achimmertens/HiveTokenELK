@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"2491381"}}
+	{"id":2491381,"type":"buy","buyer":"baconface","seller":"ritxi","symbol":"CHARY","quantity":"6.551","price":"0.00100000","timestamp":1641593181,"volume":"0.00655100","buyTxId":"97b642c816987d458ab00c0a82668a8eeefdf5d2","sellTxId":"af40aa907d2005d806d9dd984d43425b7be94143"}

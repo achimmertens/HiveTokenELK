@@ -1,0 +1,14 @@
+{"index": {"_index":"beer","_id":"2846488"}}
+	{"id":2846488,"type":"sell","buyer":"aurikan","seller":"magnacarta","symbol":"BEER","quantity":"3.10633925","price":"0.12000000","timestamp":1645678101,"volume":"0.37276071","buyTxId":"672e9ecbf2f4dab5f8683b2eea7f441dfa65fd87","sellTxId":"f7c714d92b8b0ca11ed168d5902508c03b70ae54"}
+{"index": {"_index":"beer","_id":"2847575"}}
+	{"id":2847575,"type":"sell","buyer":"aurikan","seller":"abuahmad","symbol":"BEER","quantity":"0.38100000","price":"0.12000000","timestamp":1645692990,"volume":"0.04572000","buyTxId":"672e9ecbf2f4dab5f8683b2eea7f441dfa65fd87","sellTxId":"3402b94ee4fdc38706b51e402e949125c77fc97d"}
+{"index": {"_index":"beer","_id":"2847602"}}
+	{"id":2847602,"type":"sell","buyer":"aurikan","seller":"itharagaian","symbol":"BEER","quantity":"0.00100000","price":"0.12000000","timestamp":1645693404,"volume":"0.00012000","buyTxId":"672e9ecbf2f4dab5f8683b2eea7f441dfa65fd87","sellTxId":"60d6321f5bd1f6d39761cc9a0db6f3873888921a"}
+{"index": {"_index":"beer","_id":"2848815"}}
+	{"id":2848815,"type":"sell","buyer":"aurikan","seller":"damla","symbol":"BEER","quantity":"0.05000000","price":"0.12000000","timestamp":1645706166,"volume":"0.00600000","buyTxId":"672e9ecbf2f4dab5f8683b2eea7f441dfa65fd87","sellTxId":"f753519c3af1662e6f13ce90218688daf0d666c1"}
+{"index": {"_index":"beer","_id":"2849546"}}
+	{"id":2849546,"type":"sell","buyer":"aurikan","seller":"bitcoinman","symbol":"BEER","quantity":"1.20000000","price":"0.12000000","timestamp":1645713792,"volume":"0.14400000","buyTxId":"672e9ecbf2f4dab5f8683b2eea7f441dfa65fd87","sellTxId":"6dd666ba751cf7f67d8d69381738db8ef6387950"}
+{"index": {"_index":"beer","_id":"2853877"}}
+	{"id":2853877,"type":"sell","buyer":"detlev","seller":"mafia.wallet","symbol":"BEER","quantity":"0.051","price":"0.14000000","timestamp":1645750941,"volume":"0.00714000","buyTxId":"e7b2a3f1e8b070493fecb36a33f9f7b5e592f341","sellTxId":"a62c68b1bd9c0ff8343a4c9261e3d0dd01465fbd-3"}
+{"index": {"_index":"beer","_id":"2854106"}}
+	{"id":2854106,"type":"sell","buyer":"detlev","seller":"sublimjester","symbol":"BEER","quantity":"3.56381353","price":"0.14000000","timestamp":1645753404,"volume":"0.49893389","buyTxId":"e7b2a3f1e8b070493fecb36a33f9f7b5e592f341","sellTxId":"bd57bd0433de4161f6f80bc0f5f7161faaf01730"}
