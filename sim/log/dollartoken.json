@@ -390,3 +390,5 @@
 {"token":"sim","timestamp":1648955401,"usd_hive": 1.191082 ,"hive_token":0.00038287,"usd_token":0.000456}
 {"index": {"_index":"dollartoken"}} 
 {"token":"sim","timestamp":1649041801,"usd_hive": 1.16515321 ,"hive_token":0.00035005,"usd_token":0.000407}
+{"index": {"_index":"dollartoken"}} 
+{"token":"sim","timestamp":1649128201,"usd_hive": 1.11647276 ,"hive_token":0.00036501,"usd_token":0.000407}

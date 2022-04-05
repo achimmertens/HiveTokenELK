@@ -1,0 +1,30 @@
+Token = luv
+DATE = 2022-04-05
+LOGPATH = /home/pi/elk/luv/log
+CMC = /home/pi/elk/luv/log/coinmarketcap.tmp
+HIVEPRICE = /home/pi/elk/luv/log/hiveprice.tmp
+LOG = /home/pi/elk/luv/log/luvcurl.log
+LOG1 = /home/pi/elk/luv/log/luvcurl1.log
+LOG2 = /home/pi/elk/luv/log/luvcurl2.log
+LOG3 = /home/pi/elk/luv/log/luvcurl3.log
+LOGDATE = /home/pi/elk/luv/log/luvcurl_2022-04-05.log
+LOGCONS = /home/pi/elk/luv/log/luvcurlcons.log
+INDEXLOG = /home/pi/elk/luv/log/luv_ids.log
+INDEXLOG2 = /home/pi/elk/luv/log/luv_ids2.log
+INDEXLOG3 = /home/pi/elk/luv/log/luv_ids3.log
+LUVDOLLAR = /home/pi/elk/luv/log/luvdollar.tmp
+The price of $USD/$HIVE =  1.11886613
+The price of $HIVE/$LUV =  0.02000000
+The price of $USD/$LUV = .02237732
+{"took":108,"errors":false,"items":[{"index":{"_index":"luv","_type":"_doc","_id":"3123495","_version":3,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":26,"_primary_term":1,"status":200}},{"index":{"_index":"luv","_type":"_doc","_id":"3123659","_version":3,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":27,"_primary_term":1,"status":200}},{"index":{"_index":"luv","_type":"_doc","_id":"3123801","_version":3,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":28,"_primary_term":1,"status":200}},{"index":{"_index":"luv","_type":"_doc","_id":"3123802","_version":3,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":29,"_primary_term":1,"status":200}},{"index":{"_index":"luv","_type":"_doc","_id":"3123887","_version":3,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":30,"_primary_term":1,"status":200}},{"index":{"_index":"luv","_type":"_doc","_id":"3123921","_version":3,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":31,"_primary_term":1,"status":200}},{"index":{"_index":"luv","_type":"_doc","_id":"3124285","_version":2,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":32,"_primary_term":1,"status":200}},{"index":{"_index":"luv","_type":"_doc","_id":"3124382","_version":2,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":33,"_primary_term":1,"status":200}},{"index":{"_index":"luv","_type":"_doc","_id":"3125562","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":34,"_primary_term":1,"status":201}},{"index":{"_index":"luv","_type":"_doc","_id":"3125905","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":35,"_primary_term":1,"status":201}},{"index":{"_index":"luv","_type":"_doc","_id":"3126886","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":36,"_primary_term":1,"status":201}},{"index":{"_index":"luv","_type":"_doc","_id":"3127089","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":37,"_primary_term":1,"status":201}},{"index":{"_index":"luv","_type":"_doc","_id":"3128427","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":38,"_primary_term":1,"status":201}},{"index":{"_index":"luv","_type":"_doc","_id":"3129326","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":39,"_primary_term":1,"status":201}},{"index":{"_index":"luv","_type":"_doc","_id":"3130052","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":40,"_primary_term":1,"status":201}}]}Token = luv
+DATE = 2022-04-05
+LOGPATH = /home/pi/elk/luv/log
+CMC = /home/pi/elk/luv/log/coinmarketcap.tmp2
+HIVEPRICE = /home/pi/elk/luv/log/hiveprice.tmp
+DOLLARTOKEN = /home/pi/elk/luv/log/dollartoken.json
+LOG3 = /home/pi/elk/luv/log/luvcurl3.log
+1649128321
+The price of $USD/$HIVE =  1.11647276
+The price of $HIVE/luv =  0.02000000
+The price of $USD/$TOKEN = 0.022329
+{"took":15,"errors":false,"items":[{"index":{"_index":"dollartoken","_type":"_doc","_id":"khi1938BTN0RqH85NG1e","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":132586,"_primary_term":7,"status":201}},{"index":{"_index":"dollartoken","_type":"_doc","_id":"kxi1938BTN0RqH85NG1e","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":132587,"_primary_term":7,"status":201}}]}
