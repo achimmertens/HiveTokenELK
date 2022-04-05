@@ -390,3 +390,5 @@
 {"token":"pob","timestamp":1648955341,"usd_hive": 1.191082 ,"hive_token":0.02210000,"usd_token":0.026322}
 {"index": {"_index":"dollartoken"}} 
 {"token":"pob","timestamp":1649041741,"usd_hive": 1.16515321 ,"hive_token":0.02030000,"usd_token":0.023652}
+{"index": {"_index":"dollartoken"}} 
+{"token":"pob","timestamp":1649128141,"usd_hive": 1.11647276 ,"hive_token":0.02103000,"usd_token":0.023479}

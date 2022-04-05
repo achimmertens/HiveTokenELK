@@ -390,3 +390,5 @@
 {"token":"beer","timestamp":1648955161,"usd_hive": 1.191082 ,"hive_token":0.16020001,"usd_token":0.190811}
 {"index": {"_index":"dollartoken"}} 
 {"token":"beer","timestamp":1649041561,"usd_hive": 1.16515321 ,"hive_token":0.17899998,"usd_token":0.208562}
+{"index": {"_index":"dollartoken"}} 
+{"token":"beer","timestamp":1649127961,"usd_hive": 1.11647276 ,"hive_token":0.16051002,"usd_token":0.179205}

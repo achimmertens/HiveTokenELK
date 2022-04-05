@@ -390,3 +390,5 @@
 {"token":"leo","timestamp":1648955221,"usd_hive": 1.191082 ,"hive_token":0.16800211,"usd_token":0.200104}
 {"index": {"_index":"dollartoken"}} 
 {"token":"leo","timestamp":1649041621,"usd_hive": 1.16515321 ,"hive_token":0.17217200,"usd_token":0.200606}
+{"index": {"_index":"dollartoken"}} 
+{"token":"leo","timestamp":1649128021,"usd_hive": 1.11647276 ,"hive_token":0.18797599,"usd_token":0.209870}
