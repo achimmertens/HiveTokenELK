@@ -1818,3 +1818,15 @@
 	{"id":3044790,"type":"buy","buyer":"nectar-queen","seller":"phoenixwren","symbol":"CHARY","quantity":"0.088","price":"0.00010000","timestamp":1648146840,"volume":"0.00000880","buyTxId":"cf6e8ef4feb4bbb8526b4e4a6e0b75f3a1072bb8","sellTxId":"1818a379ab56f47394f23c9a1c6b7362eccb5d62"}
 {"index": {"_index":"chary","_id":"3044791"}}
 	{"id":3044791,"type":"buy","buyer":"nectar-queen","seller":"glimpsytips","symbol":"CHARY","quantity":"10.495","price":"0.00010050","timestamp":1648146840,"volume":"0.00105475","buyTxId":"cf6e8ef4feb4bbb8526b4e4a6e0b75f3a1072bb8","sellTxId":"8d62b672ebcb439e088de179a750cb850dbf8d18"}
+{"index": {"_index":"chary","_id":"3044790"}}
+	{"id":3044790,"type":"buy","buyer":"nectar-queen","seller":"phoenixwren","symbol":"CHARY","quantity":"0.088","price":"0.00010000","timestamp":1648146840,"volume":"0.00000880","buyTxId":"cf6e8ef4feb4bbb8526b4e4a6e0b75f3a1072bb8","sellTxId":"1818a379ab56f47394f23c9a1c6b7362eccb5d62"}
+{"index": {"_index":"chary","_id":"3044791"}}
+	{"id":3044791,"type":"buy","buyer":"nectar-queen","seller":"glimpsytips","symbol":"CHARY","quantity":"10.495","price":"0.00010050","timestamp":1648146840,"volume":"0.00105475","buyTxId":"cf6e8ef4feb4bbb8526b4e4a6e0b75f3a1072bb8","sellTxId":"8d62b672ebcb439e088de179a750cb850dbf8d18"}
+{"index": {"_index":"chary","_id":"3044790"}}
+	{"id":3044790,"type":"buy","buyer":"nectar-queen","seller":"phoenixwren","symbol":"CHARY","quantity":"0.088","price":"0.00010000","timestamp":1648146840,"volume":"0.00000880","buyTxId":"cf6e8ef4feb4bbb8526b4e4a6e0b75f3a1072bb8","sellTxId":"1818a379ab56f47394f23c9a1c6b7362eccb5d62"}
+{"index": {"_index":"chary","_id":"3044791"}}
+	{"id":3044791,"type":"buy","buyer":"nectar-queen","seller":"glimpsytips","symbol":"CHARY","quantity":"10.495","price":"0.00010050","timestamp":1648146840,"volume":"0.00105475","buyTxId":"cf6e8ef4feb4bbb8526b4e4a6e0b75f3a1072bb8","sellTxId":"8d62b672ebcb439e088de179a750cb850dbf8d18"}
+{"index": {"_index":"chary","_id":"3044790"}}
+	{"id":3044790,"type":"buy","buyer":"nectar-queen","seller":"phoenixwren","symbol":"CHARY","quantity":"0.088","price":"0.00010000","timestamp":1648146840,"volume":"0.00000880","buyTxId":"cf6e8ef4feb4bbb8526b4e4a6e0b75f3a1072bb8","sellTxId":"1818a379ab56f47394f23c9a1c6b7362eccb5d62"}
+{"index": {"_index":"chary","_id":"3044791"}}
+	{"id":3044791,"type":"buy","buyer":"nectar-queen","seller":"glimpsytips","symbol":"CHARY","quantity":"10.495","price":"0.00010050","timestamp":1648146840,"volume":"0.00105475","buyTxId":"cf6e8ef4feb4bbb8526b4e4a6e0b75f3a1072bb8","sellTxId":"8d62b672ebcb439e088de179a750cb850dbf8d18"}
