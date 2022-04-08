@@ -10,7 +10,7 @@
 # mkdir /home/pi/elk/chary/log
  
 # Set some variables:
-TOKEN="luv"
+TOKEN="lolz"
 echo "Token = "$TOKEN
 DATE=`date -I`
 echo "DATE = "$DATE
@@ -38,15 +38,15 @@ INDEXLOG2="$LOGPATH/$TOKEN"_ids2.log
 echo "INDEXLOG2 = "$INDEXLOG2
 INDEXLOG3="$LOGPATH/$TOKEN"_ids3.log
 echo "INDEXLOG3 = "$INDEXLOG3
-LUVDOLLAR="$LOGPATH/luvdollar.tmp"
-echo "LUVDOLLAR = "$LUVDOLLAR
+LOLZDOLLAR="$LOGPATH/lolzdollar.tmp"
+echo "LOLZDOLLAR = "$LOLZDOLLAR
 
 
 # Get Hive/US-Dollar value
 curl -H "X-CMC_PRO_API_KEY: a1ff4bd0-2ac9-4700-ae61-6eaa62f56adc" -H "Accept: application/json" -d "symbol=HIVE" -G https://pro-api.coinmarketcap.com/v1/cryptocurrency/info > $CMC 
 
 # Get json file from api engine:
-curl -XPOST -H "Content-type: application/json" -d '{ "jsonrpc": "2.0", "method": "find", "params": { "contract": "market", "table": "tradesHistory", "query": { "symbol": "LUV"}, "limit":1000, "offset": 0 }, "id": 1 }' 'https://api.hive-engine.com/rpc/contracts' > $LOG
+curl -XPOST -H "Content-type: application/json" -d '{ "jsonrpc": "2.0", "method": "find", "params": { "contract": "market", "table": "tradesHistory", "query": { "symbol": "LOLZ"}, "limit":1000, "offset": 0 }, "id": 1 }' 'https://api.hive-engine.com/rpc/contracts' > $LOG
 
 cat $LOG | sed -r 's/^.{34}//' | sed 's/.\{3\}$//' > $LOG1   # delete the first 34 and the last 3 characters
 sed s/_id/id/g $LOG1 | sed s/\},\{\"id\"/=\{\"id\"/g | tr "=" "\n"  > $LOG2    # exchange "id" and insert newlines
@@ -54,7 +54,7 @@ sed s/$/\}/g $LOG2 > $LOG3     # Append } at the end of each line
 
 # By extracting the IDs and setting it to the field "_id", we make sure, that all entires are unique:
 cat $LOG3 | awk -F':' '{print $2}'| awk -F',' '{print $1}' | grep -v index > $INDEXLOG  # Extrahiere IDs
-cat $INDEXLOG | awk '{print "{\"index\": {\"_index\":\"luv\",\"_id\":\"" $1 "\"}}="'} > $INDEXLOG2  # Füge Text ein
+cat $INDEXLOG | awk '{print "{\"index\": {\"_index\":\"lolz\",\"_id\":\"" $1 "\"}}="'} > $INDEXLOG2  # Füge Text ein
 paste $INDEXLOG2 $LOG3 > $INDEXLOG3
 sed s/=/=/g $INDEXLOG3 | tr "=" "\n" > $LOGDATE # Ersetze "=" durch Cariege Return 
 cat $LOGDATE >> $LOGCONS    # Sammle die Daten in einem Topf
@@ -62,17 +62,17 @@ cat $LOGDATE >> $LOGCONS    # Sammle die Daten in einem Topf
 # ---- calculating Hiveprice ----
 HIVEPRICE=`cat $CMC  | awk -F'price of Hive is' '{print $2}' | awk -F'USD ' '{print $1}'`
 echo "The price of \$USD/\$HIVE = "$HIVEPRICE 
-echo "The price of \$USD/\$HIVE = "$HIVEPRICE > $LUVDOLLAR
-LUVPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}'`
-LUVPRICE=`echo $LUVPRICELIST | awk -F ' ' '{print $NF}'`
-echo "The price of \$HIVE/\$LUV = " $LUVPRICE
-echo ". The price of \$HIVE/\$LUV = " $LUVPRICE >> $LUVDOLLAR
-LUV_DOLLAR=`echo $LUVPRICE \* $HIVEPRICE|bc`
-echo "The price of \$USD/\$LUV = "$LUV_DOLLAR
-echo ". The price of \$USD/\$LUV = " $LUV_DOLLAR >> $LUVDOLLAR
-sudo cat $LUVDOLLAR >> /var/www/html/elk/index.html    # Put the result to the web
+echo "The price of \$USD/\$HIVE = "$HIVEPRICE > $LOLZDOLLAR
+LOLZPRICELIST=`cat $LOG3 | awk -F'price\":\"' '{print $2}' | awk -F'\"' '{print $1}'`
+LOLZPRICE=`echo $LOLZPRICELIST | awk -F ' ' '{print $NF}'`
+echo "The price of \$HIVE/\$LOLZ = " $LOLZPRICE
+echo ". The price of \$HIVE/\$LOLZ = " $LOLZPRICE >> $LOLZDOLLAR
+LOLZ_DOLLAR=`echo $LOLZPRICE \* $HIVEPRICE|bc`
+echo "The price of \$USD/\$LOLZ = "$LOLZ_DOLLAR
+echo ". The price of \$USD/\$LOLZ = " $LOLZ_DOLLAR >> $LOLZDOLLAR
+sudo cat $LOLZDOLLAR >> /var/www/html/elk/index.html    # Put the result to the web
 
 
 
 # Upload the complete json data into kibana:
-curl --location --request POST 'http://localhost:9200/luv/_bulk?' --header 'Content-Type: application/json' --data-binary @$LOGDATE
+curl --location --request POST 'http://localhost:9200/lolz/_bulk?' --header 'Content-Type: application/json' --data-binary @$LOGDATE
