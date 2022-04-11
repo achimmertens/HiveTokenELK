@@ -398,3 +398,9 @@
 {"token":"sim","timestamp":1649301001,"usd_hive": 0.94552203 ,"hive_token":0.00038506,"usd_token":0.000364}
 {"index": {"_index":"dollartoken"}} 
 {"token":"sim","timestamp":1649387401,"usd_hive": 0.98047391 ,"hive_token":0.00040385,"usd_token":0.000395}
+{"index": {"_index":"dollartoken"}} 
+{"token":"sim","timestamp":1649473801,"usd_hive": 0.93866598 ,"hive_token":0.00039501,"usd_token":0.000370}
+{"index": {"_index":"dollartoken"}} 
+{"token":"sim","timestamp":1649560201,"usd_hive": 0.944607 ,"hive_token":0.00039701,"usd_token":0.000375}
+{"index": {"_index":"dollartoken"}} 
+{"token":"sim","timestamp":1649646601,"usd_hive": 0.91251449 ,"hive_token":0.00039700,"usd_token":0.000362}
