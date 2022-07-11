@@ -582,7 +582,7 @@ How to set up Kibana:
 - execute alivecurl_json.sh to fill some data into kibana
 - Create an indexpattern for alive and use "alive_index_pattern_id" as the index_pattern_id name. Here is an example ![image](https://user-images.githubusercontent.com/42441871/178261581-b045dfdd-211f-49e7-a948-20eef5cf28b5.png)
 - Edit tokenviews.ndsjon and replace the Ref-ID with the new Indexpattern-ID
-- Import that file into Kibana
+- Import that file into Kibana and solve the conflict by chosing the new index in the drop down menu.
 - Adjust if needed the new dashboard and the new views
 
 ----
