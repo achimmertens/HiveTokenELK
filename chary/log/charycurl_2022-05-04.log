@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"3332100"}}
+	{"id":3332100,"type":"sell","buyer":"coininstant","seller":"yintercept","symbol":"CHARY","quantity":"4.152","price":"0.00010051","timestamp":1651511217,"volume":"0.00041732","buyTxId":"ce6c23b2fa631c6900a8ec7ce7dd269b6c4a1cb6","sellTxId":"1a180b40fbbd7505327c90a8119d2c036d0effb2"}

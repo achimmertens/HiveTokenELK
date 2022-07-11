@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"3509051"}}
+	{"id":3509051,"type":"buy","buyer":"ironshield","seller":"aiovo","symbol":"CHARY","quantity":"450.000","price":"0.00899999","timestamp":1653362520,"volume":"4.04999550","buyTxId":"0aab524a95eb8f1123fb566c5e12b4b5be288c5e","sellTxId":"d645f219569cdc061b37a2d00cdc230e6a6cfc8d"}
+{"index": {"_index":"chary","_id":"3513252"}}
+	{"id":3513252,"type":"sell","buyer":"ironshield","seller":"kraken99","symbol":"CHARY","quantity":"79.997","price":"0.00001000","timestamp":1653405870,"volume":"0.00079997","buyTxId":"828d3c4f7c08aac7c72d2a2f8a3e890c370bd2dd","sellTxId":"7f30f31d03976ec203cb13bf99f125469fe75f78"}

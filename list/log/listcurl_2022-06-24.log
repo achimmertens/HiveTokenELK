@@ -1,0 +1,10 @@
+{"index": {"_index":"list","_id":"3754290"}}
+	{"id":3754290,"type":"sell","buyer":"cookaiss","seller":"itharagaian","symbol":"LIST","quantity":"0.03197583","price":"0.00530000","timestamp":1655965875,"volume":"0.00016947","buyTxId":"9810766d72782e92d3af37c2b9e5996933c98671","sellTxId":"fa66cf3b046457f24be13bb9bf585415fae752ee"}
+{"index": {"_index":"list","_id":"3754581"}}
+	{"id":3754581,"type":"sell","buyer":"cookaiss","seller":"anosys","symbol":"LIST","quantity":"0.07690384","price":"0.00530000","timestamp":1655969259,"volume":"0.00040759","buyTxId":"9810766d72782e92d3af37c2b9e5996933c98671","sellTxId":"da25e0984821692f12e0bfe9baf36e36c672adfa"}
+{"index": {"_index":"list","_id":"3754601"}}
+	{"id":3754601,"type":"sell","buyer":"cookaiss","seller":"synergie","symbol":"LIST","quantity":"0.06017033","price":"0.00530000","timestamp":1655969457,"volume":"0.00031890","buyTxId":"9810766d72782e92d3af37c2b9e5996933c98671","sellTxId":"35a995c146f5d5059959984d2c0b03fc36eb911e"}
+{"index": {"_index":"list","_id":"3755027"}}
+	{"id":3755027,"type":"sell","buyer":"cookaiss","seller":"assassyn","symbol":"LIST","quantity":"0.09894770","price":"0.00530000","timestamp":1655976144,"volume":"0.00052442","buyTxId":"9810766d72782e92d3af37c2b9e5996933c98671","sellTxId":"1ac381a9c60d5c4350f8fe82ccaa7c759e2a6e72"}
+{"index": {"_index":"list","_id":"3757761"}}
+	{"id":3757761,"type":"sell","buyer":"roger.remix","seller":"frugal-fun","symbol":"LIST","quantity":"8.90965941","price":"0.00531000","timestamp":1656006336,"volume":"0.04731029","buyTxId":"442fb8c543e504f1dc4b39994cbb1e49983fcb8c","sellTxId":"66950091d919d26556f750888e6c29c37c16156c"}

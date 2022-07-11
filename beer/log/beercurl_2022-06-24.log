@@ -1,0 +1,16 @@
+{"index": {"_index":"beer","_id":"3753881"}}
+	{"id":3753881,"type":"sell","buyer":"roger.remix","seller":"frawdielp2","symbol":"BEER","quantity":"0.01226292","price":"0.10031303","timestamp":1655961051,"volume":"0.00123013","buyTxId":"f029592bb594b25a318c88c02048ed2cfa244957","sellTxId":"e67cd507ec028f1032e86c9139a161df1cd7dd39"}
+{"index": {"_index":"beer","_id":"3756049"}}
+	{"id":3756049,"type":"buy","buyer":"morzex","seller":"onlydoge","symbol":"BEER","quantity":"5.71837026","price":"0.13990000","timestamp":1655987205,"volume":"0.8","buyTxId":"9842316be60649d6b6a41189ce2b9b85560df1e8","sellTxId":"1f148f033a676d609e0735776a3a5f6fb0005cd9"}
+{"index": {"_index":"beer","_id":"3756595"}}
+	{"id":3756595,"type":"sell","buyer":"roger.remix","seller":"miketr","symbol":"BEER","quantity":"1.90083458","price":"0.10031303","timestamp":1655992821,"volume":"0.19067848","buyTxId":"f029592bb594b25a318c88c02048ed2cfa244957","sellTxId":"467a0d43969be8e2498db68a9be9b568227eaa5e"}
+{"index": {"_index":"beer","_id":"3756677"}}
+	{"id":3756677,"type":"buy","buyer":"untzuntzuntz","seller":"onlydoge","symbol":"BEER","quantity":"5.00000000","price":"0.13990000","timestamp":1655993901,"volume":"0.69950000","buyTxId":"e9334db42aea463e4c8a623af1900c44420e75c1","sellTxId":"1f148f033a676d609e0735776a3a5f6fb0005cd9"}
+{"index": {"_index":"beer","_id":"3756865"}}
+	{"id":3756865,"type":"sell","buyer":"untzuntzuntz","seller":"onestrong","symbol":"BEER","quantity":"5.00000000","price":"0.10031330","timestamp":1655996670,"volume":"0.50156650","buyTxId":"8f7bbf6806f983824bc595ce9020c8bfbbe35eff","sellTxId":"03bd6e69eca1c40851565d5436b908b785bdbb71"}
+{"index": {"_index":"beer","_id":"3757057"}}
+	{"id":3757057,"type":"buy","buyer":"untzuntzuntz","seller":"onestrong","symbol":"BEER","quantity":"2.77400000","price":"0.10031320","timestamp":1655998758,"volume":"0.27826882","buyTxId":"6f02790d4c81d78a4b65cf10fda2c6f55e26330a","sellTxId":"03bd6e69eca1c40851565d5436b908b785bdbb71"}
+{"index": {"_index":"beer","_id":"3758654"}}
+	{"id":3758654,"type":"sell","buyer":"roger.remix","seller":"crypto-futurist","symbol":"BEER","quantity":"0.00100000","price":"0.10031303","timestamp":1656014718,"volume":"0.00010031","buyTxId":"f029592bb594b25a318c88c02048ed2cfa244957","sellTxId":"da4b1c7ca7b5f1720ee4ac2461e00ba5b24261fc"}
+{"index": {"_index":"beer","_id":"3760121"}}
+	{"id":3760121,"type":"sell","buyer":"harveyword","seller":"mafia.wallet","symbol":"BEER","quantity":"0.053","price":"0.10050000","timestamp":1656033804,"volume":"0.00532650","buyTxId":"c7dd4207e4a829c5e3f76ad0052cd318d31a1255","sellTxId":"b1305ff50a9ae434592beefaffeb1f078713c3f5-3"}

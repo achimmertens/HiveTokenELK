@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"3617340"}}
+	{"id":3617340,"type":"sell","buyer":"achimmertens","seller":"metzli","symbol":"CHARY","quantity":"40.146","price":"0.00050000","timestamp":1654489791,"volume":"0.02007300","buyTxId":"6991307b593a1895d1fcc015b6632017e8658fd9","sellTxId":"78bda9262395a48294d8d8581a1582960a809be2"}

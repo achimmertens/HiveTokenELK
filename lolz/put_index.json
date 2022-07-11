@@ -1,0 +1,80 @@
+{
+  
+    "aliases" : { },
+    "mappings" : {
+      "properties" : {
+        "buyTxId" : {
+          "type" : "text",
+          "fields" : {
+            "keyword" : {
+              "type" : "keyword",
+              "ignore_above" : 256
+            }
+          }
+        },
+        "buyer" : {
+          "type" : "text",
+          "fields" : {
+            "keyword" : {
+              "type" : "keyword",
+              "ignore_above" : 256
+            }
+          }
+        },
+        "id" : {
+          "type" : "long"
+        },
+       "price" : {
+          "type" : "float"
+        },
+        "quantity" : {
+          "type" : "float"
+        },
+        "sellTxId" : {
+          "type" : "text",
+          "fields" : {
+            "keyword" : {
+              "type" : "keyword",
+              "ignore_above" : 256
+            }
+          }
+        },
+        "seller" : {
+          "type" : "text",
+          "fields" : {
+            "keyword" : {
+              "type" : "keyword",
+              "ignore_above" : 256
+            }
+          }
+        },
+        "symbol" : {
+          "type" : "text",
+          "fields" : {
+            "keyword" : {
+              "type" : "keyword",
+              "ignore_above" : 256
+            }
+          }
+        },
+        "timestamp" : {
+          "type" : "date",
+          "format" : "epoch_second"
+        },
+        "type" : {
+          "type" : "text",
+          "fields" : {
+            "keyword" : {
+              "type" : "keyword",
+              "ignore_above" : 256
+            }
+          }
+        },
+        "volume" : {
+          "type" : "float"
+        }
+      }
+    }
+    
+  
+}

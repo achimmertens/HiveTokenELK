@@ -1,0 +1,12 @@
+{"index": {"_index":"list","_id":"3469602"}}
+	{"id":3469602,"type":"sell","buyer":"yintercept","seller":"technocrypton","symbol":"LIST","quantity":"1.50569793","price":"0.00380000","timestamp":1652964732,"volume":"0.00572165","buyTxId":"3db1fd650dc0d5b9b43647a781c26a066bbcf317","sellTxId":"504680602b06be501486458ced4673b852bace62"}
+{"index": {"_index":"list","_id":"3470094"}}
+	{"id":3470094,"type":"sell","buyer":"yintercept","seller":"adhammer","symbol":"LIST","quantity":"48.49430207","price":"0.00380000","timestamp":1652969952,"volume":"0.18427835","buyTxId":"3db1fd650dc0d5b9b43647a781c26a066bbcf317","sellTxId":"16491778e8c966cab99fa8537e9f0bd2162a9e50"}
+{"index": {"_index":"list","_id":"3470095"}}
+	{"id":3470095,"type":"sell","buyer":"cookaiss","seller":"adhammer","symbol":"LIST","quantity":"21.06177978","price":"0.00375001","timestamp":1652969952,"volume":"0.07898188","buyTxId":"17a6232bfab3f891667dceb6089f59bd0efd6050","sellTxId":"16491778e8c966cab99fa8537e9f0bd2162a9e50"}
+{"index": {"_index":"list","_id":"3470096"}}
+	{"id":3470096,"type":"sell","buyer":"cookaiss","seller":"adhammer","symbol":"LIST","quantity":"26.82837446","price":"0.00375001","timestamp":1652969952,"volume":"0.10060667","buyTxId":"43c687d429798c1ce083a03ec362b933efc3a2e5","sellTxId":"16491778e8c966cab99fa8537e9f0bd2162a9e50"}
+{"index": {"_index":"list","_id":"3471310"}}
+	{"id":3471310,"type":"sell","buyer":"cookaiss","seller":"nrg","symbol":"LIST","quantity":"274.71626966","price":"0.00375001","timestamp":1652980332,"volume":"1.03018876","buyTxId":"43c687d429798c1ce083a03ec362b933efc3a2e5","sellTxId":"bbcc410dc0c19cf08d0390926ee80cb1eb7511d2-31"}
+{"index": {"_index":"list","_id":"3473172"}}
+	{"id":3473172,"type":"sell","buyer":"cookaiss","seller":"ugochill","symbol":"LIST","quantity":"0.00001763","price":"0.00375001","timestamp":1652997816,"volume":"0.00000007","buyTxId":"43c687d429798c1ce083a03ec362b933efc3a2e5","sellTxId":"679e491880fd7de2e3ea64c43c6295b16e55ba49"}

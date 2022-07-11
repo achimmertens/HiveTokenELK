@@ -1,0 +1,16 @@
+{"index": {"_index":"beer","_id":"3702299"}}
+	{"id":3702299,"type":"sell","buyer":"detlev","seller":"yorra","symbol":"BEER","quantity":"1.41307991","price":"0.10800000","timestamp":1655360703,"volume":"0.15261263","buyTxId":"64fddf1ab5e3e648355ca3e771722a51b722acd2","sellTxId":"386b841d2d458670e312a7695cc849f52bd36e57"}
+{"index": {"_index":"beer","_id":"3704053"}}
+	{"id":3704053,"type":"sell","buyer":"detlev","seller":"mafia.wallet","symbol":"BEER","quantity":"0.026","price":"0.10800000","timestamp":1655381256,"volume":"0.00280800","buyTxId":"64fddf1ab5e3e648355ca3e771722a51b722acd2","sellTxId":"02e516409517e276b173481a312ede59ee1dde29-3"}
+{"index": {"_index":"beer","_id":"3705444"}}
+	{"id":3705444,"type":"sell","buyer":"detlev","seller":"nathanpieters","symbol":"BEER","quantity":"3.07838302","price":"0.10800000","timestamp":1655390037,"volume":"0.33246537","buyTxId":"64fddf1ab5e3e648355ca3e771722a51b722acd2","sellTxId":"5c1bfd8bd0ee2c69a332fc35f571f1019ccda9f7"}
+{"index": {"_index":"beer","_id":"3705998"}}
+	{"id":3705998,"type":"sell","buyer":"detlev","seller":"poliwalt10","symbol":"BEER","quantity":"0.24400000","price":"0.10800000","timestamp":1655394597,"volume":"0.02635200","buyTxId":"64fddf1ab5e3e648355ca3e771722a51b722acd2","sellTxId":"0c2a510b8301f54202fcaa2b3ae4991d97334d7e"}
+{"index": {"_index":"beer","_id":"3706418"}}
+	{"id":3706418,"type":"sell","buyer":"detlev","seller":"dswap","symbol":"BEER","quantity":"4.1","price":"0.10800000","timestamp":1655398692,"volume":"0.44280000","buyTxId":"64fddf1ab5e3e648355ca3e771722a51b722acd2","sellTxId":"77ce3d00466dbfe17d40f17ebfe4110b379f965d"}
+{"index": {"_index":"beer","_id":"3707707"}}
+	{"id":3707707,"type":"sell","buyer":"detlev","seller":"crypto-futurist","symbol":"BEER","quantity":"0.00100000","price":"0.10800000","timestamp":1655411280,"volume":"0.00010800","buyTxId":"64fddf1ab5e3e648355ca3e771722a51b722acd2","sellTxId":"7985e4058ea1dbcec0a81b7e74a9720e0fbcf75f"}
+{"index": {"_index":"beer","_id":"3708549"}}
+	{"id":3708549,"type":"sell","buyer":"detlev","seller":"laritheghost","symbol":"BEER","quantity":"0.35471647","price":"0.10800000","timestamp":1655420739,"volume":"0.03830938","buyTxId":"64fddf1ab5e3e648355ca3e771722a51b722acd2","sellTxId":"2868796a732442dfb165928c0f4547abdc4afe2e"}
+{"index": {"_index":"beer","_id":"3709030"}}
+	{"id":3709030,"type":"sell","buyer":"detlev","seller":"blockchainleo","symbol":"BEER","quantity":"6.27246640","price":"0.10800000","timestamp":1655424822,"volume":"0.67742637","buyTxId":"64fddf1ab5e3e648355ca3e771722a51b722acd2","sellTxId":"84bb71b8727c171cee52e739d7d47693027ca8b3"}

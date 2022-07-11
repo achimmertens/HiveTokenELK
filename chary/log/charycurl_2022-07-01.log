@@ -1,0 +1,4 @@
+{"index": {"_index":"chary","_id":"3813056"}}
+	{"id":3813056,"type":"sell","buyer":"holovision.cash","seller":"teenagecrypto","symbol":"CHARY","quantity":"104.387","price":"0.00100000","timestamp":1656620067,"volume":"0.10438700","buyTxId":"c631df5056c5023bc076ebc3af76421c54db317c","sellTxId":"ac55b1afe36db396f5bfb434108555680f124d37"}
+{"index": {"_index":"chary","_id":"3815176"}}
+	{"id":3815176,"type":"buy","buyer":"holovision.cash","seller":"ironshield","symbol":"CHARY","quantity":"607.962","price":"0.00799899","timestamp":1656638082,"volume":"4.86308196","buyTxId":"b5f57cb29c46c7ca9b8731b411760c54eab81b28","sellTxId":"975bf9e7176d8bd867c9db432c78193eaeff8cf9"}

@@ -1,0 +1,14 @@
+{"index": {"_index":"beer","_id":"3638954"}}
+	{"id":3638954,"type":"buy","buyer":"buezor","seller":"barmbo","symbol":"BEER","quantity":"0.90247698","price":"0.07950000","timestamp":1654733295,"volume":"0.07174692","buyTxId":"2ce8dd784875c5fae3f5f2779cfbca46acd4da0b","sellTxId":"0fa0bad0c001ea84256376f04d4bbb8ec5715c9a"}
+{"index": {"_index":"beer","_id":"3640517"}}
+	{"id":3640517,"type":"sell","buyer":"maryjane.main","seller":"jsynnthagr8","symbol":"BEER","quantity":"0.00003291","price":"0.05941000","timestamp":1654747965,"volume":"0.00000196","buyTxId":"e2eccb673598fb600c719b4ddb77b63441d2d322","sellTxId":"6684c6186abf878bc17814a9dcb27e77a047e758"}
+{"index": {"_index":"beer","_id":"3642171"}}
+	{"id":3642171,"type":"sell","buyer":"maryjane.main","seller":"roger.remix","symbol":"BEER","quantity":"14.59884067","price":"0.05941000","timestamp":1654767015,"volume":"0.86731712","buyTxId":"e2eccb673598fb600c719b4ddb77b63441d2d322","sellTxId":"58c87b488ce39b87c5088823b8924c69bb98ffdf"}
+{"index": {"_index":"beer","_id":"3642172"}}
+	{"id":3642172,"type":"sell","buyer":"onlydoge","seller":"roger.remix","symbol":"BEER","quantity":"37.29628655","price":"0.05931000","timestamp":1654767015,"volume":"2.21204276","buyTxId":"9bb67547009559b9fd9e8bf7ebe4f86c030cfef4","sellTxId":"58c87b488ce39b87c5088823b8924c69bb98ffdf"}
+{"index": {"_index":"beer","_id":"3643625"}}
+	{"id":3643625,"type":"sell","buyer":"maryjane.main","seller":"poliwalt10","symbol":"BEER","quantity":"0.11700000","price":"0.06000000","timestamp":1654785276,"volume":"0.00702000","buyTxId":"9dea9bdcaf238d7b60ec88db6ae29783433647df","sellTxId":"d2b21462d39aed4027a41e40454553b5032f7a59"}
+{"index": {"_index":"beer","_id":"3645434"}}
+	{"id":3645434,"type":"sell","buyer":"edkarnie","seller":"crypto-futurist","symbol":"BEER","quantity":"0.00100000","price":"0.06000010","timestamp":1654801626,"volume":"0.00006000","buyTxId":"c78963c5137ceb8db21b1dadf8102623a8ee6b2e","sellTxId":"8f7b3c957c0eb09734fcdafad6a05f936fb22aa1"}
+{"index": {"_index":"beer","_id":"3646486"}}
+	{"id":3646486,"type":"sell","buyer":"edkarnie","seller":"mafia.wallet","symbol":"BEER","quantity":"0.075","price":"0.06000010","timestamp":1654815378,"volume":"0.00450001","buyTxId":"c78963c5137ceb8db21b1dadf8102623a8ee6b2e","sellTxId":"3b64342e3ca2e4de6c56a7f8e400adc2f7f9d0d1-3"}
