@@ -1,0 +1,6 @@
+{"index": {"_index":"chary","_id":"3831779"}}
+	{"id":3831779,"type":"sell","buyer":"coininstant","seller":"belemo","symbol":"CHARY","quantity":"1.000","price":"0.00110000","timestamp":1656837498,"volume":"0.00110000","buyTxId":"9fc7828ec64f7e9a59b0ee67aa6ae323e5b4bfd7","sellTxId":"a3f6a2720b9c21f473eac90269020c095b891000"}
+{"index": {"_index":"chary","_id":"3835362"}}
+	{"id":3835362,"type":"buy","buyer":"ericwilson","seller":"ericburgoyne","symbol":"CHARY","quantity":"0.572","price":"0.19990000","timestamp":1656883869,"volume":"0.11434280","buyTxId":"9daa4eba61b787f7ce6d5cd817b38b6cd7d66bcc","sellTxId":"909eb8ff1d7e5a34a913562f4abe097069f2675a"}
+{"index": {"_index":"chary","_id":"3835363"}}
+	{"id":3835363,"type":"buy","buyer":"ericwilson","seller":"alt-runner","symbol":"CHARY","quantity":"9.428","price":"0.19990000","timestamp":1656883869,"volume":"1.88465720","buyTxId":"9daa4eba61b787f7ce6d5cd817b38b6cd7d66bcc","sellTxId":"2e5acf0761f039cfaa289ee0b2f3786dd268e0e4"}

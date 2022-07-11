@@ -1,0 +1,16 @@
+{"index": {"_index":"beer","_id":"3556511"}}
+	{"id":3556511,"type":"sell","buyer":"onlydoge","seller":"itharagaian","symbol":"BEER","quantity":"0.04273437","price":"0.05311000","timestamp":1653813381,"volume":"0.00226962","buyTxId":"88bf129565ecac437196c7e89d8f4dd3c7f722a3","sellTxId":"0b78424b4b33a222b6d82a80471b12d3cc223426"}
+{"index": {"_index":"beer","_id":"3557629"}}
+	{"id":3557629,"type":"sell","buyer":"onlydoge","seller":"poliwalt10","symbol":"BEER","quantity":"0.11600000","price":"0.05311000","timestamp":1653826308,"volume":"0.00616076","buyTxId":"88bf129565ecac437196c7e89d8f4dd3c7f722a3","sellTxId":"3bbbbb80e8dd42fd8700d7243621983076bdbed5"}
+{"index": {"_index":"beer","_id":"3558604"}}
+	{"id":3558604,"type":"buy","buyer":"jpal47","seller":"wine-cellar","symbol":"BEER","quantity":"5.00000000","price":"0.10990000","timestamp":1653837432,"volume":"0.54950000","buyTxId":"262ccb3b94392c8dbff1e4cfc1eb851a87d2fbb9","sellTxId":"f0f4fbbddcec207504808230494f22dd313191fe"}
+{"index": {"_index":"beer","_id":"3560675"}}
+	{"id":3560675,"type":"sell","buyer":"onlydoge","seller":"resiliencia","symbol":"BEER","quantity":"0.39596879","price":"0.05311000","timestamp":1653854583,"volume":"0.02102990","buyTxId":"88bf129565ecac437196c7e89d8f4dd3c7f722a3","sellTxId":"9e5d16cdc1ff50efdb2c224f4694260429ac008d"}
+{"index": {"_index":"beer","_id":"3560759"}}
+	{"id":3560759,"type":"sell","buyer":"onlydoge","seller":"crypto-futurist","symbol":"BEER","quantity":"0.00100000","price":"0.05311000","timestamp":1653855423,"volume":"0.00005311","buyTxId":"88bf129565ecac437196c7e89d8f4dd3c7f722a3","sellTxId":"d838f30462150472748480b545aa4cb31a35a2fc"}
+{"index": {"_index":"beer","_id":"3560763"}}
+	{"id":3560763,"type":"sell","buyer":"onlydoge","seller":"nickyhavey","symbol":"BEER","quantity":"0.025","price":"0.05311000","timestamp":1653855468,"volume":"0.00132775","buyTxId":"88bf129565ecac437196c7e89d8f4dd3c7f722a3","sellTxId":"37cc40b98758127203f62f11bfb39695006b3ebf"}
+{"index": {"_index":"beer","_id":"3560964"}}
+	{"id":3560964,"type":"buy","buyer":"edgerik","seller":"wine-cellar","symbol":"BEER","quantity":"2.00000000","price":"0.10990000","timestamp":1653858189,"volume":"0.21980000","buyTxId":"b9a804a91ac6f0d5cfff00526c93e6b1a8b67640","sellTxId":"f0f4fbbddcec207504808230494f22dd313191fe"}
+{"index": {"_index":"beer","_id":"3561520"}}
+	{"id":3561520,"type":"sell","buyer":"onlydoge","seller":"laritheghost","symbol":"BEER","quantity":"0.17819753","price":"0.05311000","timestamp":1653863670,"volume":"0.00946407","buyTxId":"88bf129565ecac437196c7e89d8f4dd3c7f722a3","sellTxId":"c5e8943dd8adc6ed0b2b83e579dcea73ca2bf001"}

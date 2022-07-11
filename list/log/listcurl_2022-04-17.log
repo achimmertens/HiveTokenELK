@@ -1,0 +1,12 @@
+{"index": {"_index":"list","_id":"3211787"}}
+	{"id":3211787,"type":"sell","buyer":"ianmcg","seller":"brofi-market","symbol":"LIST","quantity":"3.25625391","price":"0.00245000","timestamp":1650111519,"volume":"0.00797782","buyTxId":"9f742a5f7def07d9cd679fe4e02dff4f701111a8","sellTxId":"bbb7da2e94c65bd444435b0173e302dcc37c9a07"}
+{"index": {"_index":"list","_id":"3211899"}}
+	{"id":3211899,"type":"sell","buyer":"ianmcg","seller":"dhedge-drips","symbol":"LIST","quantity":"0.30527380","price":"0.00245000","timestamp":1650113277,"volume":"0.00074792","buyTxId":"9f742a5f7def07d9cd679fe4e02dff4f701111a8","sellTxId":"c0af3b3ab758033489cd7bad02255bc8fb5ce0a6"}
+{"index": {"_index":"list","_id":"3212654"}}
+	{"id":3212654,"type":"sell","buyer":"ianmcg","seller":"technocrypton","symbol":"LIST","quantity":"5.77820454","price":"0.00245000","timestamp":1650121749,"volume":"0.01415660","buyTxId":"9f742a5f7def07d9cd679fe4e02dff4f701111a8","sellTxId":"d304bbf8e47094c58dc6245c8ddf9c6a4370136b"}
+{"index": {"_index":"list","_id":"3213299"}}
+	{"id":3213299,"type":"sell","buyer":"ianmcg","seller":"eldecor","symbol":"LIST","quantity":"123.6654233","price":"0.00245000","timestamp":1650129546,"volume":"0.30298029","buyTxId":"9f742a5f7def07d9cd679fe4e02dff4f701111a8","sellTxId":"3747bfe2171117ec7fbd58b4e60e5f9b21901507"}
+{"index": {"_index":"list","_id":"3214487"}}
+	{"id":3214487,"type":"sell","buyer":"ianmcg","seller":"alfarero","symbol":"LIST","quantity":"2.59985850","price":"0.00245000","timestamp":1650141384,"volume":"0.00636965","buyTxId":"9f742a5f7def07d9cd679fe4e02dff4f701111a8","sellTxId":"8e68794a27a10ce4b3af020f889b54ef12db5f8d"}
+{"index": {"_index":"list","_id":"3214549"}}
+	{"id":3214549,"type":"sell","buyer":"ianmcg","seller":"florenceboens","symbol":"LIST","quantity":"1.03564100","price":"0.00245000","timestamp":1650141840,"volume":"0.00253732","buyTxId":"9f742a5f7def07d9cd679fe4e02dff4f701111a8","sellTxId":"cc19d366e0f57b8e83d8fe9ec891c87a08f196c9"}

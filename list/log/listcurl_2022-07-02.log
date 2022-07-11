@@ -1,0 +1,12 @@
+{"index": {"_index":"list","_id":"3811017"}}
+	{"id":3811017,"type":"sell","buyer":"onlydoge","seller":"isiksenpalvoja","symbol":"LIST","quantity":"1.60374300","price":"0.00571100","timestamp":1656601914,"volume":"0.00915898","buyTxId":"61b4170992b1a6478156aa3420e5c9c59d67de92","sellTxId":"bd2d1c7cbc41e17daf2c8b62b821598d069d881a"}
+{"index": {"_index":"list","_id":"3814090"}}
+	{"id":3814090,"type":"buy","buyer":"nyxlabs","seller":"richardcrill","symbol":"LIST","quantity":"53.55574396","price":"0.00790000","timestamp":1656628473,"volume":"0.42309038","buyTxId":"c840e82e3fe44054aac78fa1a784c85507d22551","sellTxId":"MM-P-18728447-65720671-3-7-0"}
+{"index": {"_index":"list","_id":"3814848"}}
+	{"id":3814848,"type":"sell","buyer":"onlydoge","seller":"thatsweeneyguy","symbol":"LIST","quantity":"369.29598270","price":"0.00571100","timestamp":1656635049,"volume":"2.10904935","buyTxId":"61b4170992b1a6478156aa3420e5c9c59d67de92","sellTxId":"978ab69c516a0cc1362952b479bcecedabf2c4a8"}
+{"index": {"_index":"list","_id":"3814849"}}
+	{"id":3814849,"type":"sell","buyer":"cookaiss","seller":"thatsweeneyguy","symbol":"LIST","quantity":"495.82374561","price":"0.00571000","timestamp":1656635049,"volume":"2.83115359","buyTxId":"11a3be366b7abbdb1d1537f093ff781598880ffc","sellTxId":"978ab69c516a0cc1362952b479bcecedabf2c4a8"}
+{"index": {"_index":"list","_id":"3816472"}}
+	{"id":3816472,"type":"sell","buyer":"cookaiss","seller":"frugal-fun","symbol":"LIST","quantity":"27.66130763","price":"0.00571000","timestamp":1656652701,"volume":"0.15794607","buyTxId":"11a3be366b7abbdb1d1537f093ff781598880ffc","sellTxId":"a4f075254c7ab7afd8d17c8a9a80f02d53bebc75"}
+{"index": {"_index":"list","_id":"3818741"}}
+	{"id":3818741,"type":"sell","buyer":"cookaiss","seller":"nyxlabs","symbol":"LIST","quantity":"68.54073997","price":"0.00571000","timestamp":1656678030,"volume":"0.39136763","buyTxId":"11a3be366b7abbdb1d1537f093ff781598880ffc","sellTxId":"9b490e9ecfaca49e96727655f1808728208053ad"}

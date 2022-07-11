@@ -1,0 +1,6 @@
+{"index": {"_index":"list","_id":"3818741"}}
+	{"id":3818741,"type":"sell","buyer":"cookaiss","seller":"nyxlabs","symbol":"LIST","quantity":"68.54073997","price":"0.00571000","timestamp":1656678030,"volume":"0.39136763","buyTxId":"11a3be366b7abbdb1d1537f093ff781598880ffc","sellTxId":"9b490e9ecfaca49e96727655f1808728208053ad"}
+{"index": {"_index":"list","_id":"3824450"}}
+	{"id":3824450,"type":"sell","buyer":"cookaiss","seller":"dswap","symbol":"LIST","quantity":"21.43102547","price":"0.00571000","timestamp":1656745965,"volume":"0.12237116","buyTxId":"11a3be366b7abbdb1d1537f093ff781598880ffc","sellTxId":"afda39eb3e92b3794367ae8451689ed2b4c3dbf8"}
+{"index": {"_index":"list","_id":"3825314"}}
+	{"id":3825314,"type":"sell","buyer":"cookaiss","seller":"synergie","symbol":"LIST","quantity":"0.06691968","price":"0.00571000","timestamp":1656758967,"volume":"0.00038211","buyTxId":"11a3be366b7abbdb1d1537f093ff781598880ffc","sellTxId":"fd542034b7703812046e6fc428d7d387e64bfb3a"}

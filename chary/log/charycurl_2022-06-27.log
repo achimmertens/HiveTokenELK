@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"3777585"}}
+	{"id":3777585,"type":"sell","buyer":"holovision.cash","seller":"hiveword","symbol":"CHARY","quantity":"99.019","price":"0.00100000","timestamp":1656256905,"volume":"0.09901900","buyTxId":"c631df5056c5023bc076ebc3af76421c54db317c","sellTxId":"04e76b482017439840460b6aaec035fdd0aa6c22"}

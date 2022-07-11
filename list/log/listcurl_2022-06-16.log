@@ -1,0 +1,10 @@
+{"index": {"_index":"list","_id":"3694337"}}
+	{"id":3694337,"type":"sell","buyer":"yintercept","seller":"itharagaian","symbol":"LIST","quantity":"0.00775388","price":"0.00520000","timestamp":1655277744,"volume":"0.00004032","buyTxId":"198ed3b86999fa41fe27dba03460d679dd232600","sellTxId":"56e0ba95c9da7482721b7f3bb0e5422f065774a6"}
+{"index": {"_index":"list","_id":"3695591"}}
+	{"id":3695591,"type":"sell","buyer":"yintercept","seller":"michelmake","symbol":"LIST","quantity":"0.73468528","price":"0.00520000","timestamp":1655289342,"volume":"0.00382036","buyTxId":"198ed3b86999fa41fe27dba03460d679dd232600","sellTxId":"5f8c81e4328e7eeca4a7c82a7bf791bf6e548059"}
+{"index": {"_index":"list","_id":"3698066"}}
+	{"id":3698066,"type":"sell","buyer":"yintercept","seller":"twicejoy","symbol":"LIST","quantity":"35.65921276","price":"0.00520000","timestamp":1655313201,"volume":"0.18542791","buyTxId":"198ed3b86999fa41fe27dba03460d679dd232600","sellTxId":"94922a98722a2ee964cdd33aac88f0d41412c056"}
+{"index": {"_index":"list","_id":"3698108"}}
+	{"id":3698108,"type":"sell","buyer":"master-lamps","seller":"twicejoy","symbol":"LIST","quantity":"129.03932200","price":"0.00510001","timestamp":1655313723,"volume":"0.65810183","buyTxId":"ea6b2c048e8b73e78b552aefd08b1c35fbf93fc7","sellTxId":"86775dabe29d8d348228efd56e0fc04823b4b24a"}
+{"index": {"_index":"list","_id":"3698442"}}
+	{"id":3698442,"type":"buy","buyer":"hivediver","seller":"kaunglay2","symbol":"LIST","quantity":"85.57700000","price":"0.00520000","timestamp":1655316723,"volume":"0.44500040","buyTxId":"30615f8df34cf5b3fc90670ad408c88260222dcc","sellTxId":"b10e915ef8afd4f52c85dfece4c5475a77645fe5"}
