@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"3851175"}}
+	{"id":3851175,"type":"sell","buyer":"ericwilson","seller":"saleg25","symbol":"CHARY","quantity":"11.626","price":"0.00130000","timestamp":1657097562,"volume":"0.01511380","buyTxId":"0ce7bdca9d33ca4c6625885153f631a1461cd247","sellTxId":"79738f4e994af3681570b38e338ff935bf7a2000"}

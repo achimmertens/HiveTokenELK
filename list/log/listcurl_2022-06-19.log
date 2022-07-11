@@ -1,0 +1,14 @@
+{"index": {"_index":"list","_id":"3716905"}}
+	{"id":3716905,"type":"sell","buyer":"cookaiss","seller":"thatsweeneyguy","symbol":"LIST","quantity":"865.79932198","price":"0.00512000","timestamp":1655519370,"volume":"4.43289253","buyTxId":"d55ee12b018f9c0cb0256f14b9c40c62a8f6960c","sellTxId":"f814390cec13226eef7df520bd664f647fbc74a8"}
+{"index": {"_index":"list","_id":"3718560"}}
+	{"id":3718560,"type":"buy","buyer":"cookaiss","seller":"ugochill","symbol":"LIST","quantity":"0.00001766","price":"0.00600000","timestamp":1655536764,"volume":"0.00000011","buyTxId":"b7f9dcc5e8dccd92b8477fe3615f33d37ef083c0","sellTxId":"4350021fd2b7c706ee82e08be45d172ec304e28c"}
+{"index": {"_index":"list","_id":"3718970"}}
+	{"id":3718970,"type":"sell","buyer":"cookaiss","seller":"synergie","symbol":"LIST","quantity":"0.52747438","price":"0.00512000","timestamp":1655541759,"volume":"0.00270067","buyTxId":"d55ee12b018f9c0cb0256f14b9c40c62a8f6960c","sellTxId":"18e0bfdda358c9c53db49f9117effbae1fe72b5e"}
+{"index": {"_index":"list","_id":"3720002"}}
+	{"id":3720002,"type":"sell","buyer":"cookaiss","seller":"isiksenpalvoja","symbol":"LIST","quantity":"0.32511600","price":"0.00512000","timestamp":1655556021,"volume":"0.00166459","buyTxId":"d55ee12b018f9c0cb0256f14b9c40c62a8f6960c","sellTxId":"4ddd98bb8592f1cf72b0255f5bf0d7512ca86a1d"}
+{"index": {"_index":"list","_id":"3722283"}}
+	{"id":3722283,"type":"sell","buyer":"cookaiss","seller":"frugal-fun","symbol":"LIST","quantity":"9.19006486","price":"0.00512000","timestamp":1655580654,"volume":"0.04705313","buyTxId":"d55ee12b018f9c0cb0256f14b9c40c62a8f6960c","sellTxId":"fcff1ac4380f1dfacb123ec27521ffeda70a58fb"}
+{"index": {"_index":"list","_id":"3722550"}}
+	{"id":3722550,"type":"buy","buyer":"bionicpainter","seller":"brofi-market","symbol":"LIST","quantity":"0.11369385","price":"0.00790000","timestamp":1655582031,"volume":"0.00089818","buyTxId":"4c78d286dc4ede504abd0129eb9afbfd56043da7","sellTxId":"a288abfc5db98b3489447a1877c162426ca33919"}
+{"index": {"_index":"list","_id":"3722555"}}
+	{"id":3722555,"type":"sell","buyer":"cookaiss","seller":"bionicpainter","symbol":"LIST","quantity":"0.2273877","price":"0.00512000","timestamp":1655582067,"volume":"0.00116423","buyTxId":"d55ee12b018f9c0cb0256f14b9c40c62a8f6960c","sellTxId":"ddd7804b83f179cd81c7f1b2b8e7b62e4a419664"}

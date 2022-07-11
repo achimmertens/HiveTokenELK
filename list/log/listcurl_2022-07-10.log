@@ -1,0 +1,8 @@
+{"index": {"_index":"list","_id":"3865794"}}
+	{"id":3865794,"type":"buy","buyer":"dswap","seller":"richardcrill","symbol":"LIST","quantity":"4.96269230","price":"0.00780000","timestamp":1657292607,"volume":"0.03870900","buyTxId":"aaeab90227c546bd67467070d59550fe31bb48cc","sellTxId":"MM-P-18957614-65950517-3-7-0"}
+{"index": {"_index":"list","_id":"3866326"}}
+	{"id":3866326,"type":"sell","buyer":"cookaiss","seller":"dswap","symbol":"LIST","quantity":"1","price":"0.00420000","timestamp":1657299129,"volume":"0.00420000","buyTxId":"90b2a67d4bb4ff999a7fd1394589d7e4c162a7ce","sellTxId":"47b293225e79c12c7a8e1e7da2264d484fe8dc6f"}
+{"index": {"_index":"list","_id":"3866461"}}
+	{"id":3866461,"type":"sell","buyer":"cookaiss","seller":"frugal-fun","symbol":"LIST","quantity":"9.92082121","price":"0.00420000","timestamp":1657300701,"volume":"0.04166745","buyTxId":"90b2a67d4bb4ff999a7fd1394589d7e4c162a7ce","sellTxId":"fc57062729194f27f14f0804c4c4ce5523044da1"}
+{"index": {"_index":"list","_id":"3872243"}}
+	{"id":3872243,"type":"sell","buyer":"cookaiss","seller":"finris","symbol":"LIST","quantity":"1171.38358048","price":"0.00420000","timestamp":1657377303,"volume":"4.91981104","buyTxId":"90b2a67d4bb4ff999a7fd1394589d7e4c162a7ce","sellTxId":"45e3e6ac184ebc467e1e3c0178253cbed0006ca5"}

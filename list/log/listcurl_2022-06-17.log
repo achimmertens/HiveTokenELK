@@ -1,0 +1,6 @@
+{"index": {"_index":"list","_id":"3705341"}}
+	{"id":3705341,"type":"sell","buyer":"cookaiss","seller":"frugal-fun","symbol":"LIST","quantity":"9.06073717","price":"0.00512000","timestamp":1655389494,"volume":"0.04639097","buyTxId":"d55ee12b018f9c0cb0256f14b9c40c62a8f6960c","sellTxId":"8126433a8c93460609db3442032b67553e95897d"}
+{"index": {"_index":"list","_id":"3705358"}}
+	{"id":3705358,"type":"sell","buyer":"cookaiss","seller":"frugal-fun","symbol":"LIST","quantity":"9.02809399","price":"0.00512000","timestamp":1655389611,"volume":"0.04622384","buyTxId":"d55ee12b018f9c0cb0256f14b9c40c62a8f6960c","sellTxId":"152e7d5bc9ebb89a407cd42b0e770e95ce46101b"}
+{"index": {"_index":"list","_id":"3708246"}}
+	{"id":3708246,"type":"sell","buyer":"cookaiss","seller":"yayogerardo","symbol":"LIST","quantity":"5.67232861","price":"0.00512000","timestamp":1655417493,"volume":"0.02904232","buyTxId":"d55ee12b018f9c0cb0256f14b9c40c62a8f6960c","sellTxId":"0f7d1765d8a673953cb891a1218c798a73c16ced"}
