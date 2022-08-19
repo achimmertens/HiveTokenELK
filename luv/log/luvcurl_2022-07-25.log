@@ -1,0 +1,14 @@
+{"index": {"_index":"luv","_id":"3974292"}}
+	{"id":3974292,"type":"sell","buyer":"amaari","seller":"steem82868","symbol":"LUV","quantity":"1.00000000","price":"0.00981103","timestamp":1658635308,"volume":"0.00981103","buyTxId":"681e899b548eb7c1c3a37e91303bf06e9e6e5259","sellTxId":"d35583c0d50adcab586dbe1cf007bcd1f58252cf"}
+{"index": {"_index":"luv","_id":"3974832"}}
+	{"id":3974832,"type":"sell","buyer":"amaari","seller":"tydynrain","symbol":"LUV","quantity":"1.00000000","price":"0.00981103","timestamp":1658643360,"volume":"0.00981103","buyTxId":"681e899b548eb7c1c3a37e91303bf06e9e6e5259","sellTxId":"159a773b28345bc188012c30cfa206cd19fc3a02"}
+{"index": {"_index":"luv","_id":"3976483"}}
+	{"id":3976483,"type":"sell","buyer":"amaari","seller":"krakonos","symbol":"LUV","quantity":"1.00677000","price":"0.00981103","timestamp":1658666733,"volume":"0.00987745","buyTxId":"681e899b548eb7c1c3a37e91303bf06e9e6e5259","sellTxId":"a647bc640e9626af24a35943009c1a589dd6a233"}
+{"index": {"_index":"luv","_id":"3977030"}}
+	{"id":3977030,"type":"sell","buyer":"amaari","seller":"ydaiznfts","symbol":"LUV","quantity":"8.00000000","price":"0.00981103","timestamp":1658674056,"volume":"0.07848824","buyTxId":"681e899b548eb7c1c3a37e91303bf06e9e6e5259","sellTxId":"4e20f5ea4c066bbf1729a69deb735101410b98a0"}
+{"index": {"_index":"luv","_id":"3977785"}}
+	{"id":3977785,"type":"sell","buyer":"amaari","seller":"eforucom","symbol":"LUV","quantity":"1.00000000","price":"0.00981103","timestamp":1658682339,"volume":"0.00981103","buyTxId":"681e899b548eb7c1c3a37e91303bf06e9e6e5259","sellTxId":"c6bc4d56d0520a3141e31c3a0d3b68cdb60e42d5"}
+{"index": {"_index":"luv","_id":"3979931"}}
+	{"id":3979931,"type":"sell","buyer":"amaari","seller":"nahueldare3627","symbol":"LUV","quantity":"26.28032034","price":"0.00981103","timestamp":1658708301,"volume":"0.25783701","buyTxId":"681e899b548eb7c1c3a37e91303bf06e9e6e5259","sellTxId":"aace10cf70441d4f924f988f567e37242db7d79c"}
+{"index": {"_index":"luv","_id":"3979932"}}
+	{"id":3979932,"type":"sell","buyer":"yonnathang","seller":"nahueldare3627","symbol":"LUV","quantity":"7.71967966","price":"0.00981102","timestamp":1658708301,"volume":"0.07573793","buyTxId":"4ec992abe3b98cdf4938e18c2e0986cef67bdea2","sellTxId":"aace10cf70441d4f924f988f567e37242db7d79c"}

@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"4094522"}}
+	{"id":4094522,"type":"buy","buyer":"ironshield","seller":"poshtoken","symbol":"CHARY","quantity":"70.000","price":"0.00129334","timestamp":1659989493,"volume":"0.09053380","buyTxId":"16f52a4915d8c2b17b4fef73e15db45893158bd8","sellTxId":"96829f58aa0f0f52882209d1278893161d834eab"}

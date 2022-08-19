@@ -1,0 +1,10 @@
+{"index": {"_index":"list","_id":"3884349"}}
+	{"id":3884349,"type":"buy","buyer":"dswap","seller":"richardcrill","symbol":"LIST","quantity":"2.68777687","price":"0.00869990","timestamp":1657526589,"volume":"0.02338339","buyTxId":"37e0db585951fb213b88f11460b4aefee36c2e6b","sellTxId":"MM-P-19033123-66026200-3-7-0"}
+{"index": {"_index":"list","_id":"3884938"}}
+	{"id":3884938,"type":"sell","buyer":"onlydoge","seller":"frugal-fun","symbol":"LIST","quantity":"244.59831257","price":"0.00421100","timestamp":1657534569,"volume":"1.03000349","buyTxId":"29deea44698fb394c90498bc74664a22ac8c88f4","sellTxId":"a02b274569e48a8107c20af562e92085fe38ffc9"}
+{"index": {"_index":"list","_id":"3885880"}}
+	{"id":3885880,"type":"sell","buyer":"pjansen","seller":"charityball","symbol":"LIST","quantity":"424.66799174","price":"0.00450000","timestamp":1657548366,"volume":"1.91100596","buyTxId":"867c746b22cc1b62176483a9082fde5e1b845963","sellTxId":"5bc0ab2c66c2a876ba8d1bd23efdd891059c4724"}
+{"index": {"_index":"list","_id":"3887736"}}
+	{"id":3887736,"type":"sell","buyer":"pjansen","seller":"dswap","symbol":"LIST","quantity":"0.0146509","price":"0.00510001","timestamp":1657571073,"volume":"0.00007472","buyTxId":"863760885e0f18d1c3cde0ee1954ceb243fc5faf","sellTxId":"d9d9c61d60369b59baf4b526d48e387a3127a32f"}
+{"index": {"_index":"list","_id":"3888030"}}
+	{"id":3888030,"type":"sell","buyer":"pjansen","seller":"florenceboens","symbol":"LIST","quantity":"4.00000000","price":"0.00510001","timestamp":1657574907,"volume":"0.02040004","buyTxId":"da105d154c5790ad55fad6d751c0499c22bc52e4","sellTxId":"467f37040f14841cce5882f2280194f74a3c7cbd"}

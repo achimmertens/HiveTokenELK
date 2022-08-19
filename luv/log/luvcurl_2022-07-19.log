@@ -1,0 +1,12 @@
+{"index": {"_index":"luv","_id":"3933387"}}
+	{"id":3933387,"type":"sell","buyer":"metzli","seller":"ugochill","symbol":"LUV","quantity":"1.00000000","price":"0.00980000","timestamp":1658134722,"volume":"0.00980000","buyTxId":"4fa1baaad3a0fc27638e5fa4a269db4bdeefe041","sellTxId":"8d08a75fc236de04b63a52a8231b636d080182a9"}
+{"index": {"_index":"luv","_id":"3934037"}}
+	{"id":3934037,"type":"sell","buyer":"forsakensushi","seller":"ydaiznfts","symbol":"LUV","quantity":"8.00000000","price":"0.01000000","timestamp":1658143287,"volume":"0.08000000","buyTxId":"3305c1dd40cac2d5ed9bf2115047273e73083e88","sellTxId":"2dbf2960c05c0c09b73bbc7853c62e7276fa000d"}
+{"index": {"_index":"luv","_id":"3936166"}}
+	{"id":3936166,"type":"sell","buyer":"onlydoge","seller":"laritheghost","symbol":"LUV","quantity":"1.00306084","price":"0.01001000","timestamp":1658166789,"volume":"0.01004064","buyTxId":"03c3654ba465f16092ac9ff41b7ca36a66cc7114","sellTxId":"ec6cfe85bfb7829c33d73385894d2ebf06cb49be"}
+{"index": {"_index":"luv","_id":"3937468"}}
+	{"id":3937468,"type":"sell","buyer":"onlydoge","seller":"bitcoinflood","symbol":"LUV","quantity":"1.00051197","price":"0.01001000","timestamp":1658180334,"volume":"0.01001512","buyTxId":"03c3654ba465f16092ac9ff41b7ca36a66cc7114","sellTxId":"98d6a958be9cd67d5394651f50c6de5708e182a7"}
+{"index": {"_index":"luv","_id":"3938499"}}
+	{"id":3938499,"type":"sell","buyer":"amaari","seller":"shaidon","symbol":"LUV","quantity":"3.00209122","price":"0.01001001","timestamp":1658191941,"volume":"0.03005096","buyTxId":"8d5aec09bbea7b686a2991e17c6806bcb741ce28","sellTxId":"ce37ca7770c113cf5705e3e92f1f3a04e87d48c0"}
+{"index": {"_index":"luv","_id":"3939268"}}
+	{"id":3939268,"type":"sell","buyer":"amaari","seller":"thisisawesome","symbol":"LUV","quantity":"2","price":"0.01001001","timestamp":1658195877,"volume":"0.02002002","buyTxId":"8d5aec09bbea7b686a2991e17c6806bcb741ce28","sellTxId":"075fd108b395dc08784b02a0a0f485459ce13940"}

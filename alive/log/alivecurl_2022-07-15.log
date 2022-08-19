@@ -1,0 +1,16 @@
+{"index": {"_index":"alive","_id":"3905620"}}
+	{"id":3905620,"type":"sell","buyer":"onlydoge","seller":"cryptonotes","symbol":"ALIVE","quantity":"13.8157","price":"0.01116000","timestamp":1657771914,"volume":"0.15418321","buyTxId":"57f225c46cf817f19251faf8c4ea96672a8bfc93","sellTxId":"4a7f3cf152d1791ae726c94b627993c8cbd7cbaa"}
+{"index": {"_index":"alive","_id":"3907488"}}
+	{"id":3907488,"type":"sell","buyer":"magicbeans","seller":"iamraincrystal","symbol":"ALIVE","quantity":"100","price":"0.01122001","timestamp":1657798329,"volume":"1.12200100","buyTxId":"1a86d629c05d1fe744b43b117d12606359c33440","sellTxId":"e6c85b248763e76e8b70e39e32ffb1483d341733"}
+{"index": {"_index":"alive","_id":"3908868"}}
+	{"id":3908868,"type":"sell","buyer":"onlydoge","seller":"florenceboens","symbol":"ALIVE","quantity":"0.2625","price":"0.01251000","timestamp":1657816239,"volume":"0.00328388","buyTxId":"f1040a2961cbe560fd73adf76e3b0b1b759e35c9","sellTxId":"a0d3d79f149043afb300c9429322b9f34740ea64"}
+{"index": {"_index":"alive","_id":"3908907"}}
+	{"id":3908907,"type":"sell","buyer":"onlydoge","seller":"isiksenpalvoja","symbol":"ALIVE","quantity":"2.1075","price":"0.01251000","timestamp":1657816824,"volume":"0.02636483","buyTxId":"f1040a2961cbe560fd73adf76e3b0b1b759e35c9","sellTxId":"ad33541904e319cc526527baffa8a7890745a137"}
+{"index": {"_index":"alive","_id":"3908977"}}
+	{"id":3908977,"type":"sell","buyer":"onlydoge","seller":"hive-id","symbol":"ALIVE","quantity":"6.0000","price":"0.01251000","timestamp":1657817322,"volume":"0.07506000","buyTxId":"f1040a2961cbe560fd73adf76e3b0b1b759e35c9","sellTxId":"acc4d27f9b5d82f32d2f6b9aa4872eb5f5682dbb"}
+{"index": {"_index":"alive","_id":"3910446"}}
+	{"id":3910446,"type":"sell","buyer":"misterc","seller":"gadrian","symbol":"ALIVE","quantity":"1.0359","price":"0.01983994","timestamp":1657833522,"volume":"0.02055219","buyTxId":"e16bc489016c3e5e9879bedc48e79af7bef4c1df","sellTxId":"1c6995a4a31759eeefbd4c8a4d32b05a85bd6f65"}
+{"index": {"_index":"alive","_id":"3910975"}}
+	{"id":3910975,"type":"sell","buyer":"misterc","seller":"mypathtofire","symbol":"ALIVE","quantity":"30.0000","price":"0.01983994","timestamp":1657841682,"volume":"0.59519820","buyTxId":"e16bc489016c3e5e9879bedc48e79af7bef4c1df","sellTxId":"f03a91277b4d19dd8dba93ba5929998673cd1abb"}
+{"index": {"_index":"alive","_id":"3911584"}}
+	{"id":3911584,"type":"sell","buyer":"misterc","seller":"thatcryptodave","symbol":"ALIVE","quantity":"21.1951","price":"0.01983994","timestamp":1657851282,"volume":"0.42050951","buyTxId":"e16bc489016c3e5e9879bedc48e79af7bef4c1df","sellTxId":"059920eab9b8d34ea46e267e4d06625262fc44c6"}

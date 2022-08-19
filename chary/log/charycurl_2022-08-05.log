@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"4018110"}}
+	{"id":4018110,"type":"sell","buyer":"baconface","seller":"poshtoken","symbol":"CHARY","quantity":"0.001","price":"0.00126750","timestamp":1659108882,"volume":"0.00000127","buyTxId":"3d42f83a194b26a10b40bdb8655be552b9d1fe42","sellTxId":"d413b4de9c0389575174400bd85612f3d843275e-8"}

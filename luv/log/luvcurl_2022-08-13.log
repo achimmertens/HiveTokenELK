@@ -1,0 +1,16 @@
+{"index": {"_index":"luv","_id":"4115857"}}
+	{"id":4115857,"type":"sell","buyer":"onlydoge","seller":"nezumiyarouya","symbol":"LUV","quantity":"0.00000971","price":"0.00555100","timestamp":1660270797,"volume":"0.00000005","buyTxId":"6c9880f66aee27a2069021ba116ace0d296c4ded","sellTxId":"cde78ea8838cadd9ca5d2184d7c17f913e83dce4"}
+{"index": {"_index":"luv","_id":"4116164"}}
+	{"id":4116164,"type":"sell","buyer":"onlydoge","seller":"ydaiznfts","symbol":"LUV","quantity":"7.00000000","price":"0.00555100","timestamp":1660274127,"volume":"0.03885700","buyTxId":"6c9880f66aee27a2069021ba116ace0d296c4ded","sellTxId":"aac81919962d1f2ec2a2c26bb544bc60d0f526db"}
+{"index": {"_index":"luv","_id":"4116239"}}
+	{"id":4116239,"type":"sell","buyer":"onlydoge","seller":"synergized","symbol":"LUV","quantity":"0.00000487","price":"0.00555100","timestamp":1660275417,"volume":"0.00000003","buyTxId":"6c9880f66aee27a2069021ba116ace0d296c4ded","sellTxId":"9da02164c8015531fe6bf273f8f8ceffde8970ef"}
+{"index": {"_index":"luv","_id":"4117228"}}
+	{"id":4117228,"type":"sell","buyer":"onlydoge","seller":"quotidien","symbol":"LUV","quantity":"2.00000000","price":"0.00555100","timestamp":1660292370,"volume":"0.01110200","buyTxId":"6c9880f66aee27a2069021ba116ace0d296c4ded","sellTxId":"855301441badbe7944edb010bc6ec279b185f6c7"}
+{"index": {"_index":"luv","_id":"4118076"}}
+	{"id":4118076,"type":"sell","buyer":"onlydoge","seller":"zirochka","symbol":"LUV","quantity":"10.29582948","price":"0.00555100","timestamp":1660306560,"volume":"0.05715215","buyTxId":"6c9880f66aee27a2069021ba116ace0d296c4ded","sellTxId":"35b0b15a74f12eff685afe93aaa2bd35dad61649"}
+{"index": {"_index":"luv","_id":"4118681"}}
+	{"id":4118681,"type":"sell","buyer":"onlydoge","seller":"eforucom","symbol":"LUV","quantity":"0.00000319","price":"0.00555100","timestamp":1660316907,"volume":"0.00000002","buyTxId":"6c9880f66aee27a2069021ba116ace0d296c4ded","sellTxId":"7902d5c0fc2cf8f4892877320cd2004faf6a6456"}
+{"index": {"_index":"luv","_id":"4119731"}}
+	{"id":4119731,"type":"sell","buyer":"onlydoge","seller":"synergized","symbol":"LUV","quantity":"0.00000365","price":"0.00555100","timestamp":1660331490,"volume":"0.00000002","buyTxId":"6c9880f66aee27a2069021ba116ace0d296c4ded","sellTxId":"f1885e3b9c30bb9a15a3ab9e516b43c153c5a024"}
+{"index": {"_index":"luv","_id":"4121293"}}
+	{"id":4121293,"type":"sell","buyer":"onlydoge","seller":"aliveandthriving","symbol":"LUV","quantity":"3","price":"0.00555100","timestamp":1660351449,"volume":"0.01665300","buyTxId":"6c9880f66aee27a2069021ba116ace0d296c4ded","sellTxId":"6aaafe3aab34f5f2e17f77e42b6e9c7674d62bd7"}

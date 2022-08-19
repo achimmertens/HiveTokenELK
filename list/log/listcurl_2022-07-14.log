@@ -1,0 +1,6 @@
+{"index": {"_index":"list","_id":"3898225"}}
+	{"id":3898225,"type":"sell","buyer":"pjansen","seller":"synergie","symbol":"LIST","quantity":"0.00003666","price":"0.00520001","timestamp":1657697919,"volume":"0.00000019","buyTxId":"1378bc2ff21634bc35f0b2871c6e95d9a8e586bc","sellTxId":"c990563d3f1037ddcdeae4036ac09ecc2f3f0152"}
+{"index": {"_index":"list","_id":"3901154"}}
+	{"id":3901154,"type":"sell","buyer":"pjansen","seller":"frugal-fun","symbol":"LIST","quantity":"19.85997887","price":"0.00520001","timestamp":1657728075,"volume":"0.10327209","buyTxId":"a56686d763690069e3856e67bb5cdce351c48cc2","sellTxId":"8fd533c9b2beb6799ef97ff6ac96d9ec08966379"}
+{"index": {"_index":"list","_id":"3901227"}}
+	{"id":3901227,"type":"sell","buyer":"pjansen","seller":"kaunglay2","symbol":"LIST","quantity":"59.05000000","price":"0.00520001","timestamp":1657728501,"volume":"0.30706059","buyTxId":"a56686d763690069e3856e67bb5cdce351c48cc2","sellTxId":"265f036b43bfe83a09c6ba792d67af742302fcf0"}

@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"4006887"}}
+	{"id":4006887,"type":"sell","buyer":"ericwilson","seller":"poshtoken","symbol":"CHARY","quantity":"963.470","price":"0.00130000","timestamp":1658973186,"volume":"1.25251100","buyTxId":"0ce7bdca9d33ca4c6625885153f631a1461cd247","sellTxId":"96829f58aa0f0f52882209d1278893161d834eab"}

@@ -1,0 +1,12 @@
+{"index": {"_index":"beer","_id":"4123599"}}
+	{"id":4123599,"type":"sell","buyer":"methus","seller":"onealfa.leo","symbol":"BEER","quantity":"0.427","price":"0.02200030","timestamp":1660388220,"volume":"0.00939413","buyTxId":"e7da1449dbcd9a7aab0afe6dfa2db76e20707573","sellTxId":"39bd8761914548571b7e1f88332f6d87e2f01150"}
+{"index": {"_index":"beer","_id":"4123907"}}
+	{"id":4123907,"type":"sell","buyer":"methus","seller":"flaxz","symbol":"BEER","quantity":"0.21772956","price":"0.02200030","timestamp":1660393095,"volume":"0.00479012","buyTxId":"e7da1449dbcd9a7aab0afe6dfa2db76e20707573","sellTxId":"5d3e039a6e36b8f9dbda2788c576fdf768fb3299"}
+{"index": {"_index":"beer","_id":"4125311"}}
+	{"id":4125311,"type":"sell","buyer":"methus","seller":"senstless","symbol":"BEER","quantity":"22.26147901","price":"0.02200030","timestamp":1660410975,"volume":"0.48975922","buyTxId":"e7da1449dbcd9a7aab0afe6dfa2db76e20707573","sellTxId":"439c05562bece948a6dbd953f44a859f89f4eef9"}
+{"index": {"_index":"beer","_id":"4126298"}}
+	{"id":4126298,"type":"sell","buyer":"methus","seller":"augustbrown","symbol":"BEER","quantity":"0.08855992","price":"0.02200030","timestamp":1660425501,"volume":"0.00194834","buyTxId":"e7da1449dbcd9a7aab0afe6dfa2db76e20707573","sellTxId":"f8258740072f31aa97e7f63cef6ca2f78bb9dde3"}
+{"index": {"_index":"beer","_id":"4126550"}}
+	{"id":4126550,"type":"sell","buyer":"methus","seller":"poliwalt10","symbol":"BEER","quantity":"0.45000000","price":"0.02200030","timestamp":1660428813,"volume":"0.00990014","buyTxId":"e7da1449dbcd9a7aab0afe6dfa2db76e20707573","sellTxId":"610380a6eba976ff2910b15d52f2e7c868b92618"}
+{"index": {"_index":"beer","_id":"4127484"}}
+	{"id":4127484,"type":"sell","buyer":"methus","seller":"forexbrokr","symbol":"BEER","quantity":"0.90000000","price":"0.02410000","timestamp":1660441725,"volume":"0.02169000","buyTxId":"2f39d80ee66d19a2ff8969d41eeaf467335fe926","sellTxId":"bf644fc817de824f26d1ad66cbe4f691dc929537"}

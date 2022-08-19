@@ -1,0 +1,10 @@
+{"index": {"_index":"list","_id":"3937398"}}
+	{"id":3937398,"type":"sell","buyer":"pjansen","seller":"lordneroo","symbol":"LIST","quantity":"0.00025359","price":"0.00410201","timestamp":1658179473,"volume":"0.00000104","buyTxId":"38f32db5c4abe5e6af58790289d5db2bf555015c","sellTxId":"3f8b9aa0851a6e8877e6dfdc3ad9f06aadf21751"}
+{"index": {"_index":"list","_id":"3937406"}}
+	{"id":3937406,"type":"sell","buyer":"onlydoge","seller":"pjansen","symbol":"LIST","quantity":"0.00025359","price":"0.00410200","timestamp":1658179545,"volume":"0.00000104","buyTxId":"fe17b6b3af336e669c6589514388c3b042fbf148","sellTxId":"583b4cfa9b1a3b24444a19cb2943ae14ec56a3e5"}
+{"index": {"_index":"list","_id":"3940374"}}
+	{"id":3940374,"type":"sell","buyer":"pjansen","seller":"synergie","symbol":"LIST","quantity":"0.23090268","price":"0.00410601","timestamp":1658210751,"volume":"0.00094809","buyTxId":"22ab4580383eeb404acaa709eaa36cb853972529","sellTxId":"c1b632faecc5b97921d66359438bc1530f5dbe5d"}
+{"index": {"_index":"list","_id":"3943214"}}
+	{"id":3943214,"type":"sell","buyer":"pjansen","seller":"bitandi","symbol":"LIST","quantity":"11.52599463","price":"0.00411001","timestamp":1658246907,"volume":"0.04737195","buyTxId":"98704752cd9ba7bac8a875ec476ebc08187bca9e","sellTxId":"9a7a8f97fd2b0b2962b476e633a62547ff3bbf2f"}
+{"index": {"_index":"list","_id":"3944538"}}
+	{"id":3944538,"type":"sell","buyer":"onlydoge","seller":"crazyphantombr","symbol":"LIST","quantity":"0.00006289","price":"0.00411200","timestamp":1658260140,"volume":"0.00000026","buyTxId":"d2332215847538bae9de6f4f7d2b8cc556741dba","sellTxId":"9bc8cfa1f4e8b630ba9693e9883c586a261d02e1"}

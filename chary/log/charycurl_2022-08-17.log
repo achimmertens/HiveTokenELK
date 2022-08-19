@@ -1,0 +1,2 @@
+{"index": {"_index":"chary","_id":"4134290"}}
+	{"id":4134290,"type":"buy","buyer":"synergized","seller":"poshtoken","symbol":"CHARY","quantity":"0.110","price":"0.00129334","timestamp":1660532910,"volume":"0.00014227","buyTxId":"cb5e83f4c3a97ac97e1c2226e373c8d68386ef29","sellTxId":"96829f58aa0f0f52882209d1278893161d834eab"}

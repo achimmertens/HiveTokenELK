@@ -1,0 +1,16 @@
+{"index": {"_index":"beer","_id":"3918416"}}
+	{"id":3918416,"type":"buy","buyer":"morzex","seller":"master-lamps","symbol":"BEER","quantity":"5.67371333","price":"0.12337599","timestamp":1657937691,"volume":"0.7","buyTxId":"094c099d08b27954268e4dba5141da6ec89f47bc","sellTxId":"52f90be382a960e9c97fa68628eb5503dcdae961"}
+{"index": {"_index":"beer","_id":"3919128"}}
+	{"id":3919128,"type":"sell","buyer":"master-lamps","seller":"libert","symbol":"BEER","quantity":"0.46","price":"0.09100001","timestamp":1657949859,"volume":"0.04186000","buyTxId":"2ceb837aec04c208d8a9dd9892e67ed4ea7dbfe5","sellTxId":"0cf2328871e491f97b0005b688bcd66307f461e5"}
+{"index": {"_index":"beer","_id":"3919181"}}
+	{"id":3919181,"type":"sell","buyer":"master-lamps","seller":"entrepidus","symbol":"BEER","quantity":"0.07180706","price":"0.09100001","timestamp":1657951020,"volume":"0.00653444","buyTxId":"2ceb837aec04c208d8a9dd9892e67ed4ea7dbfe5","sellTxId":"9d523fbc61a702f699282fcec98025b13f038afd"}
+{"index": {"_index":"beer","_id":"3919413"}}
+	{"id":3919413,"type":"sell","buyer":"master-lamps","seller":"chekohler","symbol":"BEER","quantity":"0.0125003","price":"0.09100001","timestamp":1657955493,"volume":"0.00113753","buyTxId":"2ceb837aec04c208d8a9dd9892e67ed4ea7dbfe5","sellTxId":"0c375d8c624b5d15b8ded8ede794a13ad6c070b5"}
+{"index": {"_index":"beer","_id":"3922495"}}
+	{"id":3922495,"type":"sell","buyer":"master-lamps","seller":"crypto-futurist","symbol":"BEER","quantity":"0.00100000","price":"0.09100001","timestamp":1657997919,"volume":"0.00009100","buyTxId":"2ceb837aec04c208d8a9dd9892e67ed4ea7dbfe5","sellTxId":"4917590e871bee3f9f0797c4e540756891f6a8e0"}
+{"index": {"_index":"beer","_id":"3922821"}}
+	{"id":3922821,"type":"sell","buyer":"master-lamps","seller":"poliwalt10","symbol":"BEER","quantity":"0.27400000","price":"0.09100001","timestamp":1658002011,"volume":"0.02493400","buyTxId":"2ceb837aec04c208d8a9dd9892e67ed4ea7dbfe5","sellTxId":"fdb32232d85781500f5f1aa94caf7e0ed7f83f3e"}
+{"index": {"_index":"beer","_id":"3923757"}}
+	{"id":3923757,"type":"sell","buyer":"master-lamps","seller":"forexbrokr","symbol":"BEER","quantity":"0.22500000","price":"0.09100001","timestamp":1658014803,"volume":"0.02047500","buyTxId":"2ceb837aec04c208d8a9dd9892e67ed4ea7dbfe5","sellTxId":"0bb4c4a133d4626e6d59531399ebe4554a1ab2c8"}
+{"index": {"_index":"beer","_id":"3924074"}}
+	{"id":3924074,"type":"sell","buyer":"master-lamps","seller":"thranax","symbol":"BEER","quantity":"0.06250000","price":"0.09100001","timestamp":1658018250,"volume":"0.00568750","buyTxId":"2ceb837aec04c208d8a9dd9892e67ed4ea7dbfe5","sellTxId":"c9d019744fc14721e294d02173888bb93729c7e1"}

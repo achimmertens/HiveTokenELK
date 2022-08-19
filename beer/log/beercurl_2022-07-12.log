@@ -1,0 +1,14 @@
+{"index": {"_index":"beer","_id":"3885035"}}
+	{"id":3885035,"type":"sell","buyer":"onlydoge","seller":"jjprac","symbol":"BEER","quantity":"1.17047941","price":"0.09010000","timestamp":1657535637,"volume":"0.10546019","buyTxId":"86215c983a5d070a64b21b89d7d830a8bfb2a788","sellTxId":"f332772a13e48d7a6e028058bec67fc971bcfdc6"}
+{"index": {"_index":"beer","_id":"3888059"}}
+	{"id":3888059,"type":"sell","buyer":"onlydoge","seller":"flaxz","symbol":"BEER","quantity":"6.55027796","price":"0.09020000","timestamp":1657575441,"volume":"0.59083507","buyTxId":"77874945534dcfb7b5ac35af35044341b0b9763c","sellTxId":"6dc9e562a8d2c2a2e4b90ad3569457fa23656132"}
+{"index": {"_index":"beer","_id":"3888087"}}
+	{"id":3888087,"type":"sell","buyer":"onlydoge","seller":"aliveprojects","symbol":"BEER","quantity":"53.28201335","price":"0.09020000","timestamp":1657575999,"volume":"4.80603760","buyTxId":"77874945534dcfb7b5ac35af35044341b0b9763c","sellTxId":"cd439fd4e4ed173531648a3cfb0c3b731499336b"}
+{"index": {"_index":"beer","_id":"3888554"}}
+	{"id":3888554,"type":"sell","buyer":"onlydoge","seller":"laritheghost","symbol":"BEER","quantity":"0.32860911","price":"0.09020000","timestamp":1657577961,"volume":"0.02964054","buyTxId":"77874945534dcfb7b5ac35af35044341b0b9763c","sellTxId":"32898fdcc99a78d913f06b7ed0cbfe08ea0090d6"}
+{"index": {"_index":"beer","_id":"3888687"}}
+	{"id":3888687,"type":"sell","buyer":"onlydoge","seller":"mafia.wallet","symbol":"BEER","quantity":"0.028","price":"0.09020000","timestamp":1657579833,"volume":"0.00252560","buyTxId":"77874945534dcfb7b5ac35af35044341b0b9763c","sellTxId":"c61c8761f2aabff60bb8cd08056cd9a5239bb6a7-3"}
+{"index": {"_index":"beer","_id":"3889223"}}
+	{"id":3889223,"type":"sell","buyer":"onlydoge","seller":"steem82868","symbol":"BEER","quantity":"0.01250000","price":"0.09020000","timestamp":1657585113,"volume":"0.00112750","buyTxId":"77874945534dcfb7b5ac35af35044341b0b9763c","sellTxId":"c7ae16cb308cd1c29eee104ce302465bc5e87a01"}
+{"index": {"_index":"beer","_id":"3889851"}}
+	{"id":3889851,"type":"sell","buyer":"fefe99","seller":"crypto-futurist","symbol":"BEER","quantity":"0.00100000","price":"0.09020001","timestamp":1657591680,"volume":"0.00009020","buyTxId":"ed18a6cc999fadeb7cc250f0862b9461051e4edb","sellTxId":"51849f74efba4002ca41fea89ac2ed3d175031de"}
