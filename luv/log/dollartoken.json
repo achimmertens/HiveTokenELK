@@ -454,3 +454,5 @@
 {"token":"luv","timestamp":1668399121,"usd_hive": 0.30138832 ,"hive_token":0.00665102,"usd_token":0.002004}
 {"index": {"_index":"dollartoken"}} 
 {"token":"luv","timestamp":1668485521,"usd_hive": 0.32133908 ,"hive_token":0.00669010,"usd_token":0.002149}
+{"index": {"_index":"dollartoken"}} 
+{"token":"luv","timestamp":1668581722,"usd_hive": 0.33462461 ,"hive_token":0.00669602,"usd_token":0.002240}

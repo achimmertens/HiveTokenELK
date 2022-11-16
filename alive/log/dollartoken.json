@@ -228,3 +228,5 @@
 {"token":"alive","timestamp":1668399241,"usd_hive": 0.30138832 ,"hive_token":0.03099998,"usd_token":0.009343}
 {"index": {"_index":"dollartoken"}} 
 {"token":"alive","timestamp":1668485641,"usd_hive": 0.32133908 ,"hive_token":0.02521001,"usd_token":0.008100}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1668581723,"usd_hive": 0.33462461 ,"hive_token":0.02522002,"usd_token":0.008439}
