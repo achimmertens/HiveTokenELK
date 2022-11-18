@@ -849,3 +849,5 @@
 {"index": {"_index":"dollartoken"}} 
 {"token":"leo","timestamp":1668581718,"usd_hive": 0.33462461 ,"hive_token":0.16612602,"usd_token":0.055589}
 >>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
+{"index": {"_index":"dollartoken"}} 
+{"token":"leo","timestamp":1668751011,"usd_hive": 0.32577694 ,"hive_token":0.15800201,"usd_token":0.051473}

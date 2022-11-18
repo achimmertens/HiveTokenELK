@@ -233,3 +233,5 @@
 {"index": {"_index":"dollartoken"}} 
 {"token":"alive","timestamp":1668581723,"usd_hive": 0.33462461 ,"hive_token":0.02522002,"usd_token":0.008439}
 >>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1668751015,"usd_hive": 0.32577694 ,"hive_token":0.02999499,"usd_token":0.009771}

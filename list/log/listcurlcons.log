@@ -17351,3 +17351,13 @@
 {"index": {"_index":"list","_id":"4796568"}}
 	{"id":4796568,"type":"buy","buyer":"thelogicaldude","seller":"onlydoge","symbol":"LIST","quantity":"396.92980370","price":"0.00349990","timestamp":1668570957,"volume":"1.38921462","buyTxId":"0637f555f53652f1681a4111e861ccbc8bfdd48f","sellTxId":"17090fb0588b7e00ae1345767850580f138544c8"}
 >>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
+{"index": {"_index":"list","_id":"4805809"}}
+	{"id":4805809,"type":"buy","buyer":"dswap","seller":"onlydoge","symbol":"LIST","quantity":"1.08864772","price":"0.00269990","timestamp":1668654990,"volume":"0.00293924","buyTxId":"0e7e535860a375c7ecd3630cc55ee731f4bad4eb","sellTxId":"caf67f9e7bf0703713ae78f797f2ee7e0058cf36"}
+{"index": {"_index":"list","_id":"4807788"}}
+	{"id":4807788,"type":"sell","buyer":"mcbot","seller":"moneymanog","symbol":"LIST","quantity":"0.02785665","price":"0.00230008","timestamp":1668672009,"volume":"0.00006407","buyTxId":"763c2395ca58d68718e1eb580881423b27e0477d-1","sellTxId":"8f3a4ab9eda8d6c7f7ebeb242612ea59dd02fe9b"}
+{"index": {"_index":"list","_id":"4807807"}}
+	{"id":4807807,"type":"sell","buyer":"god0","seller":"lerkfrend","symbol":"LIST","quantity":"20.54216814","price":"0.00230009","timestamp":1668672198,"volume":"0.04724884","buyTxId":"fc8d4734da737af3b8dd893c81b13dcb90b81b5f","sellTxId":"31d0c7422e0f2640ae4b3c4117a8a3c654d3dfba"}
+{"index": {"_index":"list","_id":"4812687"}}
+	{"id":4812687,"type":"sell","buyer":"mcbot","seller":"aweee","symbol":"LIST","quantity":"32.16997125","price":"0.00230008","timestamp":1668718005,"volume":"0.07399351","buyTxId":"f26941d6a28e7403ff847e0a9a0008ff94d2b782-1","sellTxId":"ebc5dabcc9a18b8c83ff907d8b2501d9161c1198"}
+{"index": {"_index":"list","_id":"4812723"}}
+	{"id":4812723,"type":"sell","buyer":"mcbot","seller":"ricestrela","symbol":"LIST","quantity":"2.04485144","price":"0.00230008","timestamp":1668718374,"volume":"0.00470332","buyTxId":"847bc155432538ccfdcb703709eecbf351df2bb3-1","sellTxId":"54b6fe48421d1604da0437de2342ed5924f7966d"}

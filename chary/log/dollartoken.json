@@ -853,3 +853,5 @@
 {"index": {"_index":"dollartoken"}} 
 {"token":"chary","timestamp":1668581716,"usd_hive": 0.33462461 ,"hive_token":0.00000002,"usd_token":00}
 >>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
+{"index": {"_index":"dollartoken"}} 
+{"token":"chary","timestamp":1668751010,"usd_hive": 0.32577694 ,"hive_token":0.00000002,"usd_token":00}

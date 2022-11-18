@@ -21165,3 +21165,13 @@
 {"index": {"_index":"beer","_id":"4797147"}}
 	{"id":4797147,"type":"sell","buyer":"cloudblade","seller":"tdctunes","symbol":"BEER","quantity":"7.84821458","price":"0.03132999","timestamp":1668576156,"volume":"0.24588448","buyTxId":"bbddf37d1e062e3b74e012e5843a2e407e935325","sellTxId":"7b17d8b50122ff53c5a524fcd8607bcf5251a423"}
 >>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
+{"index": {"_index":"beer","_id":"4806176"}}
+	{"id":4806176,"type":"sell","buyer":"cloudblade","seller":"mafia.wallet","symbol":"BEER","quantity":"0.031","price":"0.03132999","timestamp":1668658146,"volume":"0.00097123","buyTxId":"bbddf37d1e062e3b74e012e5843a2e407e935325","sellTxId":"7d30bf040a3793bd3c38f8870a1836ad6829265a-3"}
+{"index": {"_index":"beer","_id":"4806657"}}
+	{"id":4806657,"type":"sell","buyer":"cloudblade","seller":"splinterob","symbol":"BEER","quantity":"0.99232522","price":"0.03132999","timestamp":1668662823,"volume":"0.03108954","buyTxId":"bbddf37d1e062e3b74e012e5843a2e407e935325","sellTxId":"0d3c35f67e6c2b4a3374d51ada2db64bdbb0667b"}
+{"index": {"_index":"beer","_id":"4807103"}}
+	{"id":4807103,"type":"sell","buyer":"cloudblade","seller":"tydynrain","symbol":"BEER","quantity":"0.06250000","price":"0.03132999","timestamp":1668666207,"volume":"0.00195812","buyTxId":"bbddf37d1e062e3b74e012e5843a2e407e935325","sellTxId":"1fe53b1a0801010ba8ad9b781d85d79ae5bb67ea"}
+{"index": {"_index":"beer","_id":"4810151"}}
+	{"id":4810151,"type":"sell","buyer":"cloudblade","seller":"crypto-futurist","symbol":"BEER","quantity":"0.00100000","price":"0.03132999","timestamp":1668698940,"volume":"0.00003133","buyTxId":"bbddf37d1e062e3b74e012e5843a2e407e935325","sellTxId":"9ca0b532584a8d57fab5bba30d543439dea06ec2"}
+{"index": {"_index":"beer","_id":"4814882"}}
+	{"id":4814882,"type":"sell","buyer":"leosoph","seller":"mafia.wallet","symbol":"BEER","quantity":"0.029","price":"0.03200000","timestamp":1668743445,"volume":"0.00092800","buyTxId":"6cba64ebc2932582bcce4a350188c14f17ee6e3f","sellTxId":"780cca1054fc347ef0e1d10ff3ce502cf2e0c70a-3"}
