@@ -575,16 +575,15 @@ Now these visualizations appear under "Saved Object" and can be used in the dash
 The dashboard can be copied and pasted in a similar way, but it is easier for me to create a new one and just add the views.
 
 
-## Kibana set up with new tokens example
+## Kibana set up with new tokens example (exchange "alive" into your token name)
 How to set up Kibana:
 - Go to Kibana Dev-Mode
-- Insert the content of put_leo.json and execute it.
-- execute leocurl_json.sh to fill some data into kibana
-- Create Indexpattern for leo*
-- Export that pattern and search for the ID
+- Insert the content of put_alive.json and execute it.
+- execute alivecurl_json.sh to fill some data into kibana
+- Create an indexpattern for alive and use "alive_index_pattern_id" as the index_pattern_id name. Here is an example ![image](https://user-images.githubusercontent.com/42441871/178261581-b045dfdd-211f-49e7-a948-20eef5cf28b5.png)
 - Edit tokenviews.ndsjon and replace the Ref-ID with the new Indexpattern-ID
-- Import that file into Kibana
-- Adjust the new dashboard with the new views
+- Import that file into Kibana and solve the conflict by chosing the new index in the drop down menu.
+- Adjust if needed the new dashboard and the new views
 
 ----
 # My weekly or monthly service

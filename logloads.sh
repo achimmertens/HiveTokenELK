@@ -1,4 +1,7 @@
 # taken from crontab -l 
+/home/pi/elk/alive/alivecurl_json.sh >> /home/pi/elk/alive/log/cron.log
+/home/pi/elk/lolz/lolzcurl_json.sh >> /home/pi/elk/lolz/log/cron.log
+/home/pi/elk/luv/luvcurl_json.sh >> /home/pi/elk/luv/log/cron.log
 /home/pi/elk/beer/beercurl_json.sh >> /home/pi/elk/beer/log/cron.log
 /home/pi/elk/chary/charycurl_json.sh >> /home/pi/elk/chary/log/cron.log
 /home/pi/elk/pob/pobcurl_json.sh >> /home/pi/elk/pob/log/cron.log
@@ -14,4 +17,7 @@
 /home/pi/elk/pob/dollarpob.sh >> /home/pi/elk/pob/log/cron.log
 /home/pi/elk/sim/dollarsim.sh >> /home/pi/elk/sim/log/cron.log
 /home/pi/elk/spt/dollarspt.sh >> /home/pi/elk/spt/log/cron.log
+/home/pi/elk/luv/dollarluv.sh >> /home/pi/elk/luv/log/cron.log
+/home/pi/elk/lolz/dollarlolz.sh >> /home/pi/elk/lolz/log/cron.log
+/home/pi/elk/alive/dollaralive.sh >> /home/pi/elk/alive/log/cron.log
 
