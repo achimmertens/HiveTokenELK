@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"index": {"_index":"beer","_id":"4776018"}}=
 {"index": {"_index":"beer","_id":"4779397"}}=
 {"index": {"_index":"beer","_id":"4781267"}}=
@@ -6,3 +7,15 @@
 {"index": {"_index":"beer","_id":"4783081"}}=
 {"index": {"_index":"beer","_id":"4784358"}}=
 {"index": {"_index":"beer","_id":"4784818"}}=
+=======
+{"index": {"_index":"beer","_id":"4786798"}}=
+{"index": {"_index":"beer","_id":"4788418"}}=
+{"index": {"_index":"beer","_id":"4791799"}}=
+{"index": {"_index":"beer","_id":"4794600"}}=
+{"index": {"_index":"beer","_id":"4794708"}}=
+{"index": {"_index":"beer","_id":"4794709"}}=
+{"index": {"_index":"beer","_id":"4794710"}}=
+{"index": {"_index":"beer","_id":"4794983"}}=
+{"index": {"_index":"beer","_id":"4796487"}}=
+{"index": {"_index":"beer","_id":"4797147"}}=
+>>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
