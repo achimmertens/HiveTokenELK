@@ -461,3 +461,9 @@
 >>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
 {"index": {"_index":"dollartoken"}} 
 {"token":"luv","timestamp":1668751013,"usd_hive": 0.32577694 ,"hive_token":0.00670000,"usd_token":0.002182}
+{"index": {"_index":"dollartoken"}} 
+{"token":"luv","timestamp":1668831121,"usd_hive": 0.33493217 ,"hive_token":0.01077840,"usd_token":0.003610}
+{"index": {"_index":"dollartoken"}} 
+{"token":"luv","timestamp":1668917521,"usd_hive": 0.36695369 ,"hive_token":0.01077770,"usd_token":0.003954}
+{"index": {"_index":"dollartoken"}} 
+{"token":"luv","timestamp":1669003921,"usd_hive": 0.32119271 ,"hive_token":0.00671400,"usd_token":0.002156}

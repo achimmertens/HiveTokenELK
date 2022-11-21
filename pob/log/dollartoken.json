@@ -851,3 +851,9 @@
 >>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
 {"index": {"_index":"dollartoken"}} 
 {"token":"pob","timestamp":1668751012,"usd_hive": 0.32577694 ,"hive_token":0.02570000,"usd_token":0.008372}
+{"index": {"_index":"dollartoken"}} 
+{"token":"pob","timestamp":1668830941,"usd_hive": 0.33493217 ,"hive_token":0.02590000,"usd_token":0.008674}
+{"index": {"_index":"dollartoken"}} 
+{"token":"pob","timestamp":1668917341,"usd_hive": 0.36695369 ,"hive_token":0.02719699,"usd_token":0.009980}
+{"index": {"_index":"dollartoken"}} 
+{"token":"pob","timestamp":1669003741,"usd_hive": 0.32028394 ,"hive_token":0.03330315,"usd_token":0.010666}
