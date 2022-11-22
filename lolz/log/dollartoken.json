@@ -466,3 +466,5 @@
 {"token":"lolz","timestamp":1668917581,"usd_hive": 0.36695369 ,"hive_token":0.01100001,"usd_token":0.004036}
 {"index": {"_index":"dollartoken"}} 
 {"token":"lolz","timestamp":1669003981,"usd_hive": 0.32119271 ,"hive_token":0.02500000,"usd_token":0.008029}
+{"index": {"_index":"dollartoken"}} 
+{"token":"lolz","timestamp":1669090381,"usd_hive": 0.32439036 ,"hive_token":0.02055000,"usd_token":0.006666}

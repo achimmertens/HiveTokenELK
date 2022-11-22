@@ -844,11 +844,8 @@
 {"token":"beer","timestamp":1668398761,"usd_hive": 0.30138832 ,"hive_token":0.02900106,"usd_token":0.008740}
 {"index": {"_index":"dollartoken"}} 
 {"token":"beer","timestamp":1668485161,"usd_hive": 0.32133908 ,"hive_token":0.03030000,"usd_token":0.009736}
-<<<<<<< HEAD
-=======
 {"index": {"_index":"dollartoken"}} 
 {"token":"beer","timestamp":1668581717,"usd_hive": 0.33462461 ,"hive_token":0.03132999,"usd_token":0.010483}
->>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
 {"index": {"_index":"dollartoken"}} 
 {"token":"beer","timestamp":1668751011,"usd_hive": 0.32577694 ,"hive_token":0.03200000,"usd_token":0.010424}
 {"index": {"_index":"dollartoken"}} 
@@ -857,3 +854,5 @@
 {"token":"beer","timestamp":1668917161,"usd_hive": 0.36695369 ,"hive_token":0.03250000,"usd_token":0.011925}
 {"index": {"_index":"dollartoken"}} 
 {"token":"beer","timestamp":1669003561,"usd_hive": 0.32028394 ,"hive_token":0.03250000,"usd_token":0.010409}
+{"index": {"_index":"dollartoken"}} 
+{"token":"beer","timestamp":1669089961,"usd_hive": 0.32439036 ,"hive_token":0.03750001,"usd_token":0.012164}

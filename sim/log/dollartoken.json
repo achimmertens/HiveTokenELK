@@ -844,11 +844,6 @@
 {"token":"sim","timestamp":1668399001,"usd_hive": 0.30138832 ,"hive_token":0.00035700,"usd_token":0.000107}
 {"index": {"_index":"dollartoken"}} 
 {"token":"sim","timestamp":1668485401,"usd_hive": 0.32133908 ,"hive_token":0.00035300,"usd_token":0.000113}
-<<<<<<< HEAD
-=======
-{"index": {"_index":"dollartoken"}} 
-{"token":"sim","timestamp":1668581720,"usd_hive": 0.33462461 ,"hive_token":0.00035004,"usd_token":0.000117}
->>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
 {"index": {"_index":"dollartoken"}} 
 {"token":"sim","timestamp":1668751012,"usd_hive": 0.32577694 ,"hive_token":0.00034610,"usd_token":0.000112}
 {"index": {"_index":"dollartoken"}} 
@@ -857,3 +852,5 @@
 {"token":"sim","timestamp":1668917401,"usd_hive": 0.36695369 ,"hive_token":0.00034551,"usd_token":0.000126}
 {"index": {"_index":"dollartoken"}} 
 {"token":"sim","timestamp":1669003801,"usd_hive": 0.32119271 ,"hive_token":0.00035500,"usd_token":0.000114}
+{"index": {"_index":"dollartoken"}} 
+{"token":"sim","timestamp":1669090201,"usd_hive": 0.32439036 ,"hive_token":0.00034600,"usd_token":0.000112}

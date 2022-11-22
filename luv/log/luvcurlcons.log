@@ -7452,33 +7452,6 @@
 	{"id":4785068,"type":"sell","buyer":"onlydoge","seller":"bitcoinflood","symbol":"LUV","quantity":"1.00051545","price":"0.00669010","timestamp":1668477972,"volume":"0.00669355","buyTxId":"1c87591ca22ff5be73af32722dd8e8e7dbb18819","sellTxId":"515c835dabc74e034bc304fbf82b1efa83fd324d"}
 {"index": {"_index":"luv","_id":"4785497"}}
 	{"id":4785497,"type":"sell","buyer":"onlydoge","seller":"thisisawesome","symbol":"LUV","quantity":"8","price":"0.00669010","timestamp":1668482199,"volume":"0.05352080","buyTxId":"1c87591ca22ff5be73af32722dd8e8e7dbb18819","sellTxId":"686914964715773b7fcb8443cff89df9e821a75f"}
-<<<<<<< HEAD
-=======
-{"index": {"_index":"luv","_id":"4787605"}}
-	{"id":4787605,"type":"sell","buyer":"hannes-stoffel","seller":"steem82868","symbol":"LUV","quantity":"1.00000000","price":"0.00669500","timestamp":1668504831,"volume":"0.00669500","buyTxId":"af92f9f25b3c33cadc9fd461713f904edb844c5c","sellTxId":"4ef614915d72f544fafbfdb42f4ee0b5843953d9"}
-{"index": {"_index":"luv","_id":"4788295"}}
-	{"id":4788295,"type":"sell","buyer":"hannes-stoffel","seller":"xplosive","symbol":"LUV","quantity":"3.00000000","price":"0.00669500","timestamp":1668511050,"volume":"0.02008500","buyTxId":"af92f9f25b3c33cadc9fd461713f904edb844c5c","sellTxId":"c88f488b46ba2f2c1005752fb9c72ca6bdc64bea"}
-{"index": {"_index":"luv","_id":"4790790"}}
-	{"id":4790790,"type":"sell","buyer":"kvinna","seller":"hatdogsensei","symbol":"LUV","quantity":"3.00000000","price":"0.00669510","timestamp":1668527955,"volume":"0.02008530","buyTxId":"89044b3bbbaade2993a11bc49d6352b919118bc0","sellTxId":"236e4a1d89bc5363bb656d354c0544644a6e88e9"}
-{"index": {"_index":"luv","_id":"4792185"}}
-	{"id":4792185,"type":"sell","buyer":"hannes-stoffel","seller":"ecoinstats","symbol":"LUV","quantity":"61.00000000","price":"0.00669600","timestamp":1668538731,"volume":"0.40845600","buyTxId":"1617537e6fd2f4a55b63764ae3b865fad02888eb","sellTxId":"4fec33f67fe7caf94ebaf2a85f47b54c01058955"}
-{"index": {"_index":"luv","_id":"4792263"}}
-	{"id":4792263,"type":"sell","buyer":"hannes-stoffel","seller":"bokica80","symbol":"LUV","quantity":"1.00000000","price":"0.00669600","timestamp":1668539598,"volume":"0.00669600","buyTxId":"1617537e6fd2f4a55b63764ae3b865fad02888eb","sellTxId":"1f992aa02845fc6aa0f4ca9e1555e034d614327f"}
-{"index": {"_index":"luv","_id":"4793138"}}
-	{"id":4793138,"type":"sell","buyer":"hannes-stoffel","seller":"holdeck","symbol":"LUV","quantity":"1.00000000","price":"0.00669600","timestamp":1668545106,"volume":"0.00669600","buyTxId":"1617537e6fd2f4a55b63764ae3b865fad02888eb","sellTxId":"b59385c218a74dd9839ebd1d3dc0d56b7f3ecf1a"}
-{"index": {"_index":"luv","_id":"4794209"}}
-	{"id":4794209,"type":"sell","buyer":"hannes-stoffel","seller":"bambukah","symbol":"LUV","quantity":"1","price":"0.00669600","timestamp":1668549108,"volume":"0.00669600","buyTxId":"1617537e6fd2f4a55b63764ae3b865fad02888eb","sellTxId":"eca084b058e1ba5e83fc67e00a5e14dc2882b030"}
-{"index": {"_index":"luv","_id":"4795850"}}
-	{"id":4795850,"type":"sell","buyer":"crazyphantombr","seller":"tydynrain","symbol":"LUV","quantity":"1.00000000","price":"0.00669602","timestamp":1668563388,"volume":"0.00669602","buyTxId":"4000f41266aebc30197da8ca08edebaea39931f9","sellTxId":"884e4e8c833e380e1a31979e2177e67aaca6a975"}
-{"index": {"_index":"luv","_id":"4795920"}}
-	{"id":4795920,"type":"sell","buyer":"crazyphantombr","seller":"tydynrain","symbol":"LUV","quantity":"1.00000000","price":"0.00669602","timestamp":1668564099,"volume":"0.00669602","buyTxId":"4000f41266aebc30197da8ca08edebaea39931f9","sellTxId":"b1619c9fa4904ae81cc096b7deb2c30f0c62edbd"}
-{"index": {"_index":"luv","_id":"4796026"}}
-	{"id":4796026,"type":"sell","buyer":"crazyphantombr","seller":"riyuuhi","symbol":"LUV","quantity":"1.00000000","price":"0.00669602","timestamp":1668565419,"volume":"0.00669602","buyTxId":"4000f41266aebc30197da8ca08edebaea39931f9","sellTxId":"13736b6dadd89f15b12d7af24f3203f937609c66"}
-{"index": {"_index":"luv","_id":"4796408"}}
-	{"id":4796408,"type":"buy","buyer":"yisusth","seller":"crazyphantombr","symbol":"LUV","quantity":"7.97259228","price":"0.01078857","timestamp":1668569001,"volume":"0.08601287","buyTxId":"9cdda7d6e2768de68b9693067931c647edb23655","sellTxId":"a0ad56c47fe076504ddb9c178a8940d85f2be83d"}
-{"index": {"_index":"luv","_id":"4796755"}}
-	{"id":4796755,"type":"sell","buyer":"crazyphantombr","seller":"dswap","symbol":"LUV","quantity":"399.23096487","price":"0.00669602","timestamp":1668572673,"volume":"2.67325853","buyTxId":"4000f41266aebc30197da8ca08edebaea39931f9","sellTxId":"815932d0beaaa9240ac2b0f61b489abd06ffdf7f"}
->>>>>>> 556809621f93641c6919026c4f593cd05cb77f80
 {"index": {"_index":"luv","_id":"4806733"}}
 	{"id":4806733,"type":"sell","buyer":"hannes-stoffel","seller":"pousinha","symbol":"LUV","quantity":"2","price":"0.00669800","timestamp":1668663399,"volume":"0.01339600","buyTxId":"5937604c3ad236a1e534e5fc744dd0a89925600a","sellTxId":"6eb393e5581d113cf4c6761ea7a7de0c5b81fee9"}
 {"index": {"_index":"luv","_id":"4807004"}}
@@ -7577,3 +7550,35 @@
 	{"id":4840064,"type":"sell","buyer":"amaari","seller":"criptosectadepit","symbol":"LUV","quantity":"7.00000000","price":"0.00671301","timestamp":1668988287,"volume":"0.04699107","buyTxId":"d679b79578cd5924c6e7a1bacbc78b469848a0c7","sellTxId":"2fcc0f93dd69e722ab3c23cf9e9109aacc0744bd"}
 {"index": {"_index":"luv","_id":"4840768"}}
 	{"id":4840768,"type":"sell","buyer":"hannes-stoffel","seller":"ericburgoyne","symbol":"LUV","quantity":"4.00000000","price":"0.00671400","timestamp":1668995301,"volume":"0.02685600","buyTxId":"7377a96f5c5372ece4abc41505ce4dc6db9ba1d8","sellTxId":"f0bbda1f1f5d82e9ba1a5353dce0c93ea1dd0756"}
+{"index": {"_index":"luv","_id":"4842492"}}
+	{"id":4842492,"type":"sell","buyer":"hannes-stoffel","seller":"cursephantom","symbol":"LUV","quantity":"1.00000000","price":"0.00671500","timestamp":1669017237,"volume":"0.00671500","buyTxId":"02000cd8b8a3da17de37cdd58f30d4864acf9cc1","sellTxId":"eefc76b44be53ab8135378793fa4508e6c1dfcf9"}
+{"index": {"_index":"luv","_id":"4843396"}}
+	{"id":4843396,"type":"sell","buyer":"hannes-stoffel","seller":"milaan","symbol":"LUV","quantity":"1.00000000","price":"0.00671500","timestamp":1669028238,"volume":"0.00671500","buyTxId":"02000cd8b8a3da17de37cdd58f30d4864acf9cc1","sellTxId":"f48eced8bdf0f6f8e3d3c234b344951304a2554c"}
+{"index": {"_index":"luv","_id":"4844775"}}
+	{"id":4844775,"type":"sell","buyer":"master-lamps","seller":"bokica80","symbol":"LUV","quantity":"1.00000000","price":"0.00671505","timestamp":1669042389,"volume":"0.00671505","buyTxId":"9c4687cbd5381fb9b7ccf21985466fbd275e78db","sellTxId":"91f7934f585c78ac42e7b461e44e862ee56b2984"}
+{"index": {"_index":"luv","_id":"4845200"}}
+	{"id":4845200,"type":"sell","buyer":"hannes-stoffel","seller":"cryptochroma","symbol":"LUV","quantity":"1.00000000","price":"0.00671600","timestamp":1669046661,"volume":"0.00671600","buyTxId":"bc909c1b3c01277107e3a9d6543d379661138988","sellTxId":"997ed98d7e8c5b30e4fd88b2ada6511e53355f87"}
+{"index": {"_index":"luv","_id":"4845206"}}
+	{"id":4845206,"type":"sell","buyer":"hannes-stoffel","seller":"hatdogsensei","symbol":"LUV","quantity":"2.00000000","price":"0.00671600","timestamp":1669046709,"volume":"0.01343200","buyTxId":"bc909c1b3c01277107e3a9d6543d379661138988","sellTxId":"e2e23b3967caa9227d9a0c2bf6c5f8ac059fe434"}
+{"index": {"_index":"luv","_id":"4846727"}}
+	{"id":4846727,"type":"sell","buyer":"hannes-stoffel","seller":"magnacarta","symbol":"LUV","quantity":"4","price":"0.00671600","timestamp":1669057068,"volume":"0.02686400","buyTxId":"bc909c1b3c01277107e3a9d6543d379661138988","sellTxId":"4c072cc19c85b492cbc59228ffddb574b267c5aa"}
+{"index": {"_index":"luv","_id":"4847008"}}
+	{"id":4847008,"type":"buy","buyer":"yisusth","seller":"master-lamps","symbol":"LUV","quantity":"1.00000000","price":"0.00989997","timestamp":1669059573,"volume":"0.00989997","buyTxId":"edeef44f7c6e29d3e5aeef235026a9b24ae334c0","sellTxId":"02900905fe43a27847a03664e519ece6c1595336"}
+{"index": {"_index":"luv","_id":"4847009"}}
+	{"id":4847009,"type":"buy","buyer":"yisusth","seller":"master-lamps","symbol":"LUV","quantity":"2.01197995","price":"0.00989998","timestamp":1669059573,"volume":"0.01991856","buyTxId":"edeef44f7c6e29d3e5aeef235026a9b24ae334c0","sellTxId":"09ec1a0fb0a82b54cffddb690e464d45a14eeb96"}
+{"index": {"_index":"luv","_id":"4847010"}}
+	{"id":4847010,"type":"buy","buyer":"yisusth","seller":"ironshield","symbol":"LUV","quantity":"9.00613911","price":"0.00990000","timestamp":1669059573,"volume":"0.08916078","buyTxId":"edeef44f7c6e29d3e5aeef235026a9b24ae334c0","sellTxId":"985385195865924efdca6f13bea4d7a40d436b6c"}
+{"index": {"_index":"luv","_id":"4847011"}}
+	{"id":4847011,"type":"buy","buyer":"yisusth","seller":"leprechaun","symbol":"LUV","quantity":"13.00000000","price":"0.01000000","timestamp":1669059573,"volume":"0.13000000","buyTxId":"edeef44f7c6e29d3e5aeef235026a9b24ae334c0","sellTxId":"a7499244efef3c43a77b6c75f57aab51af4361e5"}
+{"index": {"_index":"luv","_id":"4847012"}}
+	{"id":4847012,"type":"buy","buyer":"yisusth","seller":"onlydoge","symbol":"LUV","quantity":"498.80085460","price":"0.01077690","timestamp":1669059573,"volume":"5.37552693","buyTxId":"edeef44f7c6e29d3e5aeef235026a9b24ae334c0","sellTxId":"b7e9b49c8327b77f36e0e051a8c069b645898816"}
+{"index": {"_index":"luv","_id":"4847134"}}
+	{"id":4847134,"type":"sell","buyer":"master-lamps","seller":"lisamgentile1961","symbol":"LUV","quantity":"1.00000000","price":"0.00671610","timestamp":1669060896,"volume":"0.00671610","buyTxId":"21a448dc55c886a31cdccac9012f213e7195806f","sellTxId":"7bd18ad8bd96e47b5f682ef605954b49c2be37b4"}
+{"index": {"_index":"luv","_id":"4848156"}}
+	{"id":4848156,"type":"sell","buyer":"master-lamps","seller":"noroi","symbol":"LUV","quantity":"1.00000000","price":"0.00671610","timestamp":1669065078,"volume":"0.00671610","buyTxId":"21a448dc55c886a31cdccac9012f213e7195806f","sellTxId":"0ed6c6ac9ca5a7baf35559b8a3e8e94c84dd4f25"}
+{"index": {"_index":"luv","_id":"4848573"}}
+	{"id":4848573,"type":"sell","buyer":"master-lamps","seller":"cursephantom","symbol":"LUV","quantity":"1.00000000","price":"0.00671610","timestamp":1669066821,"volume":"0.00671610","buyTxId":"21a448dc55c886a31cdccac9012f213e7195806f","sellTxId":"5eb89e6774b3e09281ab23d881a75c35f4b55196"}
+{"index": {"_index":"luv","_id":"4851209"}}
+	{"id":4851209,"type":"sell","buyer":"amaari","seller":"invcble","symbol":"LUV","quantity":"0.00006390","price":"0.00671611","timestamp":1669081665,"volume":"0.00000043","buyTxId":"969eb8829d20259bfb2a808804159ecd6629d53c","sellTxId":"1c14c86d6a61f9cd9b73cb37e35428a427e08b41"}
+{"index": {"_index":"luv","_id":"4851846"}}
+	{"id":4851846,"type":"sell","buyer":"onlydoge","seller":"thisisawesome","symbol":"LUV","quantity":"11","price":"0.00671620","timestamp":1669088496,"volume":"0.07387820","buyTxId":"6afef08cd8b88a277e9fb56f40a38af5a3efe9ce","sellTxId":"185a67ef6393f39356da2fddc1048e2070f71e5b"}
