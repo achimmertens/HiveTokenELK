@@ -19,7 +19,8 @@ echo "------------------------------------- Next Token: $TOKEN  ----------------
 echo
 URL="http://localhost:9200/"$TOKEN"/_bulk?";
 echo "The URL is: "$URL;
-DATA=$ELKPATH$TOKEN"/log/"$TOKEN"curlcons.log";
+# DATA=$ELKPATH$TOKEN"/log/"$TOKEN"curlcons.log";
+DATA=$ELKPATH$TOKEN"/log/dollartoken.json";
 echo "The data file is: "$DATA;
 curl --location --request POST $URL --header 'Content-Type: application/json' --data-binary @$DATA;
 done

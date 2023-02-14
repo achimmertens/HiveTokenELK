@@ -1,4 +1,7 @@
 # !/bin/bash
+#
+# If you start from scratch, make sure, that Kibana has been shut down AND elasticsearch has been created from scratch
+#
 # Delete all old indicees in Kibana:
 
 curl --location --request DELETE 'http://localhost:9200/beer' --header 'Content-Type: application/json'
@@ -43,5 +46,7 @@ curl --location --request POST 'http://localhost:9200/lolz/_bulk?' --header 'Con
 # (maybe?) create the index patternview for each indice
 
 # This is new and under construction:
-# curl --location --request PUT 'http://localhost:9200/dollartoken' --header 'Content-Type: application/json' --data-bin @/home/pi/elk/chary/dollarcharyindex.json
-# curl --location --request POST 'http://localhost:9200/dollartoken/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/chary/log/dollarchary.ndjson
+curl --location --request PUT 'http://localhost:9200/dollartoken' --header 'Content-Type: application/json' --data-bin @/home/pi/elk/dollarindex.json
+
+# execute restore-tokenprice.sh
+/home/pi/elk/restore-tokenprice.sh
