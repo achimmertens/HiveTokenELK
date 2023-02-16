@@ -1,4 +1,4 @@
-How to set up Kibana:
+How to set up Kibana manually:
 - Go to Kibana Dev-Mode
 - Delete the index, insert the content of put_index.json, adjust the tokenname and execute it.
 - execute leocurl_json.sh to fill some data into kibana

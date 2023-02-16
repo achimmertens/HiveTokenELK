@@ -422,3 +422,7 @@
 {"token":"alive","timestamp":1676261641,"usd_hive": 0.42403482 ,"hive_token":0.05510301,"usd_token":0.023365}
 {"index": {"_index":"dollartoken"}} 
 {"token":"alive","timestamp":1676348041,"usd_hive": 0.40497357 ,"hive_token":0.05800001,"usd_token":0.023488}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1676434441,"usd_hive": 0.42566313 ,"hive_token":0.05510001,"usd_token":0.023454}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1676520841,"usd_hive": 0.45700191 ,"hive_token":0.03800000,"usd_token":0.017366}

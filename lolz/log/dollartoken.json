@@ -652,3 +652,7 @@
 {"token":"lolz","timestamp":1676261581,"usd_hive": 0.42403482 ,"hive_token":0.00200000,"usd_token":0.000848}
 {"index": {"_index":"dollartoken"}} 
 {"token":"lolz","timestamp":1676347981,"usd_hive": 0.40497357 ,"hive_token":0.00721105,"usd_token":0.002920}
+{"index": {"_index":"dollartoken"}} 
+{"token":"lolz","timestamp":1676434381,"usd_hive": 0.42566313 ,"hive_token":0.00722001,"usd_token":0.003073}
+{"index": {"_index":"dollartoken"}} 
+{"token":"lolz","timestamp":1676520781,"usd_hive": 0.45700191 ,"hive_token":0.01000000,"usd_token":0.004570}

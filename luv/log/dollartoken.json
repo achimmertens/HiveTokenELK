@@ -648,3 +648,7 @@
 {"token":"luv","timestamp":1676261521,"usd_hive": 0.42403482 ,"hive_token":0.00732130,"usd_token":0.003104}
 {"index": {"_index":"dollartoken"}} 
 {"token":"luv","timestamp":1676347921,"usd_hive": 0.40497357 ,"hive_token":0.00732130,"usd_token":0.002964}
+{"index": {"_index":"dollartoken"}} 
+{"token":"luv","timestamp":1676434321,"usd_hive": 0.42566313 ,"hive_token":0.00734000,"usd_token":0.003124}
+{"index": {"_index":"dollartoken"}} 
+{"token":"luv","timestamp":1676520721,"usd_hive": 0.45700191 ,"hive_token":0.00734480,"usd_token":0.003356}

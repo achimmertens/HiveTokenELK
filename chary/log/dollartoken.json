@@ -1042,3 +1042,7 @@
 {"token":"chary","timestamp":1676261101,"usd_hive": 0.42403482 ,"hive_token":0.00000001,"usd_token":00}
 {"index": {"_index":"dollartoken"}} 
 {"token":"chary","timestamp":1676347501,"usd_hive": 0.40497357 ,"hive_token":0.00000001,"usd_token":00}
+{"index": {"_index":"dollartoken"}} 
+{"token":"chary","timestamp":1676433901,"usd_hive": 0.42566313 ,"hive_token":0.00000001,"usd_token":00}
+{"index": {"_index":"dollartoken"}} 
+{"token":"chary","timestamp":1676520301,"usd_hive": 0.45700191 ,"hive_token":0.00000001,"usd_token":00}

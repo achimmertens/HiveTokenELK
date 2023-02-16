@@ -1040,3 +1040,7 @@
 {"token":"list","timestamp":1676261281,"usd_hive": 0.42403482 ,"hive_token":0.00200000,"usd_token":0.000848}
 {"index": {"_index":"dollartoken"}} 
 {"token":"list","timestamp":1676347681,"usd_hive": 0.40497357 ,"hive_token":0.00200000,"usd_token":0.000809}
+{"index": {"_index":"dollartoken"}} 
+{"token":"list","timestamp":1676434081,"usd_hive": 0.42566313 ,"hive_token":0.00200000,"usd_token":0.000851}
+{"index": {"_index":"dollartoken"}} 
+{"token":"list","timestamp":1676520481,"usd_hive": 0.45700191 ,"hive_token":0.00126101,"usd_token":0.000576}
