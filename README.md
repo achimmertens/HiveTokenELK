@@ -63,7 +63,17 @@ comworkio/elasticsearch   latest-arm      bf70c7ec0bb5   3 weeks ago     1.18GB
 Start it again with the right parameters:
 
 > docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" comworkio/elasticsearch:latest-arm
+better:
+> docker run -v /home/pi/elk/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml --name elasti -p 9200:9200 -p 9300:9300 comworkio/elasticsearch:latest-arm
 
+The content of elasticsearch.yml is:
+``` 
+http.cors.enabled : true
+http.cors.allow-origin: "*"
+http.cors.allow-methods: OPTIONS, HEAD, GET, POST, PUT, DELETE
+http.cors.allow-headers: X-Requested-With,X-Auth-Token,Content-Type,Content-Length
+http.cors.allow-credentials: true
+```
 
 Check if it runs:
 >pi@raspberrypi:~/chary $ curl -4 localhost:9200
