@@ -1070,3 +1070,7 @@
 {"token":"chary","timestamp":1677470701,"usd_hive": 0.45631281 ,"hive_token":0.00001000,"usd_token":0.000004}
 {"index": {"_index":"dollartoken"}} 
 {"token":"chary","timestamp":1677557101,"usd_hive": 0.45299303 ,"hive_token":0.00001000,"usd_token":0.000004}
+{"index": {"_index":"dollartoken"}} 
+{"token":"chary","timestamp":1677643501,"usd_hive":,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"chary","timestamp":1677651906,"usd_hive": 0.45423044 ,"hive_token":0.00001000,"usd_token":0.000004}

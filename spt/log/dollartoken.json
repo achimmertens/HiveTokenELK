@@ -1066,3 +1066,7 @@
 {"token":"spt","timestamp":1677471062,"usd_hive": 0.45631281 ,"hive_token":0.00039001,"usd_token":0.000177}
 {"index": {"_index":"dollartoken"}} 
 {"token":"spt","timestamp":1677557461,"usd_hive": 0.45299303 ,"hive_token":0.00040003,"usd_token":0.000181}
+{"index": {"_index":"dollartoken"}} 
+{"token":"spt","timestamp":1677643861,"usd_hive":,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"spt","timestamp":1677651912,"usd_hive": 0.45423044 ,"hive_token":0.00040007,"usd_token":0.000181}
