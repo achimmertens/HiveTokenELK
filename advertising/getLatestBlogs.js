@@ -6,7 +6,7 @@ const url = 'https://api.hive.blog';
 const requestData = {
   jsonrpc: '2.0',
   method: 'condenser_api.get_discussions_by_trending',
-  params: [{ tag: 'test', limit: 20 }],
+  params: [{ tag: 'deutsch', limit: 3 }],
   id: 1,
 };
 
@@ -18,8 +18,9 @@ axios.post(url, requestData, {
 })
   .then(response => {
     const result = response.data.result;
-    const filteredPosts = result.filter(post => post.body.includes('Achim is cool'));
-
+   // const filteredPosts = result.filter(post => post.body.includes('Achim is cool'));
+    const filteredPosts = result //.filter(post => post.body.includes('Achim is cool'));
+    
     // Felder auswählen und in die Log-Datei schreiben
     const logData = filteredPosts.map(post => {
       return {
