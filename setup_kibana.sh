@@ -1,4 +1,7 @@
 # !/bin/bash
+#
+# If you start from scratch, make sure, that Kibana has been shut down AND elasticsearch has been created from scratch
+#
 # Delete all old indicees in Kibana:
 
 curl --location --request DELETE 'http://localhost:9200/beer' --header 'Content-Type: application/json'
@@ -25,6 +28,7 @@ curl --location --request PUT 'http://localhost:9200/spt' --header 'Content-Type
 curl --location --request PUT 'http://localhost:9200/alive' --header 'Content-Type: application/json' --data-bin @put_index.json
 curl --location --request PUT 'http://localhost:9200/luv' --header 'Content-Type: application/json' --data-bin @put_index.json
 curl --location --request PUT 'http://localhost:9200/lolz' --header 'Content-Type: application/json' --data-bin @put_index.json
+curl --location --request PUT 'http://localhost:9200/dollartoken' --header 'Content-Type: application/json' --data-bin @/home/pi/elk/dollarindex.json
 
 # bulkload the consolidated data for each token
 curl --location --request POST 'http://localhost:9200/beer/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/beer/log/beercurlcons.log
@@ -39,9 +43,9 @@ curl --location --request POST 'http://localhost:9200/alive/_bulk?' --header 'Co
 curl --location --request POST 'http://localhost:9200/luv/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/luv/log/luvcurlcons.log
 curl --location --request POST 'http://localhost:9200/lolz/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/lolz/log/lolzcurlcons.log
 
-# Now upload "All_kibana_objects.ndjson
-# (maybe?) create the index patternview for each indice
+# execute restore-tokenprice.sh
+/home/pi/elk/restore-tokenprice.sh
 
-# This is new and under construction:
-# curl --location --request PUT 'http://localhost:9200/dollartoken' --header 'Content-Type: application/json' --data-bin @/home/pi/elk/chary/dollarcharyindex.json
-# curl --location --request POST 'http://localhost:9200/dollartoken/_bulk?' --header 'Content-Type: application/json' --data-binary @/home/pi/elk/chary/log/dollarchary.ndjson
+
+# Now upload "All_kibana_objects.ndjson manually (Kibana/Management/saved objects/import)
+

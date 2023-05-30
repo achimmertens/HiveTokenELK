@@ -1,1 +1,1 @@
-{"_id":4353053,"type":"sell","buyer":"metzli","seller":"eddiespino","symbol":"CHARY","quantity":"1.000","price":"0.00000002","timestamp":1663217277,"volume":"0.00000002","buyTxId":"4ea19db681319f99a05b3807a60e5d86c1a3951e","sellTxId":"5760e250f721cefa5994e4a3b0567f7a10acd222"
+{"_id":5570668,"type":"sell","buyer":"eirik","seller":"cranium","symbol":"CHARY","quantity":"700.903","price":"0.00001000","timestamp":1677435567,"volume":"0.00700903","buyTxId":"15a17d198490b4b8e413b970c22c9d900bec7fd3","sellTxId":"2dc39d8d44d52fc5d9a933b6389f56229c7af6cf"
