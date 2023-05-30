@@ -40,3 +40,16 @@ axios.post(url, requestData, {
   .catch(error => {
     console.error('Fehler bei der API-Anfrage:', error);
   });
+
+  const { exec } = require('child_process');
+
+const command = `jq -c '.[] | { "index": { "_index": "hiveblogs" } }, { "author": .author, "permlink": .permlink, "title": .title, "created": .created, "url": .url, "post_id": .post_id }' log.txt | paste -sd'\n' - | curl --location --request POST 'http://localhost:9200/_bulk' --header 'Content-Type: application/x-ndjson' --data-binary @-`;
+
+exec(command, (error, stdout, stderr) => {
+  if (error) {
+    console.error(`Fehler beim Ausführen des jq-paste-curl-Befehls: ${error}`);
+    return;
+  }
+  console.log('der jq-paste-curl-Befehl erfolgreich ausgeführt');
+});
+
