@@ -1,5 +1,13 @@
 const axios = require('axios');
 const fs = require('fs');
+//const { exec } = require('child_process');
+const util = require('util');
+
+
+
+const logFilePath = 'log.txt';
+const transformedLogFilePath = 'log3.txt';
+const elasticsearchUrl = 'http://raspi:9200/_bulk';
 
 // API-Endpunkt und Anfrageparameter
 const url = 'https://api.hive.blog';
@@ -10,6 +18,7 @@ const requestData = {
   id: 1,
 };
 
+/*
 // API-Anfrage senden
 axios.post(url, requestData, {
   headers: {
@@ -33,7 +42,7 @@ axios.post(url, requestData, {
       };
     });
 
-    fs.writeFileSync('log.txt', JSON.stringify(logData, null, 2));
+    fs.writeFileSync(logFilePath, JSON.stringify(logData, null, 2));
 
     console.log('Gefilterte Posts erfolgreich in die Log-Datei geschrieben.');
   })
@@ -41,6 +50,12 @@ axios.post(url, requestData, {
     console.error('Fehler bei der API-Anfrage:', error);
   });
 
+  */
+
+
+
+
+  /*
   const { exec } = require('child_process');
 
 const command = `jq -c '.[] | { "index": { "_index": "hiveblogs" } }, { "author": .author, "permlink": .permlink, "title": .title, "created": .created, "url": .url, "post_id": .post_id }' log.txt | paste -sd'\n' - | curl --location --request POST 'http://localhost:9200/_bulk' --header 'Content-Type: application/x-ndjson' --data-binary @-`;
@@ -52,4 +67,59 @@ exec(command, (error, stdout, stderr) => {
   }
   console.log('der jq-paste-curl-Befehl erfolgreich ausgeführt');
 });
+*/
+
+// Schritt 1: Log-Daten lesen und transformieren
+const readAndTransformLog = () => {
+    const logData = fs.readFileSync(logFilePath, 'utf8');
+    const parsedData = JSON.parse(logData);
+  
+    const transformedData = parsedData.flatMap((item) => [
+      JSON.stringify({ index: { _index: 'hiveblogs' } }),
+      JSON.stringify(item)
+    ]);
+  
+    return transformedData.join('\n');
+  };
+  
+  // Schritt 2: Transformierte Daten in log3.txt speichern
+  const saveTransformedLog = (transformedData) => {
+    fs.writeFileSync(transformedLogFilePath, transformedData);
+  };
+  
+  // Hauptfunktion
+  const transformAndSaveLog = () => {
+    try {
+      const transformedData = readAndTransformLog()+'\n';
+      saveTransformedLog(transformedData);
+      console.log('Log erfolgreich transformiert und in log3.txt gespeichert.');
+    } catch (error) {
+      console.error('Fehler:', error);
+    }
+  };
+  
+  // Skript ausführen
+  transformAndSaveLog();
+
+
+  
+  const transformedData = readAndTransformLog()+'\n';
+  var request = require('request');
+  var options = {
+    'method': 'POST',
+    'url': 'http://raspi:9200/hiveblogs/_bulk?',
+    'headers': {
+      'Content-Type': 'application/json'
+    },
+    body: transformedData
+  };
+
+
+  request(options, function (error, response) {
+    if (error) throw new Error(error);
+    console.log(response.body);
+  });
+
+
+
 
