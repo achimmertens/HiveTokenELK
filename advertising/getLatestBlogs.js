@@ -73,10 +73,12 @@ exec(command, (error, stdout, stderr) => {
 const readAndTransformLog = () => {
     const logData = fs.readFileSync(logFilePath, 'utf8');
     const parsedData = JSON.parse(logData);
+ 
   
     const transformedData = parsedData.flatMap((item) => [
-      JSON.stringify({ index: { _index: 'hiveblogs' } }),
-      JSON.stringify(item)
+      JSON.stringify({ index: { _index: 'hiveblogs',"_id":item.post_id } }),
+      JSON.stringify(item),
+      console.log("Logdata.... ", item.post_id)
     ]);
   
     return transformedData.join('\n');
@@ -106,7 +108,7 @@ const readAndTransformLog = () => {
   const transformedData = readAndTransformLog()+'\n';
   var request = require('request');
   var options = {
-    'method': 'POST',
+    'method': 'PUT',
     'url': 'http://raspi:9200/hiveblogs/_bulk?',
     'headers': {
       'Content-Type': 'application/json'
