@@ -47,6 +47,7 @@ const hiveApiRequest = async () => {
     .catch(error => {
       console.error('Fehler bei der API-Anfrage:', error);
     });
+    return Promise.resolve()
 }
 
 // Log-Daten lesen und transformieren
@@ -78,7 +79,7 @@ const SaveLog = (transformedData) => {
 };
 
 // Transformierte Daten nach ElasticSearch hochladen
-const postToElasticSearch = () => {
+const postToElasticSearch = async () => {
  
   const transformedData = readAndTransformLog() + '\n';
   SaveLog(transformedData);
@@ -95,13 +96,16 @@ const postToElasticSearch = () => {
     if (error) throw new Error(error);
     console.log(response.body);
   });
+  return Promise.resolve()
 }
 
 
 // Main Skripte ausführen
 const main = async () => {
   await hiveApiRequest();
-  postToElasticSearch();
+    setTimeout(async () => {
+    await postToElasticSearch();
+  }, 7000);
 };
 main().catch(error => {
   console.error(`Fehler beim Ausführen des Hauptprogramms: ${error}`);
