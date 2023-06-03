@@ -2,9 +2,6 @@ const axios = require('axios');
 const fs = require('fs');
 //const { exec } = require('child_process');
 const util = require('util');
-
-
-
 const logFilePath = 'hiveApiResult.txt';
 const transformedLogFilePath = 'transformedForElasticSearch.txt';
 const elasticsearchUrl = 'http://raspi:9200/hiveblogs/_bulk?';
@@ -17,7 +14,6 @@ const requestData = {
   params: [{ tag: 'deutsch', limit: 3 }],
   id: 1,
 };
-
 
 // API-Anfrage senden
 const hiveApiRequest = async () => {
@@ -53,15 +49,10 @@ const hiveApiRequest = async () => {
     });
 }
 
-
-
-
-// Schritt 1: Log-Daten lesen und transformieren
+// Log-Daten lesen und transformieren
 const readAndTransformLog = () => {
   const logData = fs.readFileSync(logFilePath, 'utf8');
   const parsedData = JSON.parse(logData);
-
-
   const transformedData = parsedData.flatMap((item) => [
     JSON.stringify({ index: { _index: 'hiveblogs', "_id": item.post_id } }),
     JSON.stringify(item),
@@ -71,28 +62,23 @@ const readAndTransformLog = () => {
   return transformedData.join('\n');
 };
 
-// Schritt 2: Transformierte Daten in log3.txt speichern
+// Transformierte Daten in "transformedForElasticSearch.txt" speichern
 const saveTransformedLog = (transformedData) => {
   fs.writeFileSync(transformedLogFilePath, transformedData);
 };
 
 const transformAndSaveLog = () => {
   try {
-    const transformedData = readAndTransformLog() + '\n';
+    const transformedData = readAndTransformLog();
     saveTransformedLog(transformedData);
-    console.log('Log erfolgreich transformiert und in log3.txt gespeichert.');
+    console.log('Log erfolgreich transformiert und in '+ transformedLogFilePath + 'log3.txt gespeichert.');
   } catch (error) {
     console.error('Fehler:', error);
   }
 };
 
-
-
-// Main Skripte ausführen
-
-const main = async () => {
-  await hiveApiRequest();
-
+// Transformierte Daten nach ElasticSearch hochladen
+const postToElasticSearch = () => {
   transformAndSaveLog();
   const transformedData = readAndTransformLog() + '\n';
   var request = require('request');
@@ -108,9 +94,14 @@ const main = async () => {
     if (error) throw new Error(error);
     console.log(response.body);
   });
+}
 
+
+// Main Skripte ausführen
+const main = async () => {
+  await hiveApiRequest();
+  postToElasticSearch();
 };
-
 main().catch(error => {
   console.error(`Fehler beim Ausführen des Hauptprogramms: ${error}`);
 });
