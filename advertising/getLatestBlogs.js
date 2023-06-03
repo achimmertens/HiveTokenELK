@@ -67,11 +67,11 @@ const saveTransformedLog = (transformedData) => {
   fs.writeFileSync(transformedLogFilePath, transformedData);
 };
 
-const transformAndSaveLog = () => {
+const SaveLog = (transformedData) => {
   try {
-    const transformedData = readAndTransformLog();
+    //const transformedData = readAndTransformLog();
     saveTransformedLog(transformedData);
-    console.log('Log erfolgreich transformiert und in '+ transformedLogFilePath + 'log3.txt gespeichert.');
+    console.log('Log erfolgreich transformiert und in '+ transformedLogFilePath + ' gespeichert.');
   } catch (error) {
     console.error('Fehler:', error);
   }
@@ -79,8 +79,9 @@ const transformAndSaveLog = () => {
 
 // Transformierte Daten nach ElasticSearch hochladen
 const postToElasticSearch = () => {
-  transformAndSaveLog();
+ 
   const transformedData = readAndTransformLog() + '\n';
+  SaveLog(transformedData);
   var request = require('request');
   var options = {
     'method': 'PUT',
