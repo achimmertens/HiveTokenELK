@@ -20,6 +20,12 @@ PUT hiveblogs
       },
       "post_id": {
         "type": "keyword"
+      },
+      "filter": {
+        "type": "keyword"
+      },
+      "tag": {
+        "type": "keyword"
       }
     }
   }
