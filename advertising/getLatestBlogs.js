@@ -37,7 +37,6 @@ const hiveApiRequest = async () => {
       const logData = filteredPosts.map(post => {
         return {
           author: post.author,
-          permlink: post.permlink,
           title: post.title,
           created: post.created,
           url: post.url,

@@ -6,9 +6,6 @@ PUT hiveblogs
       "author": {
         "type": "text"
       },
-      "permlink": {
-        "type": "text"
-      },
       "title": {
         "type": "text"
       },
