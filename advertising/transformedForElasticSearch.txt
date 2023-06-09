@@ -4,6 +4,3 @@
 {"index":{"_index":"hiveblogs","_id":124205707}}
 {"author":"bechibenner","title":"Hiveblog- I hope I can make it to Hivefest // Ich hoffe, ich schaffe es zum Hivefest (ENG/DEU)","created":"2023-06-06T11:44:00","url":"/hive-106258/@bechibenner/hiveblog-i-hope-i-can-make-it-to-hivefest-ich-hoffe-ich-schaffe-es-zum-hivefest-engdeu","post_id":124205707,"filter":"Meetup","tag":"deutsch"}
 
-{"index":{"_index":"hiveblogs","_id":124120619}}
-{"author":"kvinna","title":"5. monatliches Hive- Montags-MeetUP","created":"2023-06-03T12:48:54","url":"/hive-121566/@kvinna/5-monatliches-hive-montags-meetup","post_id":124120619,"filter":"Meetup","tag":"deutsch"}
-
