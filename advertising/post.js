@@ -1,40 +1,29 @@
+import fs from 'fs';
 import hive from '@hiveio/hive-js';
 import config from './config.js';
 
 const privateKey = config.privateKey;
 hive.api.setOptions({ url: 'https://api.hive.blog' });
 
+const parentAuthor = ''; // Leer lassen, da es sich um einen eigenständigen Post handelt
+const parentPermlink = 'eine-kopie-von-achimmertens'; // Permlink des Elternbeitrags, kann frei gewählt werden
 const author = 'anobel';
 const permlink = new Date().toISOString().replace(/[^a-zA-Z0-9]+/g, '').toLowerCase();
-const title = 'Testpost';
-const body = 'Hallo, hier ist anobel. Dies ist mein erster Post seit langem.';
+const title = 'Eine Kopie von achimmertens';
+const bodyFilePath = './body.md';
 
-const jsonMetadata = {
-  tags: ['test'],
-  app: 'test/0.1'
-};
+// Den Inhalt der body.md-Datei lesen
+const body = fs.readFileSync(bodyFilePath, 'utf-8');
 
-const operations = [
-  [
-    'comment',
-    {
-      parent_author: '',
-      parent_permlink: 'test', // Ersetzen Sie 'test' durch den gewünschten Haupt-Tag
-      author: author,
-      permlink: permlink,
-      title: title,
-      body: body,
-      json_metadata: JSON.stringify(jsonMetadata)
-    }
-  ]
-];
-
-hive.broadcast.send(
-  {
-    operations: operations,
-    extensions: []
-  },
-  { posting: privateKey },
+hive.broadcast.comment(
+  privateKey,
+  parentAuthor,
+  parentPermlink,
+  author,
+  permlink,
+  title,
+  body,
+  { tags: ['test'], app: 'test/0.1' },
   function(err, result) {
     console.log(err, result);
   }

@@ -4,14 +4,14 @@ const privateKey = config.privateKey;
 hive.api.setOptions({ url: 'https://api.hive.blog' });
 const voter = 'anobel';
 const author = 'achimmertens';
-const permlink = 'weekly-statistics-for-the-beerbot-rvz3l6';
+const permlink = 'wie-man-mit-javascript-in-die-hive-blockchain-schreibt';
 
 hive.broadcast.vote(
   privateKey,
   voter,
   author,
   permlink,
-  5000,
+  10000,
   function(err, result) {
     console.log(err, result);
   }
