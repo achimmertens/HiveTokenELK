@@ -1,5 +1,6 @@
-{
+{  "type": "module",
   "dependencies": {
+    "@hiveio/hive-js": "^2.0.6",
     "axios": "^1.4.0",
     "node-libcurl": "^3.0.0",
     "request": "^2.88.2"
