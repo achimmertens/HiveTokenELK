@@ -4,8 +4,8 @@ const util = require('util');
 const logFilePath = 'hiveApiResult.txt';
 const transformedLogFilePath = 'transformedForElasticSearch.txt';
 const elasticsearchUrl = 'http://raspi:9200/hiveblogs/_bulk?';
-const filterText = "!CHARY";  // Hier den Suchtext für die Hiveblogs eingeben
-const tag = 'charity'; // Hier den Hive-Tag eingeben (z.B. 'deutsch'), um die Suche einzugrenzen.
+const filterText = "beer";  // Hier den Suchtext für die Hiveblogs eingeben
+const tag = 'beer'; // Hier den Hive-Tag eingeben (z.B. 'deutsch'), um die Suche einzugrenzen.
 const limit = 100; // Hier wird die Anzahl der Blogs limitiert. Es werden nur die letzten $limit Blogs durchsucht.
 
 
