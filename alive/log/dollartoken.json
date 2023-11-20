@@ -454,3 +454,331 @@
 {"token":"alive","timestamp":1677644041,"usd_hive":,"hive_token":,"usd_token":}
 {"index": {"_index":"dollartoken"}} 
 {"token":"alive","timestamp":1677651914,"usd_hive": 0.45423044 ,"hive_token":0.04501500,"usd_token":0.020447}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1686366841,"usd_hive": 0.32164923 ,"hive_token":0.04099800,"usd_token":0.013186}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1686453241,"usd_hive": 0.29323325 ,"hive_token":0.03700001,"usd_token":0.010849}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1686539641,"usd_hive": 0.29131947 ,"hive_token":0.03700001,"usd_token":0.010778}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1686626041,"usd_hive": 0.29729872 ,"hive_token":0.03897964,"usd_token":0.011588}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1686712441,"usd_hive": 0.29478128 ,"hive_token":0.03333352,"usd_token":0.009826}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1686798841,"usd_hive": 0.28127573 ,"hive_token":0.03797977,"usd_token":0.010682}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1686885241,"usd_hive": 0.28132199 ,"hive_token":0.03520500,"usd_token":0.009903}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1686971641,"usd_hive": 0.28503301 ,"hive_token":0.03988000,"usd_token":0.011367}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687058041,"usd_hive": 0.30320951 ,"hive_token":0.03710029,"usd_token":0.011249}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687144441,"usd_hive": 0.29405475 ,"hive_token":0.04000000,"usd_token":0.011762}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687230841,"usd_hive": 0.29280294 ,"hive_token":0.04505003,"usd_token":0.013190}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687317241,"usd_hive": 0.30075833 ,"hive_token":0.05006600,"usd_token":0.015057}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687403641,"usd_hive": 0.31966776 ,"hive_token":0.06979899,"usd_token":0.022312}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687490041,"usd_hive": 0.32512812 ,"hive_token":0.05015500,"usd_token":0.016306}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687576441,"usd_hive": 0.33191619 ,"hive_token":0.04251000,"usd_token":0.014109}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687662841,"usd_hive": 0.3370863 ,"hive_token":0.04006501,"usd_token":0.013505}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687749241,"usd_hive": 0.345316 ,"hive_token":0.04480000,"usd_token":0.015470}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687835641,"usd_hive": 0.33541994 ,"hive_token":0.04005500,"usd_token":0.013435}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1687922041,"usd_hive": 0.33045577 ,"hive_token":0.04100001,"usd_token":0.013548}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688008441,"usd_hive": 0.31480425 ,"hive_token":0.03810000,"usd_token":0.011994}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688094841,"usd_hive": 0.31821496 ,"hive_token":0.04089647,"usd_token":0.013013}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688181241,"usd_hive": 0.32422199 ,"hive_token":0.04439899,"usd_token":0.014395}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688267641,"usd_hive": 0.33143097 ,"hive_token":0.04005506,"usd_token":0.013275}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688354041,"usd_hive": 0.33327896 ,"hive_token":0.04600001,"usd_token":0.015330}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688440441,"usd_hive": 0.33611933 ,"hive_token":0.04600201,"usd_token":0.015462}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688526841,"usd_hive": 0.3395666 ,"hive_token":0.04739699,"usd_token":0.016094}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688613241,"usd_hive": 0.33292701 ,"hive_token":0.04698999,"usd_token":0.015644}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688699641,"usd_hive": 0.32481671 ,"hive_token":0.04058209,"usd_token":0.013181}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688786041,"usd_hive": 0.32459896 ,"hive_token":0.04499199,"usd_token":0.014604}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688872441,"usd_hive": 0.32387796 ,"hive_token":0.04100001,"usd_token":0.013278}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1688958841,"usd_hive": 0.32544336 ,"hive_token":0.04200000,"usd_token":0.013668}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689045241,"usd_hive": 0.33354808 ,"hive_token":0.03660393,"usd_token":0.012209}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689131641,"usd_hive": 0.34727474 ,"hive_token":0.03700000,"usd_token":0.012849}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689218041,"usd_hive": 0.3481555 ,"hive_token":0.03810000,"usd_token":0.013264}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689304441,"usd_hive": 0.36408245 ,"hive_token":0.04006202,"usd_token":0.014585}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689390841,"usd_hive": 0.36830153 ,"hive_token":0.04008801,"usd_token":0.014764}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689477241,"usd_hive": 0.37276722 ,"hive_token":0.04007210,"usd_token":0.014937}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689563641,"usd_hive": 0.36719408 ,"hive_token":0.04499299,"usd_token":0.016521}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689650041,"usd_hive": 0.36212172 ,"hive_token":0.04010000,"usd_token":0.014521}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689736441,"usd_hive": 0.35254177 ,"hive_token":0.04005800,"usd_token":0.014122}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689822841,"usd_hive": 0.36026154 ,"hive_token":0.04115100,"usd_token":0.014825}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689909241,"usd_hive": 0.35324617 ,"hive_token":0.04115100,"usd_token":0.014536}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1689995641,"usd_hive": 0.35844841 ,"hive_token":0.04250000,"usd_token":0.015234}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690082041,"usd_hive": 0.36412936 ,"hive_token":0.04390000,"usd_token":0.015985}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690168441,"usd_hive": 0.36419532 ,"hive_token":0.04130000,"usd_token":0.015041}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690254841,"usd_hive": 0.34866806 ,"hive_token":0.05008800,"usd_token":0.017464}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690341241,"usd_hive": 0.34961681 ,"hive_token":0.05009800,"usd_token":0.017515}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690427641,"usd_hive": 0.35773265 ,"hive_token":0.05006950,"usd_token":0.017911}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690514041,"usd_hive": 0.35674343 ,"hive_token":0.05008801,"usd_token":0.017868}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690600441,"usd_hive": 0.36736851 ,"hive_token":0.05500000,"usd_token":0.020205}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690686841,"usd_hive": 0.37414296 ,"hive_token":0.05008880,"usd_token":0.018740}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690773241,"usd_hive": 0.37460482 ,"hive_token":0.05008880,"usd_token":0.018763}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690859641,"usd_hive": 0.35751966 ,"hive_token":0.05008880,"usd_token":0.017907}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1690946041,"usd_hive": 0.35911242 ,"hive_token":0.05008880,"usd_token":0.017987}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691032441,"usd_hive": 0.35096747 ,"hive_token":0.05008880,"usd_token":0.017579}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691118841,"usd_hive": 0.35014437 ,"hive_token":0.05006927,"usd_token":0.017531}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691205241,"usd_hive": 0.34680977 ,"hive_token":0.05489995,"usd_token":0.019039}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691291641,"usd_hive": 0.34930053 ,"hive_token":0.05200000,"usd_token":0.018163}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691378041,"usd_hive": 0.34836884 ,"hive_token":0.05006915,"usd_token":0.017442}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691464441,"usd_hive": 0.34098552 ,"hive_token":0.05006917,"usd_token":0.017072}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691550841,"usd_hive": 0.34643219 ,"hive_token":0.05006917,"usd_token":0.017345}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691637241,"usd_hive": 0.34264497 ,"hive_token":0.05015501,"usd_token":0.017185}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691723641,"usd_hive": 0.34360969 ,"hive_token":0.05012801,"usd_token":0.017224}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691810041,"usd_hive": 0.34538203 ,"hive_token":0.05500000,"usd_token":0.018996}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691896441,"usd_hive": 0.34735386 ,"hive_token":0.05020000,"usd_token":0.017437}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1691982841,"usd_hive": 0.34331599 ,"hive_token":0.05050002,"usd_token":0.017337}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692069241,"usd_hive": 0.34163618 ,"hive_token":0.05011001,"usd_token":0.017119}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692155641,"usd_hive": 0.32768814 ,"hive_token":0.05010001,"usd_token":0.016417}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692242041,"usd_hive": 0.30577554 ,"hive_token":0.05005250,"usd_token":0.015304}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692328441,"usd_hive": 0.28059733 ,"hive_token":0.04999999,"usd_token":0.014029}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692414841,"usd_hive": 0.29003868 ,"hive_token":0.04500001,"usd_token":0.013051}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692501241,"usd_hive": 0.29409409 ,"hive_token":0.04200000,"usd_token":0.012351}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692587641,"usd_hive": 0.2940353 ,"hive_token":0.04150100,"usd_token":0.012202}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692674041,"usd_hive": 0.28871011 ,"hive_token":0.04171919,"usd_token":0.012044}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692760441,"usd_hive": 0.28356484 ,"hive_token":0.04439998,"usd_token":0.012590}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692846841,"usd_hive": 0.28877023 ,"hive_token":0.04456000,"usd_token":0.012867}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1692933241,"usd_hive": 0.29049218 ,"hive_token":0.04351000,"usd_token":0.012639}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693019641,"usd_hive": 0.29253523 ,"hive_token":0.04500000,"usd_token":0.013164}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693106041,"usd_hive": 0.29103786 ,"hive_token":0.04500111,"usd_token":0.013097}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693192441,"usd_hive": 0.28909423 ,"hive_token":0.04351500,"usd_token":0.012579}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693278841,"usd_hive": 0.28670406 ,"hive_token":0.04000100,"usd_token":0.011468}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693365241,"usd_hive": 0.29042667 ,"hive_token":0.04007501,"usd_token":0.011638}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693451641,"usd_hive": 0.28564406 ,"hive_token":0.04382253,"usd_token":0.012517}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693538041,"usd_hive": 0.27646851 ,"hive_token":0.04101501,"usd_token":0.011339}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693624441,"usd_hive": 0.26695832 ,"hive_token":0.04203201,"usd_token":0.011220}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693710841,"usd_hive": 0.27430701 ,"hive_token":0.04103405,"usd_token":0.011255}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693797241,"usd_hive": 0.27675765 ,"hive_token":0.04200001,"usd_token":0.011623}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693883641,"usd_hive": 0.27160588 ,"hive_token":0.04500151,"usd_token":0.012222}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1693970041,"usd_hive": 0.27622735 ,"hive_token":0.04349999,"usd_token":0.012015}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694056441,"usd_hive": 0.27525459 ,"hive_token":0.04350500,"usd_token":0.011974}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694142841,"usd_hive": 0.27901833 ,"hive_token":0.04101500,"usd_token":0.011443}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694229241,"usd_hive": 0.27595534 ,"hive_token":0.04269969,"usd_token":0.011783}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694315641,"usd_hive": 0.27533602 ,"hive_token":0.04101769,"usd_token":0.011293}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694402041,"usd_hive": 0.2726915 ,"hive_token":0.04140001,"usd_token":0.011289}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694488441,"usd_hive": 0.26609036 ,"hive_token":0.04101888,"usd_token":0.010914}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694574841,"usd_hive": 0.26972067 ,"hive_token":0.04140002,"usd_token":0.011166}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694661241,"usd_hive": 0.27890639 ,"hive_token":0.04140634,"usd_token":0.011548}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694747641,"usd_hive": 0.28947131 ,"hive_token":0.04015500,"usd_token":0.011623}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694834041,"usd_hive": 0.30014568 ,"hive_token":0.04100000,"usd_token":0.012305}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1694920441,"usd_hive": 0.29458992 ,"hive_token":0.03812502,"usd_token":0.011231}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695006841,"usd_hive": 0.2850635 ,"hive_token":0.03600000,"usd_token":0.010262}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695093241,"usd_hive": 0.28803124 ,"hive_token":0.03800001,"usd_token":0.010945}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695179641,"usd_hive": 0.29044138 ,"hive_token":0.03505026,"usd_token":0.010180}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695266041,"usd_hive": 0.29528695 ,"hive_token":0.03700000,"usd_token":0.010925}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695352441,"usd_hive": 0.28947071 ,"hive_token":0.03750000,"usd_token":0.010855}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695438841,"usd_hive": 0.29667401 ,"hive_token":0.03337888,"usd_token":0.009902}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695525241,"usd_hive": 0.29802539 ,"hive_token":0.03200098,"usd_token":0.009537}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695611641,"usd_hive": 0.29376859 ,"hive_token":0.03400213,"usd_token":0.009988}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695698041,"usd_hive": 0.29411698 ,"hive_token":0.03500000,"usd_token":0.010294}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695784441,"usd_hive": 0.29174184 ,"hive_token":0.03411970,"usd_token":0.009954}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695870841,"usd_hive": 0.28985163 ,"hive_token":0.03430000,"usd_token":0.009941}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1695957242,"usd_hive": 0.29841774 ,"hive_token":0.03201001,"usd_token":0.009552}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696043641,"usd_hive": 0.29848126 ,"hive_token":0.03449941,"usd_token":0.010297}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696130041,"usd_hive": 0.30197213 ,"hive_token":0.02500228,"usd_token":0.007549}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696216441,"usd_hive": 0.30731055 ,"hive_token":0.02670137,"usd_token":0.008205}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696302841,"usd_hive": 0.29666977 ,"hive_token":0.02511010,"usd_token":0.007449}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696389241,"usd_hive": 0.29704924 ,"hive_token":0.02520820,"usd_token":0.007488}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696475641,"usd_hive": 0.30343474 ,"hive_token":0.02978925,"usd_token":0.009039}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696562042,"usd_hive": 0.29958369 ,"hive_token":0.02880008,"usd_token":0.008628}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696648441,"usd_hive": 0.30871534 ,"hive_token":0.03390000,"usd_token":0.010465}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696734841,"usd_hive": 0.31112527 ,"hive_token":0.02700003,"usd_token":0.008400}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696821241,"usd_hive": 0.30832538 ,"hive_token":0.02800000,"usd_token":0.008633}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696907641,"usd_hive": 0.29790181 ,"hive_token":0.03189463,"usd_token":0.009501}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1696994041,"usd_hive": 0.29121932 ,"hive_token":0.03005500,"usd_token":0.008752}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697080441,"usd_hive": 0.28834754 ,"hive_token":0.02800000,"usd_token":0.008073}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697166841,"usd_hive": 0.29043153 ,"hive_token":0.02750653,"usd_token":0.007988}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697253241,"usd_hive": 0.29218543 ,"hive_token":0.03288919,"usd_token":0.009609}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697339641,"usd_hive": 0.29150595 ,"hive_token":0.02830640,"usd_token":0.008251}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697426041,"usd_hive": 0.30051441 ,"hive_token":0.02907000,"usd_token":0.008735}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697512441,"usd_hive": 0.30358839 ,"hive_token":0.03099806,"usd_token":0.009410}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697598841,"usd_hive": 0.30330803 ,"hive_token":0.03003334,"usd_token":0.009109}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697685241,"usd_hive": 0.29243431 ,"hive_token":0.03025438,"usd_token":0.008847}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697771641,"usd_hive": 0.2955353 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697858041,"usd_hive": 0.30543181 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1697944441,"usd_hive": 0.32238574 ,"hive_token":0.03000000,"usd_token":0.009671}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698030841,"usd_hive": 0.32697642 ,"hive_token":0.03055000,"usd_token":0.009989}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698117241,"usd_hive": 0.33720019 ,"hive_token":0.03499992,"usd_token":0.011801}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698203641,"usd_hive": 0.33826799 ,"hive_token":0.03121088,"usd_token":0.010557}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698290041,"usd_hive": 0.33746104 ,"hive_token":0.03142065,"usd_token":0.010603}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698376441,"usd_hive": 0.3261466 ,"hive_token":0.03800000,"usd_token":0.012393}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698462841,"usd_hive": 0.32479686 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698552841,"usd_hive": 0.33976391 ,"hive_token":0.03578000,"usd_token":0.012156}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698639241,"usd_hive": 0.34095484 ,"hive_token":0.03110100,"usd_token":0.010604}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698725641,"usd_hive": 0.34057884 ,"hive_token":0.03300298,"usd_token":0.011240}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698812041,"usd_hive": 0.33050945 ,"hive_token":0.03008800,"usd_token":0.009944}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698898441,"usd_hive": 0.34545615 ,"hive_token":0.03050027,"usd_token":0.010536}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1698984841,"usd_hive": 0.3418856 ,"hive_token":0.03301001,"usd_token":0.011285}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699071242,"usd_hive": 0.3490497 ,"hive_token":0.03695999,"usd_token":0.012900}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699157641,"usd_hive": 0.36200784 ,"hive_token":0.03224101,"usd_token":0.011671}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699244041,"usd_hive": 0.35720685 ,"hive_token":0.03500000,"usd_token":0.012502}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699330441,"usd_hive": 0.35660225 ,"hive_token":0.03500004,"usd_token":0.012481}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699416841,"usd_hive": 0.36240866 ,"hive_token":0.03200000,"usd_token":0.011597}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699503241,"usd_hive": 0.38112116 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699589641,"usd_hive": 0.3732862 ,"hive_token":0.03330102,"usd_token":0.012430}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699676041,"usd_hive": 0.3733429 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699762441,"usd_hive": 0.3879223 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699848841,"usd_hive": 0.3826099 ,"hive_token":0.03799000,"usd_token":0.014535}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1699935241,"usd_hive": 0.37101363 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1700021641,"usd_hive": 0.35910531 ,"hive_token":0.03620000,"usd_token":0.012999}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1700108041,"usd_hive": 0.37568997 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1700194441,"usd_hive": 0.36873293 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1700280841,"usd_hive": 0.36627446 ,"hive_token":,"usd_token":}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1700367241,"usd_hive": 0.35811996 ,"hive_token":0.03579997,"usd_token":0.012820}
+{"index": {"_index":"dollartoken"}} 
+{"token":"alive","timestamp":1700453641,"usd_hive": 0.36423838 ,"hive_token":,"usd_token":}
