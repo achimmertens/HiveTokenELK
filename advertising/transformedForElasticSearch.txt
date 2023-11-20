@@ -1,48 +1,78 @@
-{"index":{"_index":"hiveblogs","_id":124274694}}
-{"author":"ninaeatshere","title":"Valhalla -Taberna gastronómica📍Zaragoza [Spa][Eng]","created":"2023-06-08T21:15:18","url":"/hive-100067/@ninaeatshere/valhalla-taberna-gastronomica-zaragoza","post_id":124274694,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124620198}}
+{"author":"fermentedphil","title":"The Best of South African Craft Beer - Drinking and Reviewing Beers of the Capital Craft Beer Festival 2023 (Part 1)","created":"2023-06-20T13:45:24","url":"/hive-187719/@fermentedphil/the-best-of-south-african-craft-beer-drinking-and-reviewing-beers-of-the-capital-craft-beer-festival-2023-part-1","post_id":124620198,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124251862}}
-{"author":"heroldius","title":"BeerSaturday 309 -  Kincho Red (Troglo Birra)","created":"2023-06-08T00:45:03","url":"/hive-187719/@heroldius/beersaturday-309-kincho-red-troglo-birra","post_id":124251862,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124597518}}
+{"author":"hoosie","title":"A few pints out in Edinburgh on Saturday afternoon","created":"2023-06-19T19:45:12","url":"/hive-187719/@hoosie/a-few-pints-out-in-edinburgh-on-saturday-afternoon","post_id":124597518,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124185511}}
-{"author":"rynow","title":"Beer and Pizza","created":"2023-06-05T19:14:15","url":"/beer/@rynow/2b75bc-beer-and-pizza","post_id":124185511,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124538927}}
+{"author":"phortun","title":"Beer Saturday: review of Prokopak Craft Brewery in Prague","created":"2023-06-17T16:37:00","url":"/hive-187719/@phortun/beer-saturday-review-of-prokopak-craft-brewery-in-prague","post_id":124538927,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124091509}}
-{"author":"maitt87","title":"Probando Cervezas Vol. VIII / Tasting Beers Vol. VIII","created":"2023-06-02T10:00:06","url":"/hive-100067/@maitt87/rqqfcmxi","post_id":124091509,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124634354}}
+{"author":"doriscova8","title":"Drinks that inspire//Bebidas que inspiran[ENG-ESP]","created":"2023-06-20T21:42:27","url":"/hive-187719/@doriscova8/drinks-that-inspirebebidas-que-inspiraneng-esp","post_id":124634354,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124228888}}
-{"author":"abeerhunter","title":"Soup Enigma de Garage Beer Co. (Esp-Eng)","created":"2023-06-07T05:24:06","url":"/cervantes/@abeerhunter/soup-enigma-de-garage-beer","post_id":124228888,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124568876}}
+{"author":"godfish","title":"Lobeč Steam-Powered Brewery","created":"2023-06-18T19:32:03","url":"/hive-187719/@godfish/lobec-steam-powered-brewery","post_id":124568876,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124285612}}
-{"author":"abeerhunter","title":"Interference de Deya Brewing (Esp-Eng)","created":"2023-06-09T05:32:00","url":"/cervantes/@abeerhunter/interference-de-deya-brewing-esp","post_id":124285612,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124564403}}
+{"author":"steevc","title":"Beer Saturday: Does anyone like sour beer?","created":"2023-06-18T15:16:45","url":"/beer/@steevc/beer-saturday-does-anyone-like-sour-beer","post_id":124564403,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124129365}}
-{"author":"ablaze","title":"Guinness for Beer Saturday","created":"2023-06-03T19:59:33","url":"/hive-187719/@ablaze/guinness-for-beer-saturday","post_id":124129365,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124534992}}
+{"author":"detlev","title":"A rulles blonde beer from Belgium ","created":"2023-06-17T13:46:00","url":"/hive-187719/@detlev/a-rulles-blonde-beer-from-belgium","post_id":124534992,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124131752}}
-{"author":"handofzara","title":"Wonky Things Happening On This #BEERSATURDAY","created":"2023-06-03T21:47:42","url":"/hive-187719/@handofzara/4qpsex-weekly-silver-report","post_id":124131752,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124557260}}
+{"author":"bucipuci","title":"Keras (#beersaturday - 311)","created":"2023-06-18T07:54:00","url":"/hive-187719/@bucipuci/keras-beersaturday-311","post_id":124557260,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124286238}}
-{"author":"achimmertens","title":"Weekly Statistics For The $BEER Token","created":"2023-06-09T06:12:39","url":"/hive-187719/@achimmertens/weekly-statistics-for-the-dollarbeer-token-rvz2l9","post_id":124286238,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124574801}}
+{"author":"heroldius","title":"BeerSaturday 311 -  Saison Libre (Uniibroue)","created":"2023-06-19T01:09:24","url":"/hive-187719/@heroldius/beersaturday-311-saison-libre-uniibroue","post_id":124574801,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124168760}}
-{"author":"abeerhunter","title":"Soma Sidle Hustle (Esp-Eng)","created":"2023-06-05T05:27:36","url":"/cervantes/@abeerhunter/soma-sidle-hustle-esp-eng","post_id":124168760,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124501694}}
+{"author":"maitt87","title":"Probando Cervezas Vol. IX / Tasting Beers Vol. IX","created":"2023-06-16T10:01:03","url":"/hive-100067/@maitt87/unfsyjzy","post_id":124501694,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124114381}}
-{"author":"sun2023","title":"[Beer] YEBISU, it's a hot day, so it's been a while since I had dinner with a cold beer....","created":"2023-06-03T06:25:51","url":"/hive-187719/@sun2023/beer-yebisu-its-a-hot-day-so-its-been-a-while-since-i-had-dinner-with-a-cold-beer","post_id":124114381,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124549586}}
+{"author":"cmplxty","title":"Double IPA Beer Saturday","created":"2023-06-18T00:31:00","url":"/hive-187719/@cmplxty/double-ipa-beer-saturday","post_id":124549586,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124109908}}
-{"author":"ninong7","title":"Ocean of Beer","created":"2023-06-03T01:00:00","url":"/teamph/@ninong7/ocean-of-beer","post_id":124109908,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124564183}}
+{"author":"eatslance","title":"First Club to experience in BGC","created":"2023-06-18T15:04:30","url":"/hive-147010/@eatslance/first-club-to-experience-in-bgc","post_id":124564183,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124091641}}
-{"author":"achimmertens","title":"Weekly Statistics For The $BEER Token","created":"2023-06-02T10:06:39","url":"/hive-187719/@achimmertens/weekly-statistics-for-the-dollarbeer-token-rvmer4","post_id":124091641,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124549034}}
+{"author":"handofzara","title":"Summer is Here Time For Something a Little Light","created":"2023-06-17T23:55:57","url":"/hive-187719/@handofzara/summer-is-here-time-for-something-a-little-light","post_id":124549034,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124116767}}
-{"author":"slothburn","title":"Burn Post\n\nDaily short one!\n\n#meme #lolz #fun #slothbuzz #pimp #thgaming #hive-eng ...","created":"2023-06-03T08:49:12","url":"/hive-193084/@slothburn/z2k3ggpu8awsl8vl70dvrn","post_id":124116767,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124541906}}
+{"author":"ablaze","title":"Galway Hooker Irish Pale Ale for Beer Saturday","created":"2023-06-17T18:44:48","url":"/hive-187719/@ablaze/galway-hooker-irish-pale-ale-for-beer-saturday","post_id":124541906,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124286600}}
-{"author":"achimmertens","title":"Weekly Statistics for the Beerbot","created":"2023-06-09T06:34:12","url":"/hive-187719/@achimmertens/weekly-statistics-for-the-beerbot-rvz3l6","post_id":124286600,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124533082}}
+{"author":"almi","title":"River nature and beer ","created":"2023-06-17T11:55:30","url":"/photography/@almi/river-nature-and-beer","post_id":124533082,"filter":"beer","tag":"beer"}
 
-{"index":{"_index":"hiveblogs","_id":124241339}}
-{"author":"sun2023","title":"what a nice photo I congratulate you friendLight beer bar at Omokgyo Megabeer Station","created":"2023-06-07T16:36:45","url":"/hive-187719/@sun2023/what-a-nice-photo-i-congratulate-you-friendlight-beer-bar-at-omokgyo-megabeer-station","post_id":124241339,"filter":"beer","tag":"beer"}
+{"index":{"_index":"hiveblogs","_id":124538895}}
+{"author":"jaopalas","title":"Cheers to Love: A Blissful Weekend of Beer 🍻💖✨ Text in English and Pt-br","created":"2023-06-17T16:35:33","url":"/hive-147010/@jaopalas/cheers-to-love-a-blissful-weekend-of-beer-text-in-english-and-pt-br","post_id":124538895,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124469742}}
+{"author":"jacobtothe","title":"Three Widmer Brothers Beers: An Amateurish Review","created":"2023-06-15T04:57:36","url":"/hive-187719/@jacobtothe/three-widmer-brothers-beers-an-amateurish-review","post_id":124469742,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124642436}}
+{"author":"abeerhunter","title":"Avatar NEIPA de Piggy Brewing Co. (Esp-Eng)","created":"2023-06-21T05:22:18","url":"/cervantes/@abeerhunter/avatar-neipa-de-piggy-brewing","post_id":124642436,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124485198}}
+{"author":"bucipuci","title":"Solnice (#beersaturday - 310)","created":"2023-06-15T19:24:06","url":"/hive-187719/@bucipuci/solnice-beersaturday-310","post_id":124485198,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124483763}}
+{"author":"s4b4t0n","title":"Beer Holiday","created":"2023-06-15T18:11:12","url":"/hive-187719/@s4b4t0n/beer-holiday","post_id":124483763,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124441510}}
+{"author":"abeerhunter","title":"DOUBLE SOUP Dipa de Garage Beer Co. (Esp-Eng)","created":"2023-06-14T05:51:27","url":"/cervantes/@abeerhunter/double-soup-dipa-de-garage","post_id":124441510,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124501880}}
+{"author":"achimmertens","title":" Weekly Statistics for the Beerbot","created":"2023-06-16T10:11:54","url":"/hive-187719/@achimmertens/weekly-statistics-for-the-beerbot-rwccbw","post_id":124501880,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124509959}}
+{"author":"pestis","title":"Fat Medusa z kooperacji Browaru Les Intenables Craft Beer (Rosheim – Francja) i Browaru Brasserie Nautile (Rezé – Francja)","created":"2023-06-16T17:18:51","url":"/polish/@pestis/fatmedusazkooperacjibrowarulesintenablescraftbeerrosheimfrancjaibrowarubrasserienautilerezfrancja-b73lp6h774eagfvl625o","post_id":124509959,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124501809}}
+{"author":"achimmertens","title":"Weekly Statistics For The $BEER Token","created":"2023-06-16T10:06:15","url":"/hive-187719/@achimmertens/weekly-statistics-for-the-dollarbeer-token-rwcc2h","post_id":124501809,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124495494}}
+{"author":"gunya-kun","title":"Memories of Patagonia... Patagonia Beer TBT","created":"2023-06-16T04:01:24","url":"/hive-194913/@gunya-kun/memories-of-patagonia-patagonia-beer-tbt","post_id":124495494,"filter":"beer","tag":"beer"}
+
+{"index":{"_index":"hiveblogs","_id":124511968}}
+{"author":"buzweaveryoutube","title":"The Friday Vlog Culture War Losses Causes Media To Spin","created":"2023-06-16T19:04:39","url":"/budlight/@buzweaveryoutube/the-friday-vlog-culture-war-losses-causes-media-to-spin","post_id":124511968,"filter":"beer","tag":"beer"}
 

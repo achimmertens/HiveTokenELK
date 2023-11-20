@@ -1,5 +1,5 @@
-const axios = require('axios');
 const fs = require('fs');
+const axios = require('axios');
 const util = require('util');
 const logFilePath = 'hiveApiResult.txt';
 const transformedLogFilePath = 'transformedForElasticSearch.txt';
@@ -31,6 +31,7 @@ const hiveApiRequest = async () => {
       const result = response.data.result;
       // const filteredPosts = result.filter(post => post.body.includes('Achim is cool'));
       const filteredPosts = result.filter(post => post.body.includes(filterText));
+      console.log(filteredPosts)
 
       // Felder auswählen und in die Log-Datei schreiben
       const logData = filteredPosts.map(post => {

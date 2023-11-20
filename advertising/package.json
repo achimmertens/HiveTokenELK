@@ -1,16 +1,1 @@
-{
-  "dependencies": {
-    "axios": "^1.4.0",
-    "node-libcurl": "^3.0.0",
-    "request": "^2.88.2"
-  },
-  "name": "advertising",
-  "description": "In Kibana muss zuerst der Index wie folgt erstellt werden: PUT hiveblogs {   \"mappings\": {     \"properties\": {       \"author\": {         \"type\": \"text\"       },       \"title\": {         \"type\": \"text\"       },       \"created\": {         \"type\": \"date\"       },       \"url\": {         \"type\": \"text\"       },       \"post_id\": {         \"type\": \"keyword\"       },       \"filter\": {         \"type\": \"keyword\"       },       \"tag\": {         \"type\": \"keyword\"       }     }   } }",
-  "version": "1.0.0",
-  "main": "getLatestBlogs.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Achim Mertens",
-  "license": "ISC"
-}
+{"dependencies":{"@hiveio/hive-js":"^2.0.6","axios":"^1.4.0","mssql":"^9.1.1","mysql":"^2.18.1","node-libcurl":"^3.0.0","request":"^2.88.2","steem":"^0.7.11"},"name":"advertising","description":"In Kibana muss zuerst der Index wie folgt erstellt werden: PUT hiveblogs {   \"mappings\": {     \"properties\": {       \"author\": {         \"type\": \"text\"       },       \"title\": {         \"type\": \"text\"       },       \"created\": {         \"type\": \"date\"       },       \"url\": {         \"type\": \"text\"       },       \"post_id\": {         \"type\": \"keyword\"       },       \"filter\": {         \"type\": \"keyword\"       },       \"tag\": {         \"type\": \"keyword\"       }     }   } }","version":"1.0.0","main":"getLatestBlogs.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"Achim Mertens","license":"ISC"}
