@@ -1,5 +1,5 @@
 Token = chary
-DATE = 2023-11-20
+DATE = 2023-12-08
 LOGPATH = /home/pi/elk/chary/log
 CMC = /home/pi/elk/chary/log/coinmarketcap.tmp
 HIVEPRICE = /home/pi/elk/chary/log/hiveprice.tmp
@@ -7,13 +7,13 @@ LOG = /home/pi/elk/chary/log/charycurl.log
 LOG1 = /home/pi/elk/chary/log/charycurl1.log
 LOG2 = /home/pi/elk/chary/log/charycurl2.log
 LOG3 = /home/pi/elk/chary/log/charycurl3.log
-LOGDATE = /home/pi/elk/chary/log/charycurl_2023-11-20.log
+LOGDATE = /home/pi/elk/chary/log/charycurl_2023-12-08.log
 LOGCONS = /home/pi/elk/chary/log/charycurlcons.log
 INDEXLOG = /home/pi/elk/chary/log/chary_ids.log
 INDEXLOG2 = /home/pi/elk/chary/log/chary_ids2.log
 INDEXLOG3 = /home/pi/elk/chary/log/chary_ids3.log
 CHARYDOLLAR = /home/pi/elk/chary/log/charydollar.tmp
-The price of $USD/$HIVE =  0.36420209
+The price of $USD/$HIVE =  0.37269856
 The price of $HIVE/$CHARY =  0.00000001
 The price of $USD/$CHARY = 0
-{"took":25,"errors":false,"items":[{"index":{"_index":"chary","_type":"_doc","_id":"7826004","_version":3,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":8324,"_primary_term":16,"status":200}}]}
+{"took":32,"errors":false,"items":[{"index":{"_index":"chary","_type":"_doc","_id":"7826004","_version":61,"result":"updated","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":8382,"_primary_term":16,"status":200}}]}
