@@ -1,1 +1,5 @@
 *.log
+
+# Ignoriere große Dateien
+# git rm --cached GROSSE_DATEI
+leo/log/leocurlcons.log
